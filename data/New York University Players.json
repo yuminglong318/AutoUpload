@@ -1,0 +1,3462 @@
+[
+    {
+        "first_name": "Richard",
+        "last_name": "Beggy",
+        "profile picture": "https://gonyuathletics.com/images/2023/2/24/Richard_Beggy.JPG",
+        "school": "Central",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/richardbeggy/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/richard-beggy-515a80225"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Kosta",
+        "last_name": "Mocklis",
+        "profile picture": "https://gonyuathletics.com/images/2023/2/24/AX7J1024.JPG",
+        "school": "Phillips Exeter Academy / Berwick Academy",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/kosta-mocklis-207a99233"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Nick",
+        "last_name": "Argenziano",
+        "profile picture": "https://gonyuathletics.com/images/2023/2/24/AX7J0893.JPG",
+        "school": "Northern Valley Demarest",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/nick.argenziano/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/nicholas-argenziano-56602419b",
+                "https://www.linkedin.com/in/nicholas-argenziano-a98b80b7"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/nick.argenziano.5/"
+            ]
+        }
+    },
+    {
+        "first_name": "Cam",
+        "last_name": "Dunn",
+        "profile picture": "https://gonyuathletics.com/images/2023/2/24/AX7J1022.JPG",
+        "school": "St. Anthony's / Avon Old Farms",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/mildishcambino/",
+                "https://www.instagram.com/cam.dunn4/"
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@cameron..dunn"
+            ],
+            "facebook": [
+                "https://www.facebook.com/cameron.d.dunn/"
+            ]
+        }
+    },
+    {
+        "first_name": "Tucker",
+        "last_name": "McDonough",
+        "profile picture": "https://gonyuathletics.com/images/2023/2/24/AX7J0966.JPG",
+        "school": "Severna Park",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/mcdon0ugh/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/tuckermcdonough"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Russell",
+        "last_name": "Burton",
+        "profile picture": "https://gonyuathletics.com/images/2023/2/24/AX7J0898.JPG",
+        "school": "Harvard-Westlake",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@russellburtonsr"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Harrison",
+        "last_name": "Blueweiss",
+        "profile picture": "https://gonyuathletics.com/images/2023/2/24/AX7J0954.JPG",
+        "school": "IMG Academy",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/h_blueweiss/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Alex",
+        "last_name": "VanLandingham",
+        "profile picture": "https://gonyuathletics.com/images/2023/2/24/AX7J0944.JPG",
+        "school": "The Mount Vernon School",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/alexvanlandingham/",
+                "https://www.instagram.com/alex_vanlandingham/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/alexisvanlandingham"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Nick",
+        "last_name": "McLaughlin",
+        "profile picture": "https://gonyuathletics.com/images/2023/2/24/AX7J0940.JPG",
+        "school": "Delbarton School",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/nickmclaughlin_/",
+                "https://www.instagram.com/mclaughlin_nick/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/nick-mclaughlin"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@nickmclaughlin38",
+                "https://www.tiktok.com/@nickmclaughlin_01"
+            ],
+            "facebook": [
+                "https://www.facebook.com/nicholas.mclaughlin.31/"
+            ]
+        }
+    },
+    {
+        "first_name": "Dakota",
+        "last_name": "Barbet",
+        "profile picture": "https://gonyuathletics.com/images/2022/3/10/1_32_.jpg",
+        "school": "Germantown Academy",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/dakotabarbet_/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/dakota-barbet-b1bb00207",
+                "https://www.linkedin.com/in/dakota-barbet-70477b1b7"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Gabe",
+        "last_name": "LaCagnina",
+        "profile picture": "https://gonyuathletics.com/images/2023/2/24/AX7J0950.JPG",
+        "school": "Naples",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/gabe-lacagnina"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@gabelacagnina"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Joseph",
+        "last_name": "Augustine",
+        "profile picture": "https://gonyuathletics.com/images/2023/2/24/AX7J0917.JPG",
+        "school": "Loyola High School of Los Angeles",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/augie_stne/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/joseph-augustine-2219ba195"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/joseph.augustine.1029/",
+                "https://m.facebook.com/joseph.augustine.5070/"
+            ]
+        }
+    },
+    {
+        "first_name": "Ansel",
+        "last_name": "Balmer",
+        "profile picture": "https://gonyuathletics.com/images/2023/2/24/AX7J0994.JPG",
+        "school": "Jesuit",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/ansel-balmer-662151250"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Mike",
+        "last_name": "Montenegro",
+        "profile picture": "https://gonyuathletics.com/images/2023/2/24/AX7J1028.JPG",
+        "school": "Toms River South",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/mike.montenegro/",
+                "https://www.instagram.com/mike.montenegro/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/michael-montenegro-8b24b2201",
+                "https://www.linkedin.com/in/michael-montenegro-a8b804143"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@.mike.montenegro"
+            ],
+            "facebook": [
+                "https://www.facebook.com/mike.montenegro.984/"
+            ]
+        }
+    },
+    {
+        "first_name": "Ryan",
+        "last_name": "Carr",
+        "profile picture": "https://gonyuathletics.com/images/2023/2/24/AX7J0889.JPG",
+        "school": "Don Bosco Prep",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/ryan_carr44/",
+                "https://www.instagram.com/ryan_carr11/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/ryan-carr-611169144",
+                "https://www.linkedin.com/in/ryan-patrick-carr-8b71b6230"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/ryan.carr.186/"
+            ]
+        }
+    },
+    {
+        "first_name": "Zachary",
+        "last_name": "Cetin",
+        "profile picture": "https://gonyuathletics.com/images/2023/2/24/AX7J0960.JPG",
+        "school": "Newberry",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/ode_tomytravels/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/zachary.cetin.7/"
+            ]
+        }
+    },
+    {
+        "first_name": "Andrew",
+        "last_name": "Reid",
+        "profile picture": "https://gonyuathletics.com/images/2023/2/24/AX7J1010.JPG",
+        "school": "George Ranch",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "baseball",
+        "social": {}
+    },
+    {
+        "first_name": "Ashwin",
+        "last_name": "Chona",
+        "profile picture": "https://gonyuathletics.com/images/2023/2/24/AX7J0900.JPG",
+        "school": "Sage Hill",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/ashwin.chona/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Tyler",
+        "last_name": "Judge",
+        "profile picture": "https://gonyuathletics.com/images/2022/3/10/1_33_.jpg",
+        "school": "The Benjamin School",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/tyler_judge/",
+                "https://www.instagram.com/justice4tylerlewis/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/tyler-judge-236726256",
+                "https://www.linkedin.com/in/tyler-judge-21a6a6262"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/tyjudge/"
+            ]
+        }
+    },
+    {
+        "first_name": "Nate",
+        "last_name": "Pallotta",
+        "profile picture": "https://gonyuathletics.com/images/2023/2/24/AX7J1013.JPG",
+        "school": "Pope John XXII",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/natepallotta/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jason",
+        "last_name": "Pearson",
+        "profile picture": "https://gonyuathletics.com/images/2023/2/24/AX7J0977.JPG",
+        "school": "Monroe Woodbury",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/jsin70/",
+                "https://www.instagram.com/jasonpearr27/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/jason-pearson-3aa0aa229"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@jasonpearr27",
+                "https://www.tiktok.com/@jasonpearson7"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Connor",
+        "last_name": "Roggero",
+        "profile picture": "https://gonyuathletics.com/images/2023/2/24/AX7J0909.JPG",
+        "school": "Loyola High School of Los Angeles",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/connor-roggero",
+                "https://www.linkedin.com/in/connor-roggero-3966b2192"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@notconnoragain"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Joe",
+        "last_name": "Cetale",
+        "profile picture": "https://gonyuathletics.com/images/2023/2/24/AX7J0936.JPG",
+        "school": "La Jolla Country Day",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/joseph-cetale-a9894b25b"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/joe.cetale.5/"
+            ]
+        }
+    },
+    {
+        "first_name": "Max",
+        "last_name": "Oliveira",
+        "profile picture": "https://gonyuathletics.com/images/2023/2/24/AX7J0984.JPG",
+        "school": "Layola Academy",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/maxmomentum/",
+                "https://www.instagram.com/maxoliveira7570/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/maxroliveira"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@max.oliveira.133"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Bruno",
+        "last_name": "Damiani",
+        "profile picture": "https://gonyuathletics.com/images/2023/2/24/AX7J0957.JPG",
+        "school": "Paidiea School",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Dylan",
+        "last_name": "Branca",
+        "profile picture": "https://gonyuathletics.com/images/logos/NYU_monogram.png",
+        "school": "Campbell Hall",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/dylan.branco/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/dylan.branco.1/"
+            ]
+        }
+    },
+    {
+        "first_name": "Hayden",
+        "last_name": "Dearie",
+        "profile picture": "https://gonyuathletics.com/images/logos/NYU_monogram.png",
+        "school": "Lakeside School",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/hayden_dearie/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/hayden.dearie.73/"
+            ]
+        }
+    },
+    {
+        "first_name": "Sean",
+        "last_name": "Bolin",
+        "profile picture": "https://gonyuathletics.com/images/2023/2/24/AX7J0921.JPG",
+        "school": "Argyle",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/bolinsean/",
+                "https://www.instagram.com/biehniac/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Will",
+        "last_name": "Cialone",
+        "profile picture": "https://gonyuathletics.com/images/2023/2/24/AX7J0968.JPG",
+        "school": "Canterbury School",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/willcialone/",
+                "https://www.instagram.com/nyuniversity/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/william-cialone-0622411a3"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Rob",
+        "last_name": "Conklin",
+        "profile picture": "https://gonyuathletics.com/images/2023/2/24/AX7J0933.JPG",
+        "school": "IMG Academy",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/robert_conklin/",
+                "https://www.instagram.com/conklinrob/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/robert-conklin-796234208",
+                "https://www.linkedin.com/in/robconklin"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Christopher",
+        "last_name": "Cheadle",
+        "profile picture": "https://gonyuathletics.com/images/2023/2/24/AX7J0904.JPG",
+        "school": "Stuttgart",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/christopher-cheadle-12a2b6187"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Tyler",
+        "last_name": "Offman",
+        "profile picture": "https://gonyuathletics.com/images/2023/2/24/AX7J0924.JPG",
+        "school": "Vaughan Secondary School",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/tyleroffman/",
+                "https://www.instagram.com/tylerhalverwho/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/tyler.offman.9/"
+            ]
+        }
+    },
+    {
+        "first_name": "Daniel",
+        "last_name": "Chun",
+        "profile picture": "https://gonyuathletics.com/images/2023/2/24/AX7J1000.JPG",
+        "school": "Christian Brothers Academy",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/danielchunny/",
+                "https://www.instagram.com/dklchun/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/daniel-chun-83976220a",
+                "https://www.linkedin.com/in/danielbchun"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@thedanielchun"
+            ],
+            "facebook": [
+                "https://www.facebook.com/daniel.chun.52643/"
+            ]
+        }
+    },
+    {
+        "first_name": "Mason",
+        "last_name": "Clark",
+        "profile picture": "https://gonyuathletics.com/images/2023/2/24/AX7J0997.JPG",
+        "school": "Kings",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/masonjclark/",
+                "https://www.instagram.com/__masonclark/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/mason-clark-27b74827b",
+                "https://www.linkedin.com/in/masonclark"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@mason.clark"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Zach",
+        "last_name": "McCall",
+        "profile picture": "https://gonyuathletics.com/images/2023/2/24/AX7J1005.JPG",
+        "school": "International",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/_zachmccall_/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/zach-mccall-a4640126b",
+                "https://www.linkedin.com/in/zach-mccall-49a5b589"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@zach_mccall",
+                "https://www.tiktok.com/@zachtmccall"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Joseph",
+        "last_name": "Argenziano",
+        "profile picture": "https://gonyuathletics.com/images/2023/2/24/AX7J0929.JPG",
+        "school": "Northern Valley Demarest",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/joe_argenz/",
+                "https://www.instagram.com/joe_argenziano/"
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@joegiuseppi"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "John",
+        "last_name": "Gassler",
+        "profile picture": "https://gonyuathletics.com/images/2023/2/24/AX7J0914.JPG",
+        "school": "Sutherland",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/gassler-john-65702631"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/BayviewIsle/"
+            ]
+        }
+    },
+    {
+        "first_name": "Donald",
+        "last_name": "Sivolella",
+        "profile picture": "https://gonyuathletics.com/images/2023/2/24/AX7J0973.JPG",
+        "school": "The Rivers School",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/dsiv52/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Aidan",
+        "last_name": "Dolinsky",
+        "profile picture": "https://gonyuathletics.com/images/2023/2/24/AX7J0981.JPG",
+        "school": "Hunter College",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Cinque",
+        "last_name": "Stephens",
+        "profile picture": "https://gonyuathletics.com/images/2022/10/26/Cinque_Stephens_pYdXt.JPG",
+        "school": "Wilbraham & Monson",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/nyumenshoops/",
+                "https://www.instagram.com/cinqstep/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/cinque-stephens"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/BretStephensNYT/"
+            ]
+        }
+    },
+    {
+        "first_name": "Michael",
+        "last_name": "Savarino",
+        "profile picture": "https://gonyuathletics.com/images/2022/10/26/Michael_Savarino_JHJKp.JPG",
+        "school": "Durham Academy",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/michael.savarino/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/michael-savarino-73230926b",
+                "https://www.linkedin.com/in/michaelsavarino"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Ephraim",
+        "last_name": "Reed",
+        "profile picture": "https://gonyuathletics.com/images/2022/10/26/Ephraim_Reed_UA9cs.JPG",
+        "school": "St. Stephens & St. Agnes School",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/nyumenshoops/",
+                "https://www.instagram.com/nyumenshoops/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/ephraim-reed-211922203"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/ephraim.reed.7/",
+                "https://m.facebook.com/profile.php"
+            ]
+        }
+    },
+    {
+        "first_name": "Kawika",
+        "last_name": "Akina",
+        "profile picture": "https://gonyuathletics.com/images/2022/10/26/Kawika_Akina_uoHI1.JPG",
+        "school": "Pleasant Grove (Pleasant Grove, UT)",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/kawikaakina/",
+                "https://www.instagram.com/akinakitazawa/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/kawika-akina"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/kawika.b.akina/"
+            ]
+        }
+    },
+    {
+        "first_name": "Holt",
+        "last_name": "Bashinsky",
+        "profile picture": "https://gonyuathletics.com/images/2022/10/26/Holt_Bashinsky_tUGD7.JPG",
+        "school": "Mountain Brook",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/holt-bashinsky-1999371b4"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/holt.bashinsky.9/",
+                "https://www.facebook.com/holt.bashinsky.9/"
+            ]
+        }
+    },
+    {
+        "first_name": "Riyaan",
+        "last_name": "Jiwani",
+        "profile picture": "https://gonyuathletics.com/images/2022/10/26/Riyaan_Jiwani_p08tX.JPG",
+        "school": "Pacifica Christian",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/riyaan.jiwani/",
+                "https://www.instagram.com/nyumenshoops/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/riyaan.jiwani.7/"
+            ]
+        }
+    },
+    {
+        "first_name": "Nikola",
+        "last_name": "Lipovic",
+        "profile picture": "https://gonyuathletics.com/images/2022/10/26//Nik_Lipovic.JPG",
+        "school": "Capistrano Valley",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/nikola-lipovic-99862b23a"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/niklipo/"
+            ]
+        }
+    },
+    {
+        "first_name": "Spencer",
+        "last_name": "Freedman",
+        "profile picture": "https://gonyuathletics.com/images/2022/10/26/Spencer_Freedman_A94Xy.JPG",
+        "school": "Mater Dei",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/spenfree12/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/spencer-freedman-b4938819a",
+                "https://www.linkedin.com/in/spencer-freedman-38421810"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Hayden",
+        "last_name": "Peek",
+        "profile picture": "https://gonyuathletics.com/images/2022/10/26//Hayden_Peek.JPG",
+        "school": "Choate Rosemary Hall",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/hayden.peek/",
+                "https://www.instagram.com/h_j_p44/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/hayden-peek-20a4a5257"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@peek.hayden"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Aidan",
+        "last_name": "Clarke",
+        "profile picture": "https://gonyuathletics.com/images/2022/10/26/Aidan_Clarke_gGcBu.JPG",
+        "school": "Lexington Christian",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/aidyclarke_/",
+                "https://www.instagram.com/aclarke__/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/aiden-clarke-0a14a4134"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/profile.php"
+            ]
+        }
+    },
+    {
+        "first_name": "Quinn",
+        "last_name": "Clark",
+        "profile picture": "https://gonyuathletics.com/images/2022/10/26/Quinn_Clark_XLbI0.JPG",
+        "school": "Gonzaga College H.S.",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/quinnmclark/",
+                "https://www.instagram.com/nyumenshoops/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/quinn-w-clark",
+                "https://www.linkedin.com/in/quinn-a-clark"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/quinn.clark.7965/",
+                "https://www.facebook.com/quinnc3/"
+            ]
+        }
+    },
+    {
+        "first_name": "Zay",
+        "last_name": "Freeney",
+        "profile picture": "https://gonyuathletics.com/images/2022/10/26/Zay_Yta4f.JPG",
+        "school": "South Mountain",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/zayfreeney/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/isaiah-freeney-300498228"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/photo/"
+            ]
+        }
+    },
+    {
+        "first_name": "Eric",
+        "last_name": "Berschadsky",
+        "profile picture": "https://gonyuathletics.com/images/2022/10/26/Eric_B_9Q5sT.JPG",
+        "school": "Tenafly",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/eric-berschadsky-64875b1a1",
+                "https://www.linkedin.com/in/dev-patel21"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@ericnyker",
+                "https://www.tiktok.com/@nyucampusrec"
+            ],
+            "facebook": [
+                "https://www.facebook.com/eric.berschadsky/"
+            ]
+        }
+    },
+    {
+        "first_name": "Matt",
+        "last_name": "Volkening",
+        "profile picture": "https://gonyuathletics.com/images/2022/10/26/Matt_Volkening_HFtY1.JPG",
+        "school": "Marengo Community",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/mvolkes25/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/matthew-carlin-50185942"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "John",
+        "last_name": "Beattie",
+        "profile picture": "https://gonyuathletics.com/images/2022/10/26/John_Beattie_stL2V.JPG",
+        "school": "St. Rose",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/johnrwbeattie/",
+                "https://www.instagram.com/nyumenshoops/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/john-beattie-b2901618"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@thescottish_viking",
+                "https://www.tiktok.com/@johnbeattie04"
+            ],
+            "facebook": [
+                "https://www.facebook.com/john.beattie.35/"
+            ]
+        }
+    },
+    {
+        "first_name": "Chaz",
+        "last_name": "Bond",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/29/Chaz_Bond.JPG",
+        "school": "New Trier",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/chaz-bond"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@chazbond1"
+            ],
+            "facebook": [
+                "https://www.facebook.com/chaz.bond.587/"
+            ]
+        }
+    },
+    {
+        "first_name": "Jackson",
+        "last_name": "McCloskey",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/29/Jackson_McCloskey.JPG",
+        "school": "Pope John Paul II",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/jackson.mccloskey/",
+                "https://www.instagram.com/jacksonmccloskey1/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Luca",
+        "last_name": "Mancuso",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/29/AD6Y0019.JPG",
+        "school": "Montverde Academy",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/luca-mancuso-2065aa236",
+                "https://www.linkedin.com/in/luca-mancuso-81017a217"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@lucamancuso95",
+                "https://www.tiktok.com/@luca._.854"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Johannes",
+        "last_name": "Wolfram",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/29/Johannes_Wolfram.JPG",
+        "school": "The Brook Hill School",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@official_wolframalpha"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Eric",
+        "last_name": "Smits",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/29/Eric_Smits.JPG",
+        "school": "Breck School",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/nyumenssoccer/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/eric-smits-a5464b1a3",
+                "https://www.linkedin.com/in/eric-smith-06b57423b"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@ericnyker"
+            ],
+            "facebook": [
+                "https://www.facebook.com/eric.smits.507/"
+            ]
+        }
+    },
+    {
+        "first_name": "Ben",
+        "last_name": "Richardson",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/29/Ben_Richardson.JPG",
+        "school": "Monta Vista",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/benrichardson/",
+                "https://www.instagram.com/ben_richardson01/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/ben-richardson-5687b4257",
+                "https://www.linkedin.com/in/ben-richardson-10"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@benrichardson4"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Felipe",
+        "last_name": "Remon",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/29/Felipe_lJhLV.JPG",
+        "school": "Ardsley",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/felipe.remon/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/feliperemon"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/felipe.remon.9/"
+            ]
+        }
+    },
+    {
+        "first_name": "Marcelo",
+        "last_name": "Freire",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/29/Marcelo_Friere.JPG",
+        "school": "Oratory Prep",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/drfreire",
+                "https://www.linkedin.com/in/carvalhofreire"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@1234567890mares"
+            ],
+            "facebook": [
+                "https://m.facebook.com/marcelo.freire.92798072/",
+                "https://www.facebook.com/marcelo.freire.92798072/"
+            ]
+        }
+    },
+    {
+        "first_name": "Joss",
+        "last_name": "Cohen",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/29/Joss_Cohen.JPG",
+        "school": "Calabasas",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/joss-cohen-71b357258",
+                "https://www.linkedin.com/in/joss-cohen-6b7394120"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/joss.cohen.7/"
+            ]
+        }
+    },
+    {
+        "first_name": "Alessandro",
+        "last_name": "Nigro",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/29/Alessandro_Nigro.JPG",
+        "school": "St. Stephens School",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/aless_nigr/",
+                "https://www.instagram.com/alessandronigro_/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/alessandro-nigro-7722761b4"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@alesandronigro",
+                "https://www.tiktok.com/@alessandronigro0"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Ben",
+        "last_name": "Trask",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/29/Ben_Trask.JPG",
+        "school": "Sage Creek",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/ben.trask/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/bentrask"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@ben.trask"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Arkan",
+        "last_name": "Tahsildaroglu",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/29/Arkan_Tahsildaroglu.JPG",
+        "school": "Berkshire School (MA)",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/arkan.tahsildaroglu/"
+            ]
+        }
+    },
+    {
+        "first_name": "Bryce",
+        "last_name": "Lexow",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/29/Bryce_Lexow.JPG",
+        "school": "Abington Senior",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/_brycelexow_/",
+                "https://www.instagram.com/nyumenssoccer/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/bryce-lexow-872666231",
+                "https://www.linkedin.com/in/edwin-gutierrez-541aab250"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/photo/"
+            ]
+        }
+    },
+    {
+        "first_name": "Maxwell",
+        "last_name": "McKersie",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/29/Maxwell_McKersie.JPG",
+        "school": "Berkshire School",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/maxy613/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/max-mckersie-b05804186"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@maxwellkrause"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Henry",
+        "last_name": "Hicks",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/29/Henry_Hicks.JPG",
+        "school": "St. Michaels College",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/henry-hicks-iv-790a95156",
+                "https://www.linkedin.com/in/henry-hicks0"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@henry_hicks",
+                "https://www.tiktok.com/@holdingspacewg"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Connor",
+        "last_name": "Reynolds",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/29/Connor_Reynolds.JPG",
+        "school": "Avon Old Farms",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/connor.reyn/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/connor-reynolds-9640251aa"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@conorreynoldsfs"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Rafael",
+        "last_name": "Panero-Ren",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/29/Rafael_Panero-Ren.JPG",
+        "school": "Canyon Crest Academy",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/rafael_panero/",
+                "https://www.instagram.com/nyumenssoccer/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Russell",
+        "last_name": "Koshkin",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/29/Russell_Koshkin.JPG",
+        "school": "Staten Island Tech",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/russellkoshkin"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Terra",
+        "last_name": "Nagai",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/29/Terra_Nagai.JPG",
+        "school": "Chantilly",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/nyumenssoccer/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/terranagai",
+                "https://www.linkedin.com/in/joel-kim-b03633257"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/terra.nagai/"
+            ]
+        }
+    },
+    {
+        "first_name": "Devin",
+        "last_name": "Reinhardt",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/29/Devin_Reinhardt.JPG",
+        "school": "Charlotte Latin School",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/devin-reinhardt",
+                "https://www.linkedin.com/in/devin-reinhardt-802a4413a"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/devin.reinhardt.73/",
+                "https://m.facebook.com/devin.reinhardt.98/"
+            ]
+        }
+    },
+    {
+        "first_name": "Nathan",
+        "last_name": "Bennett",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/29/Nathan_Bennett.JPG",
+        "school": "Wilton",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/imnathanbennett2/",
+                "https://www.instagram.com/nyumenssoccer/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/nathan-bennett-803551277",
+                "https://www.linkedin.com/in/nathan-bennett-5352a874"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@nathan.bennettt",
+                "https://www.tiktok.com/@nathanbennett74"
+            ],
+            "facebook": [
+                "https://www.facebook.com/nathan.bennett.5070/"
+            ]
+        }
+    },
+    {
+        "first_name": "Daniel",
+        "last_name": "Comas-Sanchez",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/29/Daniel_Comas-Sanchez.JPG",
+        "school": "Belen Jesuit Prep",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/annmarie-comas-sanchez-519530226"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/daniel.comassanchez/"
+            ]
+        }
+    },
+    {
+        "first_name": "Felix",
+        "last_name": "Dyckerhoff",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/29/Felix_Dyckerhoff.JPG",
+        "school": "Hong Kong International School",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/felix-dyckerhoff-414a29214"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Ryan",
+        "last_name": "Sze",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/29/Ryan_Sze.JPG",
+        "school": "Lakeridge",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/sze_pak_yan/",
+                "https://www.instagram.com/szean_r/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/ryan-sze-856056256"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Alexander",
+        "last_name": "Kamperin",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/29/Alexander_Kamperin.JPG",
+        "school": "Tamalpais",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/alexander-kamperin-6b03a51b1"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Daniel",
+        "last_name": "Gutierrez",
+        "profile picture": "https://gonyuathletics.com/images/2023/9/7/AD6Y0086_11vlj.png",
+        "school": "Dwight School",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/dgutz089/",
+                "https://www.instagram.com/danny4gtz/"
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@dannymode"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Ahmed",
+        "last_name": "Ibrahim",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/29/Ahmed_Ibrahim.JPG",
+        "school": "Perry Hall",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/ahmedibrahimmusic/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/ahmed-ibrahim-b33814178",
+                "https://www.linkedin.com/in/ibrahimahmed2"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@ahmed_ib9"
+            ],
+            "facebook": [
+                "https://www.facebook.com/ahmed.elkastawy.7/"
+            ]
+        }
+    },
+    {
+        "first_name": "Wesley",
+        "last_name": "Bigbee",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/29/Wesley_Bigbee.JPG",
+        "school": "Powdersville",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/wesley.bigbee/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/wesley-bigbee-83b9b1290",
+                "https://www.linkedin.com/in/wesley-bigbee-2173a719b"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/wesley.bigbee.9/"
+            ]
+        }
+    },
+    {
+        "first_name": "Alvin",
+        "last_name": "Kim",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/29/Alvin_Kim.JPG",
+        "school": "IMG Academy (Bradenton, FL)",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/alvinwkim/",
+                "https://www.instagram.com/the_antivillain/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/alvinkim1"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@vinykim"
+            ],
+            "facebook": [
+                "https://www.facebook.com/alvin.kim.902/"
+            ]
+        }
+    },
+    {
+        "first_name": "Natalie",
+        "last_name": "Pence",
+        "profile picture": "https://gonyuathletics.com/images/2022/11/10/Pence.JPG",
+        "school": "Fox Lane",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/npence/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Chloe",
+        "last_name": "Teter",
+        "profile picture": "https://gonyuathletics.com/images/2022/11/10/Teter.JPG",
+        "school": "Red Bank Regional",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/chloeteter_/",
+                "https://www.instagram.com/nyuwomenshoops/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/chloeteeter"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/chloe.teter.7/"
+            ]
+        }
+    },
+    {
+        "first_name": "Honor",
+        "last_name": "Culpepper",
+        "profile picture": "https://gonyuathletics.com/images/2022/11/10/Culpepper.JPG",
+        "school": "Plant",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/honorculp/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/honor-culpepper-579a84210"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Brooklyn",
+        "last_name": "Shelton",
+        "profile picture": "https://gonyuathletics.com/images/2022/11/10/Shelton.JPG",
+        "school": "Lord Botetourt",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/brooklyn_shelton/",
+                "https://www.instagram.com/iamelijahs_/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/brooklyn-shelton"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@shygamergirl420"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Belle",
+        "last_name": "Pellecchia",
+        "profile picture": "https://gonyuathletics.com/images/2022/11/10/Pellecchia_HS.JPG",
+        "school": "Rutgers Preparatory",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/bellepellec_/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/belle-pellecchia-04630a291"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jordan",
+        "last_name": "Janowski",
+        "profile picture": "https://gonyuathletics.com/images/2022/11/10/Janowski.JPG",
+        "school": "Saddle River Day School",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/jdjanowski/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/jordan-janowski-4a746322b"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Caroline",
+        "last_name": "Peper",
+        "profile picture": "https://gonyuathletics.com/images/2022/11/10/Peper.JPG",
+        "school": "Oliver Ames",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/carolinepepr/",
+                "https://www.instagram.com/caro_pep/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/caroline-peper-013776258",
+                "https://www.linkedin.com/in/carolyn-peper"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@caroline.peper"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Hanna",
+        "last_name": "Thrainsdottir",
+        "profile picture": "https://gonyuathletics.com/images/2022/11/10/Thrainsdottir.JPG",
+        "school": "Menntaskolinn vid Hamrahid",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/hannathrains/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/hannathrains"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/hannathrains/",
+                "https://m.facebook.com/hannathrains/"
+            ]
+        }
+    },
+    {
+        "first_name": "Erica",
+        "last_name": "Miller",
+        "profile picture": "https://gonyuathletics.com/images/2022/11/10/Miller.JPG",
+        "school": "Carondelet",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/erica__miller/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/erica-miller-091487231",
+                "https://www.linkedin.com/in/erica-miller-24717173"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@ericamiller96"
+            ],
+            "facebook": [
+                "https://m.facebook.com/erica.miller.33/"
+            ]
+        }
+    },
+    {
+        "first_name": "Annie",
+        "last_name": "Carlile",
+        "profile picture": "https://gonyuathletics.com/images/2022/11/10/Carlile.JPG",
+        "school": "Barbers Hill",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/annie.carlile/",
+                "https://www.instagram.com/annie.carlile/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/annie-carlile-655853230",
+                "https://www.linkedin.com/in/annie-carlile-1ba6761a2"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@annie.carlile"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jenny",
+        "last_name": "Walker",
+        "profile picture": "https://gonyuathletics.com/images/2022/11/10/Walker.JPG",
+        "school": "Redwood",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/walker_jenny/",
+                "https://www.instagram.com/jenny.walkerr/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/jenny-walker-624803202"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/jennifer.walker.9674/"
+            ]
+        }
+    },
+    {
+        "first_name": "Reese",
+        "last_name": "Tremitiere",
+        "profile picture": "https://gonyuathletics.com/images/2022/11/10/Tremitiere.JPG",
+        "school": "Gulf Coast",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/nyuniversity/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/erica-miller-091487231"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Alyssa",
+        "last_name": "Alvarez",
+        "profile picture": "https://gonyuathletics.com/images/2022/11/10/Alvarez.jpeg",
+        "school": "Convent of the Sacred Heart",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@alyssaalvarez"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Natalie",
+        "last_name": "Bruns",
+        "profile picture": "https://gonyuathletics.com/images/2022/11/10/Bruns.JPG",
+        "school": "Kirkwood",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/natbruns/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/natalie-bruns-665a45210"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Mary",
+        "last_name": "Kate Fahey",
+        "profile picture": "https://gonyuathletics.com/images/2022/11/10/Fahey.JPG",
+        "school": "John Hersey",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/mkfahey11/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/marykatefahey"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@maaryykaatee"
+            ],
+            "facebook": [
+                "https://www.facebook.com/marykate.fahey/"
+            ]
+        }
+    },
+    {
+        "first_name": "Zoe",
+        "last_name": "Makler",
+        "profile picture": "https://gonyuathletics.com/images/2022/11/10/Makler.JPG",
+        "school": "Plano West Senior",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/nyuwomenshoops/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/erica-miller-091487231"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/zoe.makler/"
+            ]
+        }
+    },
+    {
+        "first_name": "Tyler",
+        "last_name": "Hawkins",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/31/Tyler_Hawkins.JPG",
+        "school": "Freeport",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/tyler-hawkins-a190141aa"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@tyler.hawkins87"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Riley",
+        "last_name": "Felsher",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/31/Riley_Felsher.JPG",
+        "school": "Princeton Day School",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/riley_felsher/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/riley-felsher-65695520a"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Elizabeth",
+        "last_name": "Argenziano",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/31/Elizabeth_Argenziano.JPG",
+        "school": "Northern Valley Demarest",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/eargenziano2/",
+                "https://www.instagram.com/peace_out_bean_sprout_/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Carmen",
+        "last_name": "Cicerini",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/31/Carmen_Cicerini.JPG",
+        "school": "Gates Mills",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/nyuniversity/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/carmen-cicerini-b63a06228"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Eileen",
+        "last_name": "Xu",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/31/Eileen_Xu.JPG",
+        "school": "Dublin",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/elaine_yilinxu/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/eileen-xu9"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/eileen.xu.1865/",
+                "https://www.facebook.com/eileen.xu.1865/"
+            ]
+        }
+    },
+    {
+        "first_name": "Maylin",
+        "last_name": "Carr",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/31/Maylin_Carr.JPG",
+        "school": "Needham",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/sam-mcmorrow-95640b235"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/maylin.carr/"
+            ]
+        }
+    },
+    {
+        "first_name": "Rena",
+        "last_name": "Kalargiros",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/31/Rena_Kalargiros.JPG",
+        "school": "Manhasset",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/rena.kalarg/",
+                "https://www.instagram.com/nyuniversity/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/christos-kalargiros-b9270419"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Summer",
+        "last_name": "Steadman",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/31/Summer_Steadman.JPG",
+        "school": "Henry M. Gunn",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/summer.steadman/",
+                "https://www.instagram.com/nyuniversity/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/luckybunnysd/"
+            ]
+        }
+    },
+    {
+        "first_name": "Samantha",
+        "last_name": "Rathe",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/31/Samantha_Rathe.JPG",
+        "school": "American Heritage School Plantation",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/samantha-rathe-0959a81b7",
+                "https://www.linkedin.com/in/samrathe"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/samantha.rathe.9/"
+            ]
+        }
+    },
+    {
+        "first_name": "Hope",
+        "last_name": "Neale",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/31/Hope_Neal.JPG",
+        "school": "Syosset",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/hope_neale69/",
+                "https://www.instagram.com/hopeneal_/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/hopeneale"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@hope.neal"
+            ],
+            "facebook": [
+                "https://www.facebook.com/hope.neale.1/"
+            ]
+        }
+    },
+    {
+        "first_name": "Bryce",
+        "last_name": "Chan",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/31/AD6Y1320.JPG",
+        "school": "St. Margaret's Episcopal School",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/brycechann/",
+                "https://www.instagram.com/omegapf/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/bryce-chan-91151421b"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@brycechan2"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Allison",
+        "last_name": "Cao",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/31/Allison_Cao.JPG",
+        "school": "Half Hollow Hills West",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/allisoncao_/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/allison-cao",
+                "https://www.linkedin.com/in/allison-cao-15943b201"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@nyuniversity"
+            ],
+            "facebook": [
+                "https://www.facebook.com/allison.cao.127/",
+                "https://www.facebook.com/allison.cao.37/"
+            ]
+        }
+    },
+    {
+        "first_name": "Chloe",
+        "last_name": "Hudson",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/31/Chloe_Hudson.JPG",
+        "school": "Saint Ignatius Prep",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/chloe-hudson-615122261",
+                "https://www.linkedin.com/in/chloe-hudson-832226226"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/profile.php/"
+            ]
+        }
+    },
+    {
+        "first_name": "Dominique",
+        "last_name": "Bevacqua",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/31/Dominque_Bevacqua.JPG",
+        "school": "Mount Saint Dominic Academy",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/dominiquebevacqua/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/dominique-bevacqua-3621911b9"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Rachel",
+        "last_name": "Kim",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/31/Rachel_Kim.JPG",
+        "school": "Boston Latin",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/rachelk1023",
+                "https://www.linkedin.com/in/rachel-kim-520283a8"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@rachelkkiim"
+            ],
+            "facebook": [
+                "https://www.facebook.com/therachokimchii/"
+            ]
+        }
+    },
+    {
+        "first_name": "Gabriella",
+        "last_name": "Funk",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/31/Gabriella_Funk.JPG",
+        "school": "Irvington",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/nyuwomenssoccer/",
+                "https://www.instagram.com/nyuwomenssoccer/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/gabriella-funk",
+                "https://www.linkedin.com/in/gabriella-funk-9b4300172"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@gabriellafunk"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Brooke",
+        "last_name": "Buonomo",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/31/Brooken_Buonomo.JPG",
+        "school": "St. John Vianney",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/brooke-buonomo-91956222a"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Romiana",
+        "last_name": "Witek",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/31/Romiana_Witek.JPG",
+        "school": "St. Thomas Aquinas",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/romi.witek/",
+                "https://www.instagram.com/rona_rose_country/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/lukaszwitek",
+                "https://www.linkedin.com/in/roman-witek-49755835"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Maddy",
+        "last_name": "Xiong",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/31/Maddie_Xiong.JPG",
+        "school": "Clements",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/maddy.xiong/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/maddy-xiong-2727a0251"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Isa",
+        "last_name": "Badillo",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/31/Isa_Badillo.JPG",
+        "school": "Valley Christian",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/isabella-badillo-819402224",
+                "https://www.linkedin.com/in/lisa-badillo-9146597"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@isabadillo1"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Annabelle",
+        "last_name": "Booker",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/31/Annabelle_Booker.JPG",
+        "school": "Perkiomen Valley",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/annabelle-dunn-420428191"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Alexa",
+        "last_name": "Buxbaum",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/31/Alexa_Buxbaum.JPG",
+        "school": "Clarkstown North",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/buxbaumphoto/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/alexandra.buxbaum.1/"
+            ]
+        }
+    },
+    {
+        "first_name": "Sam",
+        "last_name": "Scully",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/31/Samantha_Scully.JPG",
+        "school": "Needham",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/samscully1/",
+                "https://www.instagram.com/samscullystudio/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/samantha-scully-924208b1",
+                "https://www.linkedin.com/in/samantha-scully-a48847250"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/sam.scully.16/"
+            ]
+        }
+    },
+    {
+        "first_name": "Riley",
+        "last_name": "Mullady",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/31/Riley_Mullady.JPG",
+        "school": "Dublin Jerome",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/rimullady/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/riley-mullady-553883257"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@rileymullady"
+            ],
+            "facebook": [
+                "https://www.facebook.com/riley.mullady/"
+            ]
+        }
+    },
+    {
+        "first_name": "Izze",
+        "last_name": "Ching",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/31/Izze_Ching.JPG",
+        "school": "Oakton",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/isabellechiing/",
+                "https://www.instagram.com/izzeofficial/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/NYU/"
+            ]
+        }
+    },
+    {
+        "first_name": "Jayla",
+        "last_name": "Lee",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/31/Jayla_Lee.JPG",
+        "school": "St. Anthony's",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/jayla-lee-b1a9ab1bb"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@jaylalee5"
+            ],
+            "facebook": [
+                "https://m.facebook.com/jayla.lee.395669/"
+            ]
+        }
+    },
+    {
+        "first_name": "Kelli",
+        "last_name": "Keady",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/31/Kelli_Keady.JPG",
+        "school": "Los Gatos",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/kellijedi88/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/kelli-keady"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/kelli.keady/"
+            ]
+        }
+    },
+    {
+        "first_name": "Catie",
+        "last_name": "Collins",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/31/AD6Y1314.JPG",
+        "school": "Scranton Prep",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/catie.collins3/",
+                "https://www.instagram.com/catiec45/"
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@catiecollins3"
+            ],
+            "facebook": [
+                "https://www.facebook.com/catie.collins.338/",
+                "https://m.facebook.com/169392367759991/"
+            ]
+        }
+    },
+    {
+        "first_name": "Jessica",
+        "last_name": "Tonthat",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/31/Jessica_Tonthat.JPG",
+        "school": "Pingree School",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/jesstonthat/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Makenzie",
+        "last_name": "Rodrigues",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/31/Makenzie_Rodrigues.JPG",
+        "school": "Forest Ridge",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/nyuwomenssoccer/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/makenzie-rodrigues-b322aa205"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Hunter",
+        "last_name": "Hoelscher",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/31/Hunter_Hoelscher.JPG",
+        "school": "Saint Mary's Hall",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/copenhagen458/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/hunter-hoelscher-081733259"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/hunter.hoelscher.3/",
+                "https://www.facebook.com/hunter.hoelscher.37/"
+            ]
+        }
+    },
+    {
+        "first_name": "Yukino",
+        "last_name": "Wakatsuki",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/31/Yuki_Wakatsuki.JPG",
+        "school": "Franklin",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/yukino.wakatsuki/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Amanda",
+        "last_name": "Mickwee",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/31/Amanda_Mickwee.JPG",
+        "school": "St. Francis",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Kaitlyn",
+        "last_name": "Sato",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/28/Kaitlyn_Sato.JPG",
+        "school": "Punahou",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/kaitlyn-sato-879b1625b",
+                "https://www.linkedin.com/in/kaitlyn-sato-122a06294"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Alden",
+        "last_name": "Roberts",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/28/Alden_Roberts.JPG",
+        "school": "Norfolk Academy",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/nyuwomensvolley/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/alden-roberts-2b982a23b"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Reilly",
+        "last_name": "Goueth",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/28/Reilly_Goueth.JPG",
+        "school": "Sage Creek",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/reillygoueth.volleyball/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/reilly-goueth-585410273"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@reillygault"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Juliana",
+        "last_name": "Holifield",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/28/Jules_Holifeld.JPG",
+        "school": "American Heritage",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/nyuwomensvolley/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/julianna-holifield-7aab69121"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/juliana.holifield/"
+            ]
+        }
+    },
+    {
+        "first_name": "Catherine",
+        "last_name": "Maffei",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/28/Catherine_Maffei.JPG",
+        "school": "Marymount",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/nyuwomensvolley/",
+                "https://www.instagram.com/nyuwomensvolley/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/catherine-maffei-121235292"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/catherine.maffei.98/"
+            ]
+        }
+    },
+    {
+        "first_name": "Leela",
+        "last_name": "Anvekar",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/28/Leela_Anvekar.JPG",
+        "school": "San Marino",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/leelaanvekar/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/leela-anvekar-576532251"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@leela.anvekar"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Haley",
+        "last_name": "Holz",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/28/Haley_Holz.JPG",
+        "school": "Palatine",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/haley-holz-4699b5202"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@haleyankerholz"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Lauren",
+        "last_name": "Scheffler",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/28/Lauren_Scheffler.JPG",
+        "school": "Saint Francis",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/scheffy101/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/lauren-scheffler-02b576236"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/lauren.scheffler.1/"
+            ]
+        }
+    },
+    {
+        "first_name": "Chloe",
+        "last_name": "Lemons",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/28/Chloe_Lemmons.JPG",
+        "school": "Tracy",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/_chloelemons/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/chloe-lemons-588711291"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@chloe..lemon"
+            ],
+            "facebook": [
+                "https://www.facebook.com/chloe.lemons/"
+            ]
+        }
+    },
+    {
+        "first_name": "Chloe",
+        "last_name": "Hum",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/28/Chloe_Hum.JPG",
+        "school": "Wootten",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/chloe-hum-73b960205"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@chloehum",
+                "https://www.tiktok.com/@nyuwomensvolley"
+            ],
+            "facebook": [
+                "https://m.facebook.com/chloe.hum.96/",
+                "https://www.facebook.com/chloe.hum.9/"
+            ]
+        }
+    },
+    {
+        "first_name": "Grace",
+        "last_name": "Nelson",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/28/Grace_Nelson.JPG",
+        "school": "Westridge",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/grace_nelson19/"
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@gracien135",
+                "https://www.tiktok.com/@gracenelsonn"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jessica",
+        "last_name": "Spierenburg",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/28/Jess_Spierenburg.JPG",
+        "school": "Ramsey",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/jessica.spierenburg/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/jessica-spierenburg-667179266"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Camille",
+        "last_name": "Nazor",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/28/Cami_Nazor.JPG",
+        "school": "Assumption",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/caminazor/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/camille-nazor-4705241b1"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@camillenazor"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Taylor",
+        "last_name": "Esmie",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/28/Taylor_Esmie.JPG",
+        "school": "Blessed Trinity Catholic",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/taylor-esmie-81532b251"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@eilidhgemmell",
+                "https://www.tiktok.com/@uoylibrary"
+            ],
+            "facebook": [
+                "https://www.facebook.com/esme.taylorgrey/"
+            ]
+        }
+    },
+    {
+        "first_name": "Sarah",
+        "last_name": "Lattan",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/28/Sarah_Lattan.JPG",
+        "school": "Pembroke Hill",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/sarahlattan/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/sarah-lattan-4a89ab261",
+                "https://www.linkedin.com/in/sarah-swong-68843ab9"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/photo.php",
+                "https://www.facebook.com/sarah.leshner/"
+            ]
+        }
+    },
+    {
+        "first_name": "Elise",
+        "last_name": "Curtin",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/28/Elise_Curtin.JPG",
+        "school": "Sickles",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/elise-curtin-b564021a1"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@curtinuniversity"
+            ],
+            "facebook": [
+                "https://www.facebook.com/elise.curtin/"
+            ]
+        }
+    },
+    {
+        "first_name": "Taylor",
+        "last_name": "Odum",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/28/Taylor_Odum.JPG",
+        "school": "Memorial",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/trent5taylor/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/taylor-odum-58340324b"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/taylor.odom.739/"
+            ]
+        }
+    },
+    {
+        "first_name": "Ella",
+        "last_name": "Weider",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/28/Ella_Weider.JPG",
+        "school": "Los Gatos",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/nyuwomensvolley/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/ella-weider-551377216"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@nyu_athletics"
+            ],
+            "facebook": [
+                "https://www.facebook.com/ella.weider.9/"
+            ]
+        }
+    },
+    {
+        "first_name": "Eveliena",
+        "last_name": "Pasmooij",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/28/Eveliena_Pasmooji.JPG",
+        "school": "Castilleja",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/nyuwomensvolley/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/evelienapasmooij2255"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Dominique",
+        "last_name": "Drust",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/28/Dominique_Drust.JPG",
+        "school": "Santa Margarita Catholic",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/domidrust/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/dominique-drust-762100251"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Lindsey",
+        "last_name": "Hirano",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/28/Lindsay_Hirano.JPG",
+        "school": "South Pasadena",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/lindsey.c.hirano.9/"
+            ]
+        }
+    },
+    {
+        "first_name": "Olivia",
+        "last_name": "Lewandowski",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/28/Olivia_Lewandowski.JPG",
+        "school": "Del Norte",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/olivia-lewandowski-591084227"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Ava",
+        "last_name": "Launsbach",
+        "profile picture": "https://gonyuathletics.com/images/2023/8/28/Ava_Lausbach.JPG",
+        "school": "Marlborough School",
+        "instagram": null,
+        "university": "New York University",
+        "city": "New York",
+        "state": "New York",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    }
+]

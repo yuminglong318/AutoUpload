@@ -1,0 +1,5410 @@
+[
+    {
+        "first_name": "Carson",
+        "last_name": "Swank",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/4/18/1_Carson_Swank_230203_BSB_MEDIA_DAY-374_xUidx.jpg",
+        "school": "Riverside",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/c_swank7/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/carson-swank-754347213",
+                "https://www.linkedin.com/in/jake-williams-5159a71b1"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "AJ",
+        "last_name": "Gaich",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/4/18/2__AJ_Gaich_230203_BSB_MEDIA_DAY-392_pYrxO.jpg",
+        "school": "St. Ignatius",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/aj-gaich-323a6a1a1"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Tommy",
+        "last_name": "Martin",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/4/18/3_Tommy_Martin_230203_BSB_MEDIA_DAY-746_cTe9S.jpg",
+        "school": "Eastside Catholic",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/tommyamartin/",
+                "https://www.instagram.com/t_martin54/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jimmy",
+        "last_name": "Chatfield",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/4/18/4_Jimmy_Chatfield_230203_BSB_MEDIA_DAY-573_eDRms.jpg",
+        "school": "Parker",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/jimmychatfieldiii/",
+                "https://www.instagram.com/yalebaseball/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Bryant",
+        "last_name": "Reese",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/4/18/5_Bryant_Reese_230203_BSB_MEDIA_DAY-217.jpg",
+        "school": "Harvard-Westlake",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/bryant_reese/",
+                "https://www.instagram.com/bryant_reese/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jake",
+        "last_name": "Williams",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/4/18/6_Jake_Williams_230203_BSB_MEDIA_DAY-810_809sI.jpg",
+        "school": "Franklin Regional",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/jake-williams-5159a71b1"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/keoni.babauta.1/"
+            ]
+        }
+    },
+    {
+        "first_name": "Quinn",
+        "last_name": "Cleary",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/4/18/7_Quinn_Cleary_230203_BSB_MEDIA_DAY-825_MJDrQ.jpg",
+        "school": "St. George's School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/quinncleary_/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/quinn-cleary-94375b182"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@qcpitching"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jeff",
+        "last_name": "Pierantoni",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/4/18/8_Jeff_Pierantoni_230203_BSB_MEDIA_DAY-787_NH76Z.jpg",
+        "school": "Notre Dame",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/jeff.pierantoni.1/"
+            ]
+        }
+    },
+    {
+        "first_name": "Colton",
+        "last_name": "Shaw",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/4/18/9_Colton_Shaw_230203_BSB_MEDIA_DAY-595_CTJMR.jpg",
+        "school": "Plano East",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/colton_shaww/",
+                "https://www.instagram.com/yalebaseball/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/colton-shaw-92a881225",
+                "https://www.linkedin.com/in/coltoneshaw"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Beck",
+        "last_name": "Milner",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/4/18/10_Beck_Milner_230203_BSB_MEDIA_DAY-247_JZ7UV.jpg",
+        "school": "Taft School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Alec",
+        "last_name": "Atkinson",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/4/18/11_Alec_Atkinson_230203_BSB_MEDIA_DAY-094_vfAhw.jpg",
+        "school": "Katy",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/alec-atkinson-782772208"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Davis",
+        "last_name": "Hanson",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/4/18/12_Davis_Hanson_230203_BSB_MEDIA_DAY-328_zCoEt.jpg",
+        "school": "Loomis Chaffee",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/yalebaseball/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/davis-hanson-8993ba238"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Hayden",
+        "last_name": "Sobecki",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/4/18/14_Hayden_Sobecki_230203_BSB_MEDIA_DAY-520_9SGFG.jpg",
+        "school": "Faith Christian",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/haydensobecki/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/hayden.sobs/"
+            ]
+        }
+    },
+    {
+        "first_name": "Clark",
+        "last_name": "Klitenic",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/4/18/15_Clark_Klitenic_230203_BSB_MEDIA_DAY-843_mKSJz.jpg",
+        "school": "St. Albans",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/yalebaseball/",
+                "https://www.instagram.com/yalebaseball/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Tate",
+        "last_name": "Evans",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/4/18/16_Tate_Evans_230203_BSB_MEDIA_DAY-153_XetQj.jpg",
+        "school": "Marcus",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/tate.evans16/",
+                "https://www.instagram.com/tateevanss/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/tate-evans-6a518215"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Luke",
+        "last_name": "Lantz",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/4/18/17_Luke_Lantz_230203_BSB_MEDIA_DAY-139_Y5xnD.jpg",
+        "school": "St. Xavier",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/luke-lantz-88991b253"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Ethan",
+        "last_name": "Lewis",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/4/18/19_Ethan_Lewis_230203_BSB_MEDIA_DAY-172_dwHdu.jpg",
+        "school": "Golden",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/ethan.lewi5/",
+                "https://www.instagram.com/yalebaseball/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/ethan-lewis26",
+                "https://www.linkedin.com/in/ethan-lewis-0b1314210"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/EthanLJones98/"
+            ]
+        }
+    },
+    {
+        "first_name": "Mark",
+        "last_name": "Capell",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/4/18/20_Mark_Capell_230203_BSB_MEDIA_DAY-551_UxmfL.jpg",
+        "school": "Biotechnology",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/mark-capell-2a68a5168",
+                "https://www.linkedin.com/in/mark-capell-9048a4168"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/mark.capell.520/"
+            ]
+        }
+    },
+    {
+        "first_name": "Reid",
+        "last_name": "Easterly",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/4/18/21_Reid_Easterly_230203_BSB_MEDIA_DAY-689_112r8.jpg",
+        "school": "Cinco Ranch",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/reid-easterly-545a99289"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Mick",
+        "last_name": "Kelley",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/4/18/22_Mick_Kelley_230203_BSB_MEDIA_DAY-395_HEjOd.jpg",
+        "school": "University",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/mickkelley/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jamis",
+        "last_name": "DeKay",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/4/18/23_Jamis_DeKay_230203_BSB_MEDIA_DAY-123_OGotY.jpg",
+        "school": "Campbell Hall",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/jamis-dekay-3b26bb205"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/jamis.dk/"
+            ]
+        }
+    },
+    {
+        "first_name": "Ben",
+        "last_name": "Metzner",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/4/18/24_Ben_Metzner_230203_BSB_MEDIA_DAY-499.jpg",
+        "school": "Horace Mann",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/metzzner/",
+                "https://www.instagram.com/benmetzner/"
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@ben_metzner__"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Daniel",
+        "last_name": "Cohen",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/4/18/25_Daniel_Cohen_230203_BSB_MEDIA_DAY-270_S1fkE.jpg",
+        "school": "South Glens Falls Senior",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/daniel-cohen-202a48253",
+                "https://www.linkedin.com/in/daniel-cohen-12312a140"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/danielaaroncohen/"
+            ]
+        }
+    },
+    {
+        "first_name": "Oscar",
+        "last_name": "Rojas",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/4/18/26_Oscar_Rojas_230203_BSB_MEDIA_DAY-194_5Qg4a.jpg",
+        "school": "Lompoc",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@trilloscarr"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Dylan",
+        "last_name": "Kim",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/4/18/27_Dylan_Kim_230203_BSB_MEDIA_DAY-662_vfPna.jpg",
+        "school": "Taft",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/dylankim13/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/dylan-kim-071ab7177",
+                "https://www.linkedin.com/in/dillon-kim-956558202"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/dylan.kim.923/"
+            ]
+        }
+    },
+    {
+        "first_name": "Josh",
+        "last_name": "Richardson",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/4/18/29_Josh_Richardson_230203_BSB_MEDIA_DAY-300_r71a6.jpg",
+        "school": "Dexter Southfield",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@joshrichards"
+            ],
+            "facebook": [
+                "https://www.facebook.com/richardson4joshua/"
+            ]
+        }
+    },
+    {
+        "first_name": "Max",
+        "last_name": "Imhoff",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/4/18/33_Max_Imhoff_230203_BSB_MEDIA_DAY-350_SW2se.jpg",
+        "school": "Junipero Serra",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/max_imhoff33/",
+                "https://www.instagram.com/yalebaseball/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/79332913550_10159301081988551"
+            ]
+        }
+    },
+    {
+        "first_name": "Robert",
+        "last_name": "Ciulla",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/4/18/35_Robert_Ciulla_230203_BSB_MEDIA_DAY-756.jpg",
+        "school": "Urban",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/rc_ciulla/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/rciulla",
+                "https://www.linkedin.com/in/robert-ciulla-36065743"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Chris",
+        "last_name": "Saladin",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/4/18/36_Chris_Saladin_230203_BSB_MEDIA_DAY-077_sjgS1.jpg",
+        "school": "Fairfield Warde",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/csaladin36/",
+                "https://www.instagram.com/regulator_kri/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Trevor",
+        "last_name": "Mullin",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2020/8/19/Web_Headshot.png",
+        "school": "St. Sebastian's School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/trevor.mullin.9/"
+            ]
+        }
+    },
+    {
+        "first_name": "Danny",
+        "last_name": "Wolf",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2022/10/27/Danny_Wolf_head_shot_bzzPX.JPG",
+        "school": "Northfield Mount Hermon",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/yalembasketball/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/danny-wolf-75448324b",
+                "https://www.linkedin.com/in/daniel-wolf-264231242"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@dannywolf_"
+            ],
+            "facebook": [
+                "https://m.facebook.com/photo.php",
+                "https://m.facebook.com/79332913550_746595680844114"
+            ]
+        }
+    },
+    {
+        "first_name": "Bez",
+        "last_name": "Mbeng",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2022/10/27/2022_MBB_MEDIA_DAY_2_BEZ_MBENG-01_l0qjw.jpg",
+        "school": "Our Lady of Good Counsel",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/bez-mbeng-a07559155"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@yale.admissions"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "August",
+        "last_name": "Mahoney",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2022/10/27/2022_MBB_MEDIA_DAY_3_AUGUST_MAHONEY-01_s68gI.jpg",
+        "school": "Albany Academy",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/augustmahoney1/",
+                "https://www.instagram.com/yalembasketball/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/augustmahoney1"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/79332913550_10160016401038551"
+            ]
+        }
+    },
+    {
+        "first_name": "John",
+        "last_name": "Poulakidas",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2022/10/27/2022_MBB_MEDIA_DAY_4_JOHN_POULAKIDAS-01_NDIC2.jpg",
+        "school": "Neuqua Valley",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/johnpoulakidas/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jeannot",
+        "last_name": "Basima",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2020/8/19/Web_Headshot.png",
+        "school": "John Carroll School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/jeannot-basima-587b3a291",
+                "https://www.linkedin.com/in/jenniejeannot"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Samson",
+        "last_name": "Aletan",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2020/8/19/Web_Headshot.png",
+        "school": "Lake Highlands",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/sberhane"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Emir",
+        "last_name": "Buyukhanli",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2022/10/27/2022_MBB_MEDIA_DAY_11_EMIR_BUYUKHANLI-1_zCaLf.jpg",
+        "school": "Ted Ankara College Foundation",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Teo",
+        "last_name": "Rice",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2022/10/27/2022_MBB_MEDIA_DAY_12_TEO_RICE-01_TWCdQ.jpg",
+        "school": "Maret School/Phillips Exeter",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/deuceteo/",
+                "https://www.instagram.com/yalembasketball/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/andrew-rice-1a0a7124"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/photo.php"
+            ]
+        }
+    },
+    {
+        "first_name": "Casey",
+        "last_name": "Simmons",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2020/8/19/Web_Headshot.png",
+        "school": "Milton Academy",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/casey-simmons-099967246"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@caseysimbo"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Luke",
+        "last_name": "Kolaja",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2022/10/27/2022_MBB_MEDIA_DAY_21_LUKE_KOLAJA-01_piVyK.jpg",
+        "school": "Blair Academy",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/lukekolaja/"
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@yale.admissions"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Matt",
+        "last_name": "Knowling",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2022/10/27/2022_MBB_MEDIA_DAY_22_MATT_KNOWLING-01_EOWjS.jpg",
+        "school": "East Catholic",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/matthew-knowling-8abb8b233"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/79332913550_10159142587063551"
+            ]
+        }
+    },
+    {
+        "first_name": "Yussif",
+        "last_name": "Basa-Ama",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2022/10/27/2022_MBB_MEDIA_DAY_23_YUSSIF_BASA-AMA-01_r5pbj.jpg",
+        "school": "Saint Andrew\u2019s School (Florida)",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Yassine",
+        "last_name": "Gharram",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2022/10/27/2022_MBB_MEDIA_DAY_24_YASSINE_GHARRAM-01_W5czm.jpg",
+        "school": "Foothills Christian",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/yassinegharram2/"
+            ]
+        }
+    },
+    {
+        "first_name": "Jack",
+        "last_name": "Molloy",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2022/10/27/2022_MBB_MEDIA_DAY_33_JACK_MOLLOY-01_f9fBk.jpg",
+        "school": "Hotchkiss School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/jack_molloy1/",
+                "https://www.instagram.com/jackmolloy6/"
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@jack_molloy1"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Nick",
+        "last_name": "Townsend",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2022/10/27/Nick_Townsend_dtmJT.JPG",
+        "school": "Horace Greeley/The Hotchkiss School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/nicktownsend25"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Devon",
+        "last_name": "Arlington",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2022/10/27/2022_MBB_MEDIA_DAY_44_DEVON_ARLINGTON-01_fy4Fj.jpg",
+        "school": "San Marcos",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/devon-finlay-6785321b2",
+                "https://www.linkedin.com/in/devon-marsh-13a277244"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Spencer",
+        "last_name": "Alston",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/19/ALSTON__SPENCER_FOOTBALL_HEADSHOT_2023__1_.jpg",
+        "school": "South Lakes",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/spencer-alston-936a73198"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@soulfulspence"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Kiran",
+        "last_name": "Amegadjie",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/19/AMEGADJIE__KIRAN_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "Hinsdale Central",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/k.amegadjie/",
+                "https://www.instagram.com/yalefootball/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/kiran-amegadjie",
+                "https://www.linkedin.com/in/kiran-masroor-392b25188"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Bennie",
+        "last_name": "Anderson",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/19/ANDERSON_JR__BENNIE_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Westminster Christian",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/bennieanderson66/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/bennie-anderson-jr"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Damian",
+        "last_name": "Anderson",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/19/ANDERSON_JR__DAMIAN_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Saint Thomas Aquinas",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/damian-anderson-jr"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@damian_anderson",
+                "https://www.tiktok.com/@thedamiananderson"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Cooper",
+        "last_name": "Austin",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/AUSTIN__COOPER_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Loomis Chaffee",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Zavier",
+        "last_name": "Avera",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/AVERA__ZAVIER_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "Jones",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Inumidun",
+        "last_name": "Ayo-Durojaiye",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/19/AYO-DUROJAIYE__INUMIDUN_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Damascus",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/nigeriannightmare34/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/inumidun.durojaiye.9/"
+            ]
+        }
+    },
+    {
+        "first_name": "Jermaine",
+        "last_name": "Baker",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/19/BAKER__JERMAINE_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Nazareth Academy",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/jermaine-baker-5948761a0",
+                "https://www.linkedin.com/in/jermaine-baker-8377786"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Kade",
+        "last_name": "Barnes",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/19/BARNES__KADE_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "Cypress Ridge",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/kadeb7719/",
+                "https://www.instagram.com/kadebg/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/kade-barnes-061216282"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@nowayyoufindthisaccount",
+                "https://www.tiktok.com/@yalebulldogsfootball"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Joseph",
+        "last_name": "Barry",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/BARRY__JOE_FOOTBALL_HEADSHOT_2023__1_.jpg",
+        "school": "Bergen Catholic",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/josephbarry04"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@joebrry",
+                "https://www.tiktok.com/@joseph_kawai"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Ryan",
+        "last_name": "Belk",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/19/BELK__RYAN_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Marjory Stoneman Douglas",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/ryan.belk/",
+                "https://www.instagram.com/ryanbelk/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/ryan-belk-5a83741b6"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Brandon",
+        "last_name": "Benn",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/BENN_Brandon.jpg",
+        "school": "McCallie School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/bbenn28/",
+                "https://www.instagram.com/yalembasketball/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/brandon-benn-8a7529192"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Michael",
+        "last_name": "Bennett",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/19/BENNETT__MICHAEL_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "Holy Innocents Episcopal School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/michael-bennett-06194414b",
+                "https://www.linkedin.com/in/michael-v-l-bennett-a3435147"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@thefarminnz",
+                "https://www.tiktok.com/@mikebennettart"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jacob",
+        "last_name": "Biggs",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/19/BIGGS__JACOB_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "Timpview",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/jacob-a-biggs-83084a232"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Leo",
+        "last_name": "Bluhm",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/19/BLUHM__LEO_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "St. Thomas Academy",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/leobluhm/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/leo-bluhm-5b87bb247",
+                "https://www.linkedin.com/in/leo-bluhm-096546112"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/leo.bluhm/"
+            ]
+        }
+    },
+    {
+        "first_name": "Jack",
+        "last_name": "Bosman",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/19/BOSMAN__JACK_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "Santa Fe Christian",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/jackbosman/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/jack-bosman-34129b1b2"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/jack.bosman.1238/",
+                "https://www.facebook.com/jack.bosman.1238/"
+            ]
+        }
+    },
+    {
+        "first_name": "Nico",
+        "last_name": "Brown",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/19/BROWN__NICO_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Edison",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Nathaniel",
+        "last_name": "Campbell",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/19/CAMPBELL__NATHANIEL_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Oswego East",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/nathaniel_camp13/"
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@nathaniel_jc_campbell",
+                "https://www.tiktok.com/@fh4campbell"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "James",
+        "last_name": "Cave",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/CAVE__JAMES_FOOTBALL_HEADSHOT_2023__1_.jpg",
+        "school": "Parish Episcopal School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Cameron",
+        "last_name": "Charron",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/19/CHARRON__CAMERON_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Noble and Greenough School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/cameron.charron.9/"
+            ]
+        }
+    },
+    {
+        "first_name": "Dante",
+        "last_name": "Chiappetta",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2021/10/11/chiaptta_hs.jpg",
+        "school": "Clintonville",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Nick",
+        "last_name": "Conforti",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/19/CONFORTI__NICK_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "Seton Hall Prep",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/nickconforti_/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/nicholas-conforti-426706265"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@nick_conforti94"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Michael",
+        "last_name": "Connor",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/19/CONNOR__MICHAEL_FOOTBALL_HEADSHOT_2023__1_.jpg",
+        "school": "Ramapo",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/michaeljconnor/",
+                "https://www.instagram.com/yale.music/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Wilhelm",
+        "last_name": "Daal",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/19/DAAL__BILLY_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Taft School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/wilhelm-daal-46a61b278",
+                "https://www.linkedin.com/in/wilhelm-daal-216a511a1"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Osize",
+        "last_name": "Daniyan",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/DANIYAN__OSIZE_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Mt. Juliet",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/yale/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/osize.daniyan.9/"
+            ]
+        }
+    },
+    {
+        "first_name": "Dylan",
+        "last_name": "Darville",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/DARVILLE__DYLAN_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Emmaus",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Zion",
+        "last_name": "Dayne",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/19/DAYNE__ZION_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "South County",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/ziondayne"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Nathan",
+        "last_name": "Denney",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/19/DENNEY__NATHAN_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "Georgetown",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/n8denney/",
+                "https://www.instagram.com/denneynate/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Tyler",
+        "last_name": "DiIenno",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/19/DIIENNO__TYLER_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "Cheshire Academy",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/tyler.diienno/"
+            ]
+        }
+    },
+    {
+        "first_name": "Garon",
+        "last_name": "Duncan",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/19/GARON__DUNCAN_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "Dripping Springs",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/garon.8/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jonathon",
+        "last_name": "Durand",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/19/DURAND__JONATHON_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Basha",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/jdurand63/",
+                "https://www.instagram.com/boxadessin/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/jonathon-durand-3087201b7"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@jonathan.durand0"
+            ],
+            "facebook": [
+                "https://m.facebook.com/jonathon.durand.1/",
+                "https://www.facebook.com/jonathon.durand.1/"
+            ]
+        }
+    },
+    {
+        "first_name": "Josh",
+        "last_name": "Eboboko",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/19/EBOBOKO__JOSH_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Charlotte Christian",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/yale/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/joshua-eboboko-718b69261",
+                "https://www.linkedin.com/in/joshgeballe"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/josh.eboboko/"
+            ]
+        }
+    },
+    {
+        "first_name": "Ejiroghene",
+        "last_name": "Egodogbare",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/19/EGODOGBARE__EJIRO_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Roxbury Latin",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/ejiro-egodogbare-7600aa1a7"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Babawale",
+        "last_name": "Fadeyibi",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/FADEYIBI__BABAWALE_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Blair Academy",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/walefad3/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/babawale-fadeyibi-03a705272"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Teo",
+        "last_name": "Falk",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/19/FALK__TEO_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": null,
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/teofalk/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/teo-falk-a2ba87201"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/tftftftf/",
+                "https://www.facebook.com/tftftftf/"
+            ]
+        }
+    },
+    {
+        "first_name": "Joey",
+        "last_name": "Felton",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/19/FELTON__JOEY_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Linganore",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Ben",
+        "last_name": "Finkel",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/19/FINKEL__BEN_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "White Plains",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/benfinkel2"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@bennyfinks"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Shamus",
+        "last_name": "Florio",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/19/FLORIO__SHAMUS_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "Andover",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/shamus-florio-55908222a"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Joey",
+        "last_name": "Fortner",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/FORTNER__JOEY_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "Marist",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/john-fortner-a243248"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/joey.fortner.90/"
+            ]
+        }
+    },
+    {
+        "first_name": "Luke",
+        "last_name": "Foster",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/19/FOSTER__LUKE_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "Choate Rosemary Hall (Conn.)",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/luke.foster_14/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/luke-foster-6b43b1265"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/jun.foster/"
+            ]
+        }
+    },
+    {
+        "first_name": "Dylan",
+        "last_name": "Garrity",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/GARRITY__DYLAN_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Bergen Catholic",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/dylangarrity_/",
+                "https://www.instagram.com/dgar5/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/dylan-garrity-96970a28b"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Da\u2019Quan",
+        "last_name": "Gonzales",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/19/GONZALES__DAQUAN_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "Jensen Beach",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Joseph",
+        "last_name": "Gonzales",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/19/GONZALES__JOE_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "Lake Stevens Senior",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@josephgonzalesmusic"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Phoenix",
+        "last_name": "Grant",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/GRANT__PHOENIX_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Gunter",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/footballbeast744/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/alvin-grant-8942b3b3",
+                "https://www.linkedin.com/in/alvin-grant-1359541a9"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@grantucker"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Nolan",
+        "last_name": "Grooms",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/19/GROOMS__NOLAN_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Taft School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/nolan.grooms.3/"
+            ]
+        }
+    },
+    {
+        "first_name": "Alvin",
+        "last_name": "Gulley, Jr.",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/19/GULLEY__ALVIN_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Belleville West Township",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/gulleyalvin/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/alvin-gulley-32273a299"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Sean",
+        "last_name": "Guyton",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/19/GUYTON__SEAN_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "Choate Rosemary Hall (Conn.)",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Zack",
+        "last_name": "Haaland",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/19/HAALAND__ZACK_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "Dallas Christian",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/zack.haaland.7/"
+            ]
+        }
+    },
+    {
+        "first_name": "Connor",
+        "last_name": "Halverson",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/HALVERSON__CONNOR_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "Westlake",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jackson",
+        "last_name": "Hawes",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/HAWES__JACKSON_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "Highland",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/yalewhockey/",
+                "https://www.instagram.com/yalewhockey/"
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@hawsie12"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Dathan",
+        "last_name": "Hickey",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/HICKEY__DATHAN_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "Bristol Central",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/lock.dat_11/",
+                "https://www.instagram.com/lock.dat_11/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/dathan-hickey-47a1a620a"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/dathan.hickey/"
+            ]
+        }
+    },
+    {
+        "first_name": "Du'Shaunte",
+        "last_name": "Holloway",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/HOLLOWAY__DUSHANTE_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "Villa Rica",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/dushaunte/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Marshall",
+        "last_name": "Howe",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/HOWE__MARSHALL_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "Avon Old Farms",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@marshowe4"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Zairion",
+        "last_name": "Jackson-Bass",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/JACKSON-BASS__ZAIRION_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Julius Chambers",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/zairionjacksonbass/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/jackson-bass-239657210"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Grant",
+        "last_name": "Jordan",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/JORDAN__GRANT_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "Jesuit",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/grantjordan/"
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@yalebulldogsfootball"
+            ],
+            "facebook": [
+                "https://m.facebook.com/grant.jordan.5872/"
+            ]
+        }
+    },
+    {
+        "first_name": "Kevin",
+        "last_name": "Jourdain",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/JOURDAIN__KEVIN_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Holyoke",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/kev_inked9/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/kevinjourdain"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Brice",
+        "last_name": "June",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/JUNE__BRICE_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Maret School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/brice-june-183005208",
+                "https://www.linkedin.com/in/brice-june-08ba40ab"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Abu",
+        "last_name": "Kamara",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/KAMARA__ABU_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Interboro",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/abukamara11/",
+                "https://www.instagram.com/aburazardkamara/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/abubakarrkamara"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@abukamara_"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jack",
+        "last_name": "Karhu",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/KARHU__JACK_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Independence",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/jack-karhu-b82567a5"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/jack.karhu/"
+            ]
+        }
+    },
+    {
+        "first_name": "John",
+        "last_name": "Kemp",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/KEMP_JR__JOHN_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "St. Ignatius",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@johnkemp15"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Ezekiel",
+        "last_name": "Larry",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/LARRY__EZEKIEL_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Sierra Canyon",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/ezekiel-larry-950649231"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jason",
+        "last_name": "Lee",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/LEE__JASON_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Mount Baker",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/jasonlee.31/",
+                "https://www.instagram.com/yalefootball/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/jasonlee8600",
+                "https://www.linkedin.com/in/jason-lee-979758177"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@jasonlee8600",
+                "https://www.tiktok.com/@theonlyjasonlee"
+            ],
+            "facebook": [
+                "https://m.facebook.com/flooc99/"
+            ]
+        }
+    },
+    {
+        "first_name": "Quinton",
+        "last_name": "Lewis",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/LEWIS__QUINTON_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Northside",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@mrrolltide82",
+                "https://www.tiktok.com/@quintonlewis54"
+            ],
+            "facebook": [
+                "https://www.facebook.com/qmlewis/"
+            ]
+        }
+    },
+    {
+        "first_name": "Ryan",
+        "last_name": "Lindley",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/LINDLEY__RYAN_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "Westlake",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/rlindley2/",
+                "https://www.instagram.com/ryanlindley_1/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/ryan.lindley.395/",
+                "https://m.facebook.com/ryan.lindley.395/"
+            ]
+        }
+    },
+    {
+        "first_name": "Aidan",
+        "last_name": "Maloney",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/MALONEY__AIDAN_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Liberty",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/aidanjmaloney/",
+                "https://www.instagram.com/aidanmaloney_15/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/aidan.maloney.10/"
+            ]
+        }
+    },
+    {
+        "first_name": "Ben",
+        "last_name": "Mann",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/23/BEN_MANN_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Manheim Township",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/queerpastorben/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/ben-mann-7028a0247",
+                "https://www.linkedin.com/in/benjamin-mann-123bb811"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Marcus",
+        "last_name": "Mauney",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/MAUNEY__MARCUS_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Hunter Huss",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/704.marcus/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/marcus-mauney-691774206"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/marcus.mauney.7/"
+            ]
+        }
+    },
+    {
+        "first_name": "Ryan",
+        "last_name": "McCann",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/MCCANN__RYAN_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Fair Haven Regional",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/ryan.mccann/",
+                "https://www.instagram.com/ryanmccannart/"
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@ryguymccann"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Brogan",
+        "last_name": "McCaughey",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/MCCAUGHEY__BROGAN_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "St. Xavier",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/brogan-mccaughey-4a1410251",
+                "https://www.linkedin.com/in/wilhelm-daal-46a61b278"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Tamatoa",
+        "last_name": "McDonough",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/MCDONOUGH__TOMATOA_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Asheville",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/tamamcdonough/"
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@yale.admissions"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Donovan",
+        "last_name": "McKoy",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/MCKOY__DONOVAN_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "St. Joseph",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/donovanmccoy19/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/donovan-mckoy-a99832287"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/donovan.mckoy.37/",
+                "https://www.facebook.com/donovan.mckoy.5/"
+            ]
+        }
+    },
+    {
+        "first_name": "Jonathan",
+        "last_name": "Mendoza",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/MENDOZA__JONATHAN_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "Westhampton Beach",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/jonathan-mendoza61"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@jonathanmendoza063",
+                "https://www.tiktok.com/@jonathanmendozagato"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Spencer",
+        "last_name": "Mermans",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/MERMANS__SPENCER_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "Charlotte Country Day",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/spencer-merman-28305b85"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jack",
+        "last_name": "Michalik",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/MICHALIK__JACK_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Brunswick School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Isaac",
+        "last_name": "Mitchell",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/MITCHELL__ISAAC_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "Salina South High",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Hamilton",
+        "last_name": "Moore",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/MOORE__HAMILTON_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Enloe",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/hamiltonmoore_1/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Joseph",
+        "last_name": "Nash",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/NASH__JOSEPH_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Taft School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/josephnash20/",
+                "https://www.instagram.com/joseph.j.nash/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/joseph-nash-5b5bb4258"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Chase",
+        "last_name": "Nenad",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/NENAD__CHASE_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Mission Viejo",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Wande",
+        "last_name": "Owens",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/OWENS__WANDE_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "Glenelg",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/wande-owens-b8a1751b6"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Raleigh",
+        "last_name": "Oxendine",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/OXENDINE__RALEIGH_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "Jesuit",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "David",
+        "last_name": "Pantelis",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/PANTELIS__DAVID_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Upper St. Clair",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/davidpantelis/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/david-pantelis-5a0827218",
+                "https://www.linkedin.com/in/ryan-lindley-6102a4238"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/david.pantelis.5/",
+                "https://m.facebook.com/david.pantelis.5/"
+            ]
+        }
+    },
+    {
+        "first_name": "Clay",
+        "last_name": "Patterson",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2022/9/14/PATTERSON_Clay.jpg",
+        "school": "Frisco Reedy",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/claypatterson7/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/claypatterson",
+                "https://www.linkedin.com/in/clay-patterson-325a35208"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Tre",
+        "last_name": "Peterson",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2022/9/14/PETERSON_Tre.jpg",
+        "school": "Columbus",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/tre-peterson-700653202"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@trepeterson2"
+            ],
+            "facebook": [
+                "https://www.facebook.com/blackstudentallianceatyale/"
+            ]
+        }
+    },
+    {
+        "first_name": "Joshua",
+        "last_name": "Pitsenberger",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/PITSENBERGER__JOSH_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "The Avalon School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Cameron",
+        "last_name": "Price",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/PRICE__CAMERON_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "St. Thomas",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/cameronnprice/",
+                "https://www.instagram.com/cammprice/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/cameron-price-b60092240"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Wyatt",
+        "last_name": "Raymond",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/RAYMOND__WYATT_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "Enfield",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/wyatt-raymond-435885a6"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@raymondwyatt"
+            ],
+            "facebook": [
+                "https://www.facebook.com/wyatt.raymond.71/",
+                "https://www.facebook.com/wyatt.raymond.71/"
+            ]
+        }
+    },
+    {
+        "first_name": "Archie",
+        "last_name": "Russ III",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/RUSS_III__ARCHIE_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "The Bullis School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/archie-russ-2a784020b"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jacob",
+        "last_name": "Saffold",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/SAFFOLD__JAKE_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "Norfolk Academy",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/jacob.saffold.3/"
+            ]
+        }
+    },
+    {
+        "first_name": "Declan",
+        "last_name": "Savage",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/SAVAGE__DECLAN_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Chapel Hill",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/declan.savage.50/"
+            ]
+        }
+    },
+    {
+        "first_name": "Jesse",
+        "last_name": "Schutzman",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/SCHUTZMAN__JESSE_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Brunswick School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/ian_schutzman/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Aaron",
+        "last_name": "Session",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2022/9/15/SESSION_Aaron_bgufx.jpg",
+        "school": "Morton Ranch",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/yalebooks/",
+                "https://www.instagram.com/yalebooks/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/aaron-sessions",
+                "https://www.linkedin.com/in/aaron-chen1028"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Micaiah",
+        "last_name": "Shaber",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/SHABER__MICAIAH_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "Starr\u2019s Mill",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Dean",
+        "last_name": "Shaffer",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/SHAFFER__DEAN_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "Smithtown East",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/deanshaffer34/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/dean.shaffer.3781/"
+            ]
+        }
+    },
+    {
+        "first_name": "Mason",
+        "last_name": "Shipp",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/SHIPP__MASON_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "The Hun School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/mason-shipp-820890239",
+                "https://www.linkedin.com/in/mason-shipp-ab323a75"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@masongottakes",
+                "https://www.tiktok.com/@masonshipp6"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Connor",
+        "last_name": "Smith",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/SMITH__CONNOR_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Noble & Greenough",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Graham",
+        "last_name": "Smith",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/SMITH__GRAHAM_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "Lyons Township",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/grahamsmith_21/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/graham-smith-7037a3203",
+                "https://www.linkedin.com/in/graham-smith-8863a"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Kelvin",
+        "last_name": "Smith",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2021/8/23/smith_k.jpg",
+        "school": "The Hun School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/kelvin_smith17/",
+                "https://www.instagram.com/calikingkel/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/kelvin-smith-14b470211"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jackson",
+        "last_name": "St. Aubyn",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/ST_AUBYN__JACKSON_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Palmer Ridge",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/yalejacksonschool/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/jacksonpullman"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Aidan",
+        "last_name": "Stephens",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/STEPHENS__AIDAN_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "LaBrae",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/a.stephens_11/",
+                "https://www.instagram.com/aidanstephens/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/aidan-stephens-809734251",
+                "https://www.linkedin.com/in/aidan-j-mcgowan"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@aidanstephens11"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Devyn",
+        "last_name": "Suggs",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/SUGGS__DEVYN_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Bolingbrook",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/_devynsuggs/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Sean",
+        "last_name": "Sullivan",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/19/SULLIVAN__SEAN_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "Saint John's Shrewsbury",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/seanjsullivan/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/sean-sullivan-380547112",
+                "https://www.linkedin.com/in/sean-sullivan-9650b3217"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Joshua",
+        "last_name": "Tarver",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/TARVER__JOSHUA_FOOTBALL__HEADSHOT_2023_a5KJt.jpg",
+        "school": "IMG Academy",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/joshuatarver"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jaylin",
+        "last_name": "Tate",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/TATE__JAYLIN_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Woodward Academy",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/jalen-tate-08a8b6224"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@jaylyntate"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Robby",
+        "last_name": "Tattersall",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/TATTERSALL__ROBBY_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "Wilmington Friends School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/damon_danielset/",
+                "https://www.instagram.com/wfs_athletics/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Andre",
+        "last_name": "Thomas",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/THOMAS__ANDRE_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Peach County",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/andre-thomas-a62812199",
+                "https://www.linkedin.com/in/andre-thomas-228168254"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "CJ",
+        "last_name": "Thompson",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/THOMPSON__CJ_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Trinity Christian",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/cj3_thompson/",
+                "https://www.instagram.com/underdawg_ct/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/cj-thompson-705227200",
+                "https://www.linkedin.com/in/chuckthompson91"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@ceejay_heyhey"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Mason",
+        "last_name": "Tipton",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/TIPTON__MASON_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Archbishop Hoban",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/m.tipton8/",
+                "https://www.instagram.com/m.tipton8/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/mason-tipton-1209b5163"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/mason.tipton/"
+            ]
+        }
+    },
+    {
+        "first_name": "Scott",
+        "last_name": "Truninger",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/TRUNINGER__SCOTT_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Corona Del Mar",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Austin",
+        "last_name": "Tutas",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/TUTAS__AUSTIN_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "Foster (Texas)",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Mitchell",
+        "last_name": "Tyler",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/TYLER__MITCHELL_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "McKinney",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/tylersphotos/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/mitchell-tyler-9a31464b"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@mitchelltyler8",
+                "https://www.tiktok.com/@tylerjosephmitchell"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Ruben",
+        "last_name": "Valenzuela",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/VALENZUELA__RUBEN_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Calabasas",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/rubenvalenzuela141/",
+                "https://www.instagram.com/rmvalenz/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/ruben-valenzuela-886320267",
+                "https://www.linkedin.com/in/ruben-valenzuela-09492113"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/ruben.valenzuela.338/"
+            ]
+        }
+    },
+    {
+        "first_name": "Joseph",
+        "last_name": "Vaughn",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/VAUGHN__JOSEPH_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Archbishop Mitty School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/joseph_vaughn/",
+                "https://www.instagram.com/yalefootball/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/joseph-vaughn-a66b09214"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@joseph.vaughn",
+                "https://www.tiktok.com/@josephvaughn43"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Walker",
+        "last_name": "Warncke",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/WARNCKE__WALKER_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "Needville",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/walker_warncke/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/walker-warncke-6520aa237"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/walker.warncke.52/"
+            ]
+        }
+    },
+    {
+        "first_name": "Aidan",
+        "last_name": "Warner",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/WARNER__AIDAN_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Winter Park",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/aidan.warnerr/",
+                "https://www.instagram.com/warneraid/"
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@aidanwarner"
+            ],
+            "facebook": [
+                "https://www.facebook.com/ParkMaitlandSchoolAlumni/"
+            ]
+        }
+    },
+    {
+        "first_name": "Brandon",
+        "last_name": "Webster",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/WEBSTER__BRANDON_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "St. Ignatius",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@brandon..webster"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Andrew",
+        "last_name": "Weisz",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/WEISZ__ANDREW_FOOTBALL__HEADSHOT_2023_MgLTA.jpg",
+        "school": "The Benjamin School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/andrew-weisz-36aa72b4"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/aweisz1/"
+            ]
+        }
+    },
+    {
+        "first_name": "Melik",
+        "last_name": "Williams",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/WILLIAMS__MELIK_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "Lincoln",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/melikwilliams99/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/melik-williams-01a2a0202"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Lukas",
+        "last_name": "Witt",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/29/Lukas_Witt_head_shot.jpg",
+        "school": "Cheshire Academy",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/lukaswitt1"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/photo/"
+            ]
+        }
+    },
+    {
+        "first_name": "Dylan",
+        "last_name": "Yang",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/YANG__DYLAN_FOOTBALL_HEADSHOT_2023.jpg",
+        "school": "Suffern",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/rmw_yang/",
+                "https://www.instagram.com/dylankyang/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/yangdylan",
+                "https://www.linkedin.com/in/dylandagate"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Ry",
+        "last_name": "Yates",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/20/YATES__RY_FOOTBALL__HEADSHOT_2023.jpg",
+        "school": "James Madison",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/theryyates"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@ryanyat"
+            ],
+            "facebook": [
+                "https://www.facebook.com/YaleUniversity/"
+            ]
+        }
+    },
+    {
+        "first_name": "Chris",
+        "last_name": "Edwards",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Chris_Edwards.jpg",
+        "school": "Fort Worth Country Day",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/chrise02/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Conrad",
+        "last_name": "Lee",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Conrad_Lee.jpg",
+        "school": "Ballard",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/conradlee__/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/conradclee",
+                "https://www.linkedin.com/in/conradmlee"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Yasin",
+        "last_name": "Aly",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Yasin_Aly.jpg",
+        "school": "Northfield Mount Hermon",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/alyjyale"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@yasin.aly"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Ryan",
+        "last_name": "Cote",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Ryan_Cote.jpg",
+        "school": "Arapahoe",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/ryan.ccote/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/ryan-cote-a97a95236"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jake",
+        "last_name": "Schaffer",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Jake_Schaffer.jpg",
+        "school": "Orchard Park",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/jakeschaffer4/"
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@jake.schaffer",
+                "https://www.tiktok.com/@jschaefertraining"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Matias",
+        "last_name": "Alberola",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/DS6_1486_copy.jpg",
+        "school": "Kent Denver School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/matiasalberola"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jamie",
+        "last_name": "Orson",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Jamie_Orson.jpg",
+        "school": "Druid Hills",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/jamie-orson"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@jamie5orson"
+            ],
+            "facebook": [
+                "https://www.facebook.com/jamie.orson/"
+            ]
+        }
+    },
+    {
+        "first_name": "Alex",
+        "last_name": "Umana",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Alex_Umana.jpg",
+        "school": "Olathe South",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/_alex_umana/",
+                "https://www.instagram.com/_alex_umana/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/alex-umana-450bb7271",
+                "https://www.linkedin.com/in/alex-umana"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jonathan",
+        "last_name": "Seidman",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Jonathan_Seidman.jpg",
+        "school": "Horace Greeley",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Eric",
+        "last_name": "Lagos",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Eric_Lagos.jpg",
+        "school": "St. Paul Academy",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/ericlagos_/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Quanah",
+        "last_name": "Brayboy",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Quanah_Brayboy.jpg",
+        "school": "Phoenix Country Day School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Max",
+        "last_name": "Rogers",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Max_Rogers.jpg",
+        "school": "St. Ignatius College",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Gelber",
+        "last_name": "Lemus",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Gelber_Lemus.jpg",
+        "school": "Gaithersburg",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Kai",
+        "last_name": "Moos",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Kai_Moss.jpg",
+        "school": "Los Altos",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/kaimoos2019"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Sandor",
+        "last_name": "Pelle",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Sandor_Pelle.jpg",
+        "school": "Pinnacle",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/sp8lle/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Noah",
+        "last_name": "Leddel",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Noah_Leddel.jpg",
+        "school": "Northwood School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Joseph",
+        "last_name": "Farouz",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Joseph_Farouz.jpg",
+        "school": "University Prep",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/jfarouz/",
+                "https://www.instagram.com/yalemsoccer/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/joseph-farouz-1a0171287"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@jfarouz",
+                "https://www.tiktok.com/@grantucker"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Felipe",
+        "last_name": "Schwartz",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Felipe_Schwartz.jpg",
+        "school": "St. Paul\u2019s School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/felipeschwartz/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/felipe-schwartz-914245254"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Luke",
+        "last_name": "Renforth",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Luke_Renforth.jpg",
+        "school": "Aberdeen Grammar School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/luke.renforth1/"
+            ]
+        }
+    },
+    {
+        "first_name": "George",
+        "last_name": "Stamboulidis",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/George_Stamboulidis.jpg",
+        "school": "Carey Baptist School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/yale/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Olivier",
+        "last_name": "Van Spaendonck",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Oliver_Van_Spaendonck.jpg",
+        "school": "Staples",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/olivier-van-spaendonck-a6473423a"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/olivier.vanspaendonck/"
+            ]
+        }
+    },
+    {
+        "first_name": "Andrew",
+        "last_name": "Seidman",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Andrew_Seidman.jpg",
+        "school": "Horace Greeley",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/yalemsoccer/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/andrew-seidman-8974a591",
+                "https://www.linkedin.com/in/andrew-seidman-b555a11b"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "TJ",
+        "last_name": "Presthus",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/TJ_Presthus.jpg",
+        "school": "New Albany",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/tjpresthus/",
+                "https://www.instagram.com/tjpresthus/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/tj-presthus-272817252"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Sam",
+        "last_name": "Harshe",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Sam_Harshe.jpg",
+        "school": "Dexter",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/sam-harshe"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/sam.harshe/",
+                "https://www.facebook.com/sam.harshe/"
+            ]
+        }
+    },
+    {
+        "first_name": "Ryder",
+        "last_name": "Mills",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Ryder_Mills.jpg",
+        "school": "Lakota East",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/rydermills/",
+                "https://www.instagram.com/rydermills/"
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@millsryder5"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Justin",
+        "last_name": "Harris",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Justin_Harris.jpg",
+        "school": "Detroit Country Day School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/justin-c-harris-309471278",
+                "https://www.linkedin.com/in/justin-harris-1a85b027a"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@justinharri",
+                "https://www.tiktok.com/@justinharris759"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Simon",
+        "last_name": "Adjakple",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Simon_Adjakple.jpg",
+        "school": "Great Neck North",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/simon_adjakple/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/simon-adjakple-432190274"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Nick",
+        "last_name": "Miller",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Nick_Miller.jpg",
+        "school": "St. Paul's School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/nickmillerza/",
+                "https://www.instagram.com/nickmiller/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Constantin",
+        "last_name": "Jung",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Constantin_Jung.jpg",
+        "school": "Northfield Mount Hermon",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/constantin_jung/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/constantin-jung"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Aydin",
+        "last_name": "Jay",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Aydin_Jay.jpg",
+        "school": "Milton Academy",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Diego",
+        "last_name": "Zaffanella",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Diego_Zaffanella.jpg",
+        "school": "Ellington",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/diego.zaffanella/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Lilah",
+        "last_name": "Grubman",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2022/11/3/YALE_GRUBMAN_LILAH.jpg",
+        "school": "Syosset",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/lilah-grubman-898a82278"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jenna",
+        "last_name": "Clark",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2022/11/3/YALE_CLARK_JENNA.jpg",
+        "school": "Thomas Jefferson",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/jennaclark71/",
+                "https://www.instagram.com/jennaclark71/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/jenna-clark-b762b3236",
+                "https://www.linkedin.com/in/jenna-clark-anderson-74418062"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Christen",
+        "last_name": "McCann",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2022/11/3/YALE_MCCANN_CHRISTEN.jpg",
+        "school": "Lincoln Park Academy",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/christen.mccann.98/",
+                "https://m.facebook.com/christen.mccann.98/"
+            ]
+        }
+    },
+    {
+        "first_name": "Lucy",
+        "last_name": "Lynn",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/7/7/lynn_lucy_IMG-3609.jpg",
+        "school": "Gonzaga Prep",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/yalewbasketball/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/lucy-powers1"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@lucy.lynn"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Avery",
+        "last_name": "Lee",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2022/11/3/YALE_LEE_AVERY.jpg",
+        "school": "Menlo",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/avery-lee-57b649212"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@...averylee",
+                "https://www.tiktok.com/@xoxoaves0"
+            ],
+            "facebook": [
+                "https://www.facebook.com/averyllee/"
+            ]
+        }
+    },
+    {
+        "first_name": "Klara",
+        "last_name": "Astrom",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2022/11/3/YALE_ASTROM_KLARA.jpg",
+        "school": "Pinewood School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/klara.astrom.16/",
+                "https://www.facebook.com/klara.astrom.1/"
+            ]
+        }
+    },
+    {
+        "first_name": "Haley",
+        "last_name": "Sabol",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2022/11/3/YALE_SABOL_HALEY.jpg",
+        "school": "Episcopal (Alexandria, Va.)",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/haley.sabol/"
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@yalewomensbasketball"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Grace",
+        "last_name": "Thybulle",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2022/11/3/YALE_THYBULLE_GRACE.jpg",
+        "school": "Irvington",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/gracethybulle/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/grace-thybulle-481a10207"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@itsmatisse"
+            ],
+            "facebook": [
+                "https://m.facebook.com/79332913550_10159083141498551"
+            ]
+        }
+    },
+    {
+        "first_name": "Kiley",
+        "last_name": "Capstraw",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2022/11/3/YALE_CAPSTRAW_KILEY.jpg",
+        "school": "West Orange",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/kileycapstraw/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/kiley-capstraw-6b4149295"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Brenna",
+        "last_name": "McDonald",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2022/11/3/YALE_MCDONALD_BRENNA.jpg",
+        "school": "Natick",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@peaches_2019"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Lola",
+        "last_name": "Lesmond",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2022/11/3/YALE_LESMOND_LOLA.jpg",
+        "school": "Worcester Academy",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/vanessa-lesmond-aa262418a"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Mackenzie",
+        "last_name": "Egger",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2022/11/3/YALE_EGGER_MACKENZIE.jpg",
+        "school": "Mount Pleasant",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/mac.egger/",
+                "https://www.instagram.com/mackenzie.eggers/"
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@mackenzie.egger",
+                "https://www.tiktok.com/@yalewomensbasketball"
+            ],
+            "facebook": [
+                "https://www.facebook.com/mackenzie.egger.7/"
+            ]
+        }
+    },
+    {
+        "first_name": "Nyla",
+        "last_name": "McGill",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2022/11/3/YALE_MCGILL_NYLA.jpg",
+        "school": "Providence",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/nyla-pierre-882816232"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@mcgillu"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Kyla",
+        "last_name": "Holmes",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/21/KAYLA-HOLMES-00.jpg",
+        "school": "Newton High School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/1.kyla.1/"
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@kyla.holmes"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Maya",
+        "last_name": "Bellomo",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/21/MAYA-BELLOMO-1.jpg",
+        "school": "Rochester Adams",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/maya-bellomo"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Zia",
+        "last_name": "Makhathini",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/21/ZIA-MAKHATHINI-2.jpg",
+        "school": "Coral Academy of Science",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/zia-makhathini-959aab172",
+                "https://www.linkedin.com/in/laila-booker-5a9895262"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Kylie",
+        "last_name": "Oh",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/21/KYLIE-OH-3.jpg",
+        "school": "Flintridge Prep",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/yalewsoccer/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/kylie-oh-683678280",
+                "https://www.linkedin.com/in/kylie-oh-5ab2ab218"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@kylieispsychic"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Kayla",
+        "last_name": "Parsons",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/21/KAYLA-PARSON-4.jpg",
+        "school": "Livingston",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/kayla_m_parsons/",
+                "https://www.instagram.com/_kayyllap/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/kayla-parsons-61498a202"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Andie",
+        "last_name": "Miller",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/21/ANDIE-MILLER-5.jpg",
+        "school": "Lakeside School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/andrea-miller-b5625b31"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Tina",
+        "last_name": "Teik",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/21/TINA-TEIK-6.jpg",
+        "school": "Barrington",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/christina-teik-1606b11a2"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Alex",
+        "last_name": "Chang",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/21/ALEX-CHANG-7.jpg",
+        "school": "Lonestar High School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@djalexchang"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Nana",
+        "last_name": "Yang",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/21/NANA-YANG-8.jpg",
+        "school": "Etel\u00e4-Tapiolan Lukio",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/_nanayang/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/nanayang8",
+                "https://www.linkedin.com/in/nana-yang-939bb5115"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Marz",
+        "last_name": "Akins",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/21/MARZ-AKINS-9.jpg",
+        "school": "Rancho Bernardo",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/yalewsoccer/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Regan",
+        "last_name": "Lundstedt",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/21/REGAN-LUNDSTEDT-10.jpg",
+        "school": "Johns Creek",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/reganelundstedt/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/regan-lundstedt-101621252"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/reganeliese/"
+            ]
+        }
+    },
+    {
+        "first_name": "Ellery",
+        "last_name": "Winkler",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/21/ELLERY-WINKLER-11.jpg",
+        "school": "Middlesex School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/ellerywinks/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Meredith",
+        "last_name": "Phillips",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/21/MEREDITH-PHILLIPS-12.jpg",
+        "school": "Loyola Academy",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/chefmeredy/",
+                "https://www.instagram.com/meredithphillipswrites/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/meredith-phillips-47915a12"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Annika",
+        "last_name": "Bryant",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/21/ANNIKA-BRYANT-13.jpg",
+        "school": "Marist School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/abryant136/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/annika-bryant-59035a214"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Nikki",
+        "last_name": "Debayo-Doherty",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/21/NIKKI-DEBAYO-DOHERTY-14.jpg",
+        "school": "The Potomac School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/nikki.dd/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/nikki-debayo-doherty-4491b1202"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Anita",
+        "last_name": "Thorvaldsdottir",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/21/ANITA-THORVALDSDOTTIR-15.jpg",
+        "school": "Commercial College of Iceland",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/annathorvalds/",
+                "https://www.instagram.com/basically_anitte/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/anita-vinjirayer-97a07423"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/anitafonn01/"
+            ]
+        }
+    },
+    {
+        "first_name": "Alanna",
+        "last_name": "Butcher",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/21/ALANNA-BUTCHER-16.jpg",
+        "school": "La Jolla Country Day School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/alannabutcher/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/annika-bryant-59035a214",
+                "https://www.linkedin.com/in/clairejarcher"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/alanna.butcher.9/"
+            ]
+        }
+    },
+    {
+        "first_name": "Karoline",
+        "last_name": "Hernes",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/21/KAROLINE-HERNES-17.jpg",
+        "school": "Byaasen Videregaaende Skole",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/karolinehernes/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/holly-hermes-70233b9"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Belle",
+        "last_name": "Golden",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/21/BELLE-GOLDEN-18.jpg",
+        "school": "The Spence School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/bellegoldennn/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/belle.golden.106/",
+                "https://www.facebook.com/belle.golden.106/"
+            ]
+        }
+    },
+    {
+        "first_name": "Abigail",
+        "last_name": "Solomon",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/21/ABIGAIL-SOLOMON-19.jpg",
+        "school": "Chapin School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@abigail.solomon"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Addison",
+        "last_name": "Bray",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/21/ADDISON-BRAY-20.jpg",
+        "school": "Westlake High School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/addisonb__/",
+                "https://www.instagram.com/addabray/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/addison.bray/",
+                "https://m.facebook.com/photo/"
+            ]
+        }
+    },
+    {
+        "first_name": "Chloe",
+        "last_name": "Laureano",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/21/CHLOE-LAUREANO-21.jpg",
+        "school": "American Heritage School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Logan",
+        "last_name": "Jacobs",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/21/LOGAN-JACOBS-22.jpg",
+        "school": "Avon",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/lbj.10/",
+                "https://www.instagram.com/losjako/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/logan-bud-jacobs-74337a263"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Marisa",
+        "last_name": "Shorrock",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/21/MARISA-SHORROCK-23.jpg",
+        "school": "Staples",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/marisashorrock"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Laila",
+        "last_name": "Booker",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/21/LAILA-BOOKER-24.jpg",
+        "school": "Our Lady of Good Counsel",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/layla.booker/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/laila-booker-5a9895262",
+                "https://www.linkedin.com/in/laila-booker-188523206"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Ellie",
+        "last_name": "Rappole",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/21/ELLIE-RAPPOLE-25.jpg",
+        "school": "Winchester",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/ellie-rappole-673203258"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/79332913550_727299299440419",
+                "https://m.facebook.com/79332913550_727794439390905"
+            ]
+        }
+    },
+    {
+        "first_name": "Tanner",
+        "last_name": "Cahalan",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/21/TANNER-CAHALAN-27.jpg",
+        "school": "Redondo Union",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Abby",
+        "last_name": "Moos",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/21/ABBY-MOOS-28.jpg",
+        "school": "Los Altos",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Rebeka",
+        "last_name": "R\u00f3th",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/21/REBEKA-ROTH-29.jpg",
+        "school": "Veres P\u00e9ter Gimn\u00e1zium",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/rothrebeka/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/rebekaroth",
+                "https://www.linkedin.com/in/rebeka-roth-200370198"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Penelope",
+        "last_name": "Hansen",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/21/PENELOPE-TEAM-IMPACT.jpg",
+        "school": null,
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/penelope_hans/",
+                "https://www.instagram.com/penelope.hanson/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Ashley",
+        "last_name": "Kirschner",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/21/ASHLEY-KIRSHNER-33.jpg",
+        "school": "Liberty",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/ash.kirsch6/",
+                "https://www.instagram.com/ashley_kirschner/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/ashley-kirschner-a1481a287",
+                "https://www.linkedin.com/in/ashley-b-kirschner"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Halle",
+        "last_name": "Sherlock",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Sherlock.jpg",
+        "school": "Timberline",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/halle_sherlock/",
+                "https://www.instagram.com/yalevolleyball/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/halle-sherlock-97152b297",
+                "https://www.linkedin.com/in/halle-sherlock-82673795"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Fatima",
+        "last_name": "Samb",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Samb.jpg",
+        "school": "Bolles",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/tafichou/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Laurece",
+        "last_name": "Abraham",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Abraham_SMIIl.jpg",
+        "school": "Detroit Country Day",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/laurece-e-abraham-6ab25a114",
+                "https://www.linkedin.com/in/j-laurece-abraham-phd-mba-7414221a"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/profile.php"
+            ]
+        }
+    },
+    {
+        "first_name": "Emma",
+        "last_name": "Shadwick",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/DS6_1716_copy.jpg",
+        "school": "Henry Clay",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/emmakateshad/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/photo/"
+            ]
+        }
+    },
+    {
+        "first_name": "Arya",
+        "last_name": "Jue",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/6.jpg",
+        "school": "Laurel Springs School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/aryajue06/"
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@ayundotils"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Lauren",
+        "last_name": "Kellen",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Kellen.jpg",
+        "school": "Gulf Breeze",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/lauren.kellen/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/lauren-kellen-94973b299"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Gigi",
+        "last_name": "Barr",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Barr.jpg",
+        "school": "York Community",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/gigi-barr-851843285",
+                "https://www.linkedin.com/in/gigi-graff-292b3131"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@yalevolleyball",
+                "https://www.tiktok.com/@gigibarr"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Maile",
+        "last_name": "Somera",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Somera.jpg",
+        "school": "Barrington",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/mailesomera/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/maile-somera-21b1381b8"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@mailesomera"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Bonnie",
+        "last_name": "Bostic",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Bostic.jpg",
+        "school": "Carmel",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/bonbonbostic/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/222001"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Bella",
+        "last_name": "Chan",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Chan.jpg",
+        "school": "Torrey Pines",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@bellachan698"
+            ],
+            "facebook": [
+                "https://www.facebook.com/bella.chan2/"
+            ]
+        }
+    },
+    {
+        "first_name": "Mila",
+        "last_name": "Yarich",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Yarich.jpg",
+        "school": "Robinson",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/milaayarich/",
+                "https://www.instagram.com/yalevolleyball/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/mila-yarich-52758223a",
+                "https://www.linkedin.com/in/222001"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jaidynn",
+        "last_name": "Perkins-Martin",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Perkins_Martin.jpg",
+        "school": "Ramsay",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Payton",
+        "last_name": "Bryan",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Bryan.jpg",
+        "school": "Benjamin School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/paytonbryan/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/payton-bryan"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Cara",
+        "last_name": "Shultz",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Shultz.jpg",
+        "school": "Bishop Shanahan",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@cara.shultz"
+            ],
+            "facebook": [
+                "https://www.facebook.com/CaraLShultz/"
+            ]
+        }
+    },
+    {
+        "first_name": "Carly",
+        "last_name": "Diehl",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Diehl.jpg",
+        "school": "Torrey Pines",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/carlydiehl/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/carly-diehl-6697411b2"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@yalevolleyball"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Audrey",
+        "last_name": "Leak",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2022/8/22/Audrey_Leak_closer_head_shot.JPG",
+        "school": "Dwight-Englewood",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/audrey-leak-693a551b5"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/audrey.leak.5/"
+            ]
+        }
+    },
+    {
+        "first_name": "Chidera",
+        "last_name": "Chukwumerije",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Chukwumerije.jpg",
+        "school": "Cate School",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/chidera-chukwumerije-a91085240"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Isabella",
+        "last_name": "Mendoza",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/DS6_1663_copy.jpg",
+        "school": "Divine Savior Academy",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/isabbellamendoza/",
+                "https://www.instagram.com/isabbellamendoza/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Betsy",
+        "last_name": "Goodenow",
+        "profile picture": "https://d3mojdi32uv7q.cloudfront.net/images/2023/8/18/Goodenow.jpg",
+        "school": "St. Thomas Aquinas",
+        "instagram": null,
+        "university": "Yale University",
+        "city": "New Haven",
+        "state": "Connecticut",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/betsy-goodenow-33932322b"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    }
+]

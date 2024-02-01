@@ -1,0 +1,4651 @@
+[
+    {
+        "first_name": "AJ",
+        "last_name": "Hansen",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2022/11/11/AJ_Hansen_Headshot.png",
+        "school": "Perkiomen Valley",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/villanovabaseball/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/anthony-hansen-43b293251"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Cameron",
+        "last_name": "Hassert",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2022/11/11/Cameron_Hassert_Headshot.png",
+        "school": "Silver Creek",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/camhassert"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@camhassert",
+                "https://www.tiktok.com/@cameronhassert"
+            ],
+            "facebook": [
+                "https://www.facebook.com/cam.hassert/"
+            ]
+        }
+    },
+    {
+        "first_name": "Jason",
+        "last_name": "Neff",
+        "profile picture": null,
+        "school": "Palm Beach Central",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/jason-neff-a6656b205",
+                "https://www.linkedin.com/in/jasonpneff"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Dylan",
+        "last_name": "Dennis",
+        "profile picture": null,
+        "school": "Mira Costa High School",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Nathan",
+        "last_name": "Jones",
+        "profile picture": null,
+        "school": "Greenwich High",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/nathan2jones/",
+                "https://www.instagram.com/rictus_erectus/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/NathanJonesOfficial1/"
+            ]
+        }
+    },
+    {
+        "first_name": "Tim",
+        "last_name": "Schuler",
+        "profile picture": null,
+        "school": "La Salle College High School",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/tim.schuler/",
+                "https://www.instagram.com/timschuler__/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/tim-schuler-017b27298"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/timshu14/",
+                "https://www.facebook.com/tim.schuler.90/"
+            ]
+        }
+    },
+    {
+        "first_name": "Luke",
+        "last_name": "Mutz",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2022/11/11/Luke_Mutz_Headshot.png",
+        "school": "Strath Haven",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/luke-mutz-51a05899"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Ryan",
+        "last_name": "Mintz",
+        "profile picture": null,
+        "school": "Willowbrook High School",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/ryan-mintz"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/ryan.mintz.129/"
+            ]
+        }
+    },
+    {
+        "first_name": "Marcus",
+        "last_name": "LaBuda",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2022/11/11/Marcus_LaBuda_Headshot.png",
+        "school": "Hazleton Area",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/marcus_labuda/",
+                "https://www.instagram.com/villanovabaseball/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "John",
+        "last_name": "Whooley",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2022/11/11/John_Whooley_Headshot.png",
+        "school": "Ramapo",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/john-whooley-1b697720"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/3309861842433600/"
+            ]
+        }
+    },
+    {
+        "first_name": "Michael",
+        "last_name": "Whooley",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2022/11/11/Michael_Whooley_Headshot.png",
+        "school": "Ramapo",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/mwhools23/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/michael-whooley-9588b618"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/michael.whooley.9/"
+            ]
+        }
+    },
+    {
+        "first_name": "Connor",
+        "last_name": "Hale",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2022/11/11/Connor_Hale_Headshot.png",
+        "school": "Broad Run",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/connor___hale/",
+                "https://www.instagram.com/connorhale/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Luke",
+        "last_name": "Matta",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2022/11/11/Luke_Matta_Headshot.png",
+        "school": "Shenandoah Valley",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/luke-matta-bb353525a"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@lukematta37"
+            ],
+            "facebook": [
+                "https://www.facebook.com/luke.matta.56/"
+            ]
+        }
+    },
+    {
+        "first_name": "Scott",
+        "last_name": "Shaw",
+        "profile picture": null,
+        "school": null,
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/scottshaw.photo/",
+                "https://www.instagram.com/senkawascott/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/scotttshaw",
+                "https://www.linkedin.com/in/scott-shaw-baa20216"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/ScottShawExclamationPoint/",
+                "https://www.facebook.com/scott.shaw.1428/"
+            ]
+        }
+    },
+    {
+        "first_name": "Patrick",
+        "last_name": "Montfort",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2022/11/11/Patrick_Montfort_Headshot_vB5NC.png",
+        "school": "Morristown",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/pmonfort1/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/patrick-montfort"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/patrick.montfort.16/"
+            ]
+        }
+    },
+    {
+        "first_name": "Shane",
+        "last_name": "Solari",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2022/11/11/Shane_Solari_Headshot_7ybrb.png",
+        "school": "Holy Spirit",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/shane.solari/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/shanemcnichol"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@shanesolari5"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Devin",
+        "last_name": "Rivera",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2022/11/11/Devin_Rivera_Headshot.png",
+        "school": "Don Bosco Prep",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@devin_rivera"
+            ],
+            "facebook": [
+                "https://www.facebook.com/devin.rivera.a/",
+                "https://www.facebook.com/devin.rivera.14/"
+            ]
+        }
+    },
+    {
+        "first_name": "Zach",
+        "last_name": "Camp",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2022/11/11/Zach_Camp_Headshot.png",
+        "school": "The Walker School",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/zachccamp/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/zachary-camp-515533183"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@z_camp13"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jake",
+        "last_name": "Bollin",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2022/11/11/Jake_Bollin_Headshot.png",
+        "school": "Noble and Greenough",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/villanovabaseball/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/jakebollin"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/VillanovaBaseball/"
+            ]
+        }
+    },
+    {
+        "first_name": "Collin",
+        "last_name": "Quintano",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2022/11/11/Collin_Quintano_Headshot.png",
+        "school": "Notre Dame Green Pond",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/collinquintano1/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/collin-quintano",
+                "https://www.linkedin.com/in/collin-quintano-134a3924a"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Cade",
+        "last_name": "Udell",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2022/11/11/Cade_Udell_Headshot.png",
+        "school": "Lake Mary",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/VillanovaLaw/"
+            ]
+        }
+    },
+    {
+        "first_name": "Josue",
+        "last_name": "Valdez",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2022/11/11/Josue_Valdez_Headshot.png",
+        "school": "Salesian",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/villanovabaseball/"
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@uchii3.3",
+                "https://www.tiktok.com/@josh_pass"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Rian",
+        "last_name": "Schwede",
+        "profile picture": null,
+        "school": "Whitman-Hanson",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/rian.schwede/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/rian-schwede-9a1a67197",
+                "https://www.linkedin.com/in/ryan-schwede-a466952"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Stephen",
+        "last_name": "Turzai",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2022/11/11/Stephen_Turzai_Headshot.png",
+        "school": "Vincentian Academy",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/stephen_turzai/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/stephen-turzai-7542b4251"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Aidan",
+        "last_name": "Barry",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2022/11/11/Aidan_Barry_Headshot.png",
+        "school": "Medford",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/aidan-barry-3093201bb"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@MS4wLjABAAAALqP05kKTtOI4vgKQ_dtXw3vIPgNQIkrQYitBCa7vXcJ2bW0V2FvD7JtLXaTMlTPF"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jake",
+        "last_name": "Francis",
+        "profile picture": null,
+        "school": "The Pingry School",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/jakefranny31/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Avery",
+        "last_name": "Schwartz",
+        "profile picture": null,
+        "school": "Phoenixville Area High School",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/avery-schwartz-808657224",
+                "https://www.linkedin.com/in/avery-schwartz"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@averyschwartz_"
+            ],
+            "facebook": [
+                "https://www.facebook.com/avery.schwartz.1650/"
+            ]
+        }
+    },
+    {
+        "first_name": "Luke",
+        "last_name": "McCullough",
+        "profile picture": null,
+        "school": "Coronado High School",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/luke.mccullough/",
+                "https://www.instagram.com/luke.mccullough_/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/luke-mccullough-7366381a5"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "August",
+        "last_name": "Biggio",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2022/11/11/August_Biggio_Headshot.png",
+        "school": "Riverdale Country School (N.Y.)",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/villanovau/",
+                "https://www.instagram.com/villanovabaseball/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/gabriella-august"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@villanovabluekey"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jack",
+        "last_name": "O'Reilly",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2022/11/11/Jack_O_Reilly_Headshot.png",
+        "school": "The Episcopal Academy",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/jackkoreilly/",
+                "https://www.instagram.com/villanovabaseball/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/jack-o-reilly-01825b1bb",
+                "https://www.linkedin.com/in/jack-o-reilly-916188145"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/jack.oreilly.1441/"
+            ]
+        }
+    },
+    {
+        "first_name": "Conor",
+        "last_name": "Smith",
+        "profile picture": null,
+        "school": "Riverside High School",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/conorjacobsmith/",
+                "https://www.instagram.com/conormichaelsmith/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/connor-smith-9a8037292",
+                "https://www.linkedin.com/in/conor-smith-329117175"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@villanovauniversity",
+                "https://www.tiktok.com/@conorxsmith"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "CJ",
+        "last_name": "Furey",
+        "profile picture": null,
+        "school": "Saint Augustine Preparatory School",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/cj.furey/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/VillanovaU/"
+            ]
+        }
+    },
+    {
+        "first_name": "Graham",
+        "last_name": "Moore",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2022/11/11/Graham_Moore_Headshot.png",
+        "school": "The Bolles School",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/grahammooreuk/",
+                "https://www.instagram.com/gnmooreca/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/graham-moore-75578726b"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Trent",
+        "last_name": "Toole",
+        "profile picture": null,
+        "school": null,
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/bruce-mccann-376aa5b"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/VillanovaSchoolofBusiness/"
+            ]
+        }
+    },
+    {
+        "first_name": "Dylan",
+        "last_name": "Rorech",
+        "profile picture": null,
+        "school": "Friends Academy",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Alec",
+        "last_name": "Sachais",
+        "profile picture": null,
+        "school": "Holy Spirit High School",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/ajsachais18/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/alecsachais",
+                "https://www.linkedin.com/in/max-rotondo-30966922b"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "TJ",
+        "last_name": "Bamba",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/29/TJ_Bamba_0.jpg",
+        "school": "Abraham Lincoln (Col.)",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/tjbamba/",
+                "https://www.instagram.com/villanova.updates/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/NovaMBB/",
+                "https://www.facebook.com/NovaMBB/"
+            ]
+        }
+    },
+    {
+        "first_name": "Brendan",
+        "last_name": "Hausen",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/29/Brendan_Hausen_1.jpg",
+        "school": "Amarillo",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/brendan-hausen-215937246"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@brendanhausen1"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Mark",
+        "last_name": "Armstrong",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/29/Mark_Armstrong_2.jpg",
+        "school": "Saint Peter's Prep",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/markarmstr0ng/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Trey",
+        "last_name": "Patterson",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/29/Trey_Patterson_13.jpg",
+        "school": "Rutgers Prep",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/treypatterson14/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/trey-patterson-0748b",
+                "https://www.linkedin.com/in/trey-patterson-b5b77138"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Chris",
+        "last_name": "Arcidiacono",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/29/Chris_Arcidiacono_4.jpg",
+        "school": "Perkiomen School",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/chrisarch4/",
+                "https://www.instagram.com/ry_arch15/"
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@novashot21"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Justin",
+        "last_name": "Moore",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/29/Justin_Moore_5.jpg",
+        "school": "DeMatha",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/yoojustoo/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/justin-moore-125b7b13",
+                "https://www.linkedin.com/in/justin-moore-7420a610"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jordann",
+        "last_name": "Dumont",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/29/Jodrann_Dumont_10.jpg",
+        "school": "Hamilton Heights Christian (Tenn.)",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/call_me_jordann/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/dumontjordan",
+                "https://www.linkedin.com/in/jordan-meier2001"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@jordandumontt"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Collin",
+        "last_name": "O'Toole",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/29/Collin_O_Toole_12.jpg",
+        "school": "St. Thomas More",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/collinotoole/",
+                "https://www.instagram.com/cboogi_10/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Hakim",
+        "last_name": "Hart",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/29/Hakim_Hart_13.jpg",
+        "school": "Roman Catholic",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/hakimhart13/",
+                "https://www.instagram.com/hakimhart13/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/hakim-hart-662476266"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/NovaMBB/"
+            ]
+        }
+    },
+    {
+        "first_name": "Lance",
+        "last_name": "Ware",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/29/Lance_Ware_14.jpg",
+        "school": "Camden",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/lance.ware/",
+                "https://www.instagram.com/lance.ware/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/lanceware",
+                "https://www.linkedin.com/in/lanceaware851"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jordan",
+        "last_name": "Longino",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/29/Jordan_Longino_15.jpg",
+        "school": "Germantown Academy",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/jordanlongino/",
+                "https://www.instagram.com/jordanlongino/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Nnanna",
+        "last_name": "Njoku",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/29/Nnanna_Njoku_21.jpg",
+        "school": "Sanford School",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Tyler",
+        "last_name": "Burton",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/29/Tyler_Burton_23.jpg",
+        "school": "Marianapolis Prep",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/tyler-burton-1648631b3",
+                "https://www.linkedin.com/in/tylerianburton"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Eric",
+        "last_name": "Dixon",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/29/Eric_Dixon_43.jpg",
+        "school": "Abington",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/cantguardric/",
+                "https://www.instagram.com/cantguardric/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/eric-dixon-77971485",
+                "https://www.linkedin.com/in/eric-dixon-9107b1163"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Danny",
+        "last_name": "Abraham",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Abraham__Danny.jpg",
+        "school": "Boston College HS",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/danny-abraham"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Temi",
+        "last_name": "Ajirotutu",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Ajirotutu__Temi.jpg",
+        "school": "Eagle Academy",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/temi-ajirotutu-6a3728277"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "TD",
+        "last_name": "Ayo-Durojaiye",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2022/8/11/TD_Ayo_Durojaiye.jpg",
+        "school": "Damascus",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "DeeWil",
+        "last_name": "Barlee",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Barlee__DeeWil.jpg",
+        "school": "Episcopal",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/_kingwil_20/",
+                "https://www.instagram.com/_kingwil_20/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/deewil-barlee-8741b8232"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/deewil.barlee/"
+            ]
+        }
+    },
+    {
+        "first_name": "Brendan",
+        "last_name": "Bell",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Bell__Brendan.jpg",
+        "school": "Ridge",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Nino",
+        "last_name": "Betances",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Betances__Nino.jpg",
+        "school": "Eagle Academy II",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/villanovau/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Erik",
+        "last_name": "Bockisch",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Bockisch__Erik.jpg",
+        "school": "Salisbury School (Conn.)",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/erik-bockisch-58895b205"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/erik.bockisch.5/"
+            ]
+        }
+    },
+    {
+        "first_name": "Mitchell",
+        "last_name": "Bothwell",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Bothwell__Mitchell.jpg",
+        "school": "All Saints Episcopal School",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/mitchell-bothwell-067267211",
+                "https://www.linkedin.com/in/mitchell-bothwell-a017851a8"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Tommy",
+        "last_name": "Broderick",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Broderick__Tommy.jpg",
+        "school": "Cambridge",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/cambridgehsfootball/",
+                "https://www.instagram.com/cornellfieldhockey/"
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@thomasbroderick23"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Tim",
+        "last_name": "Brown",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Brown__Tim.jpg",
+        "school": "Bishop McDevitt",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@tbdesigns77"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Christian",
+        "last_name": "Caballero",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Caballero__Christian.jpg",
+        "school": "Niceville",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/cristiancaballeroguitar/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/christian-caballero"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Ethan",
+        "last_name": "Carr",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Carr__Ethan.jpg",
+        "school": "Penn-Trafford",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/runemc12/",
+                "https://www.instagram.com/imethancarr/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/ethan.carr.9469/"
+            ]
+        }
+    },
+    {
+        "first_name": "Nolan",
+        "last_name": "Clayton",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Clayton__Nolan.jpg",
+        "school": "Upper Merion",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/nolan.clayton19/"
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@nolanclayton"
+            ],
+            "facebook": [
+                "https://www.facebook.com/nolan.clayton.79/"
+            ]
+        }
+    },
+    {
+        "first_name": "Michael",
+        "last_name": "Corbi",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Corbi__Michael.jpg",
+        "school": "Mount Saint Joseph",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/michael.corbi/"
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@mikecorbi_18"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Luke",
+        "last_name": "Daly",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Daly__Luke.jpg",
+        "school": "Trinity-Pawling",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/iamlukedaly/",
+                "https://www.instagram.com/novafootball/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/luke-daly-34101225b"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Zahmir",
+        "last_name": "Dawud",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Dawud__Zahmir.jpg",
+        "school": "North Brunswick",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Chris",
+        "last_name": "Dobrydney",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Dobrydney__Chris.jpg",
+        "school": "Woodson",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/chris-dobrydney"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Ian",
+        "last_name": "Erickson",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Erickson__Ian.jpg",
+        "school": "Marist School",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/ian.ericksn/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/ian-erickson",
+                "https://www.linkedin.com/in/ian-erickson-99624113b"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@ianerickson1"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Kyle",
+        "last_name": "Fay",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Fay__Kyle.jpg",
+        "school": "Cranford",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@kylef_vb08"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Dane",
+        "last_name": "Fidler",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Fidler__Dane.jpg",
+        "school": "Apache Junction (Ariz.)",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/dan-fidler"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Nathan",
+        "last_name": "Fondacaro",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Fondacaro__Nathan.jpg",
+        "school": "St. Augustine Prep",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/nathan-sauder-625288239"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Timmy",
+        "last_name": "Furgeson",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Furgeson__Timmy.jpg",
+        "school": "Damascus",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/VillanovaU/"
+            ]
+        }
+    },
+    {
+        "first_name": "Camden",
+        "last_name": "Gagnon",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Gagnon__Camden.jpg",
+        "school": "The Governor's Academy (Mass.)",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Julian",
+        "last_name": "Glantz",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Glantz__Julian.jpg",
+        "school": "Scarsdale",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/mohardic/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/julianglantz"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/julian.glantz/"
+            ]
+        }
+    },
+    {
+        "first_name": "Elijah",
+        "last_name": "Glover",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Glover__Elijah.jpg",
+        "school": "Pleasantville",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/elijah-glover3"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jalen",
+        "last_name": "Goodman",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Goodman__Jalen.jpg",
+        "school": "Lower Merion",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jake",
+        "last_name": "Green",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Green__Jake.jpg",
+        "school": "North Schuylkill",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/jake-green-004295286"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@jake.green"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jason",
+        "last_name": "Hall",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Hall__Jason.jpg",
+        "school": "Suffield Academy (Conn.)",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/villanovau/",
+                "https://www.instagram.com/villanovau/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/jasonerichall"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Shane",
+        "last_name": "Hartzell",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Hartzell__Shane.jpg",
+        "school": "Pennridge",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/shane.hartzell/",
+                "https://www.instagram.com/hartzellshane/"
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@shanehartzell145"
+            ],
+            "facebook": [
+                "https://m.facebook.com/shane.hartzell.7/"
+            ]
+        }
+    },
+    {
+        "first_name": "Jaaron",
+        "last_name": "Hayek",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Hayek__Jaaron.jpg",
+        "school": "Wayne Hills",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/jaaron-hayek-0a987b18a"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/jaaron.hayek/",
+                "https://m.facebook.com/jaaron.hayek/"
+            ]
+        }
+    },
+    {
+        "first_name": "Nathaniel",
+        "last_name": "Hill",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Hill__Nathaniel_HOyQf.jpg",
+        "school": "Parish Episcopal",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/nwhill/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/nathanielahill",
+                "https://www.linkedin.com/in/nathaniel-hill-b23056249"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Ayden",
+        "last_name": "Howard",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Howard__Oi4u9.jpg",
+        "school": "Bishop Lynch",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/ayden_howard/",
+                "https://www.instagram.com/aydenhoward_/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Wyatt",
+        "last_name": "Hummel",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Hummel__8vJTS.jpg",
+        "school": "Jesuit College Prep",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/wyatthummel_/",
+                "https://www.instagram.com/wyatt_hummel/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Turner",
+        "last_name": "Inge",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/7-11-23_124_-_Copy.jpg",
+        "school": "Williamstown",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/tinge.5/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jalen",
+        "last_name": "Jackson",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Jackson__f0B2J.jpg",
+        "school": "Thomas Jefferson",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/jalen-jackson-b78391208"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Antonio",
+        "last_name": "Johnson",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Johnson__Antonio_WtAhc.jpg",
+        "school": "St. Thomas Aquinas",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Colin",
+        "last_name": "Kennedy",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Kennedy__fxO7y.jpg",
+        "school": "Rumson-Fair Haven",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/colinmkennedy/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Mike",
+        "last_name": "Kennedy",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Kennedy__Mike_m8c81.jpg",
+        "school": "Southside Christian",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/mikekkennedy/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/mtkennedy"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@mike.kennedy31"
+            ],
+            "facebook": [
+                "https://www.facebook.com/michael.kennedy.9404/"
+            ]
+        }
+    },
+    {
+        "first_name": "Richie",
+        "last_name": "Kimmel",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Kimmel__Richie_VFEku.jpg",
+        "school": "Archbishop Carroll",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Tyler",
+        "last_name": "Langin",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Langin__VoXDn.jpg",
+        "school": "St. Thomas",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/tyler.langin.1/"
+            ]
+        }
+    },
+    {
+        "first_name": "Dale",
+        "last_name": "Law",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Law__Dale_o0GMr.jpg",
+        "school": "Malvern Prep",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/VillanovaLaw/"
+            ]
+        }
+    },
+    {
+        "first_name": "Luke",
+        "last_name": "Leupold",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Leupold__Luke_4b461.jpg",
+        "school": "St. Ignatius",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/lukecgallagher"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Daniel",
+        "last_name": "Lopes",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Lopes__Daniel_MVa3F.jpg",
+        "school": "Cheshire Academy",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/daniel-lopes-23961429a",
+                "https://www.linkedin.com/in/danielle-lopes-a406b9285"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Ja'briel",
+        "last_name": "Mace",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Mace__Ja_nPpx3.jpg",
+        "school": "Mainland Regional",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Tanner",
+        "last_name": "Maddocks",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Maddocks__Tanner_YDjf6.jpg",
+        "school": "Fleetwood",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/tmaddocks04/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/tanner-maddocks"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/tanner.maddocks.9/"
+            ]
+        }
+    },
+    {
+        "first_name": "Justin",
+        "last_name": "Marcus",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Marcus__Justin_y7EeX.jpg",
+        "school": "Marlboro",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/justin__marcus/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/justin-marcus-42661568"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Derek",
+        "last_name": "Marrero",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Marrero__b53lj.jpg",
+        "school": "Cornwall Central",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/jonu3l__/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Devon",
+        "last_name": "Marshall",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Marshall__NHkTE.jpg",
+        "school": "Catholic Memorial",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/devon.marshall/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/dgmarshall",
+                "https://www.linkedin.com/in/devinamarshall"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Capri",
+        "last_name": "Martin",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Martin__syTu4.jpg",
+        "school": "Iona Prep (N.Y.)",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Chris",
+        "last_name": "McCullers",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/McCullers__NCyau.jpg",
+        "school": "Woodgrove",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/villanovau/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Dan",
+        "last_name": "McManus",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/McManus__Dan_78yvd.jpg",
+        "school": "Cardinal O'Hara",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/dan-mcmanus43",
+                "https://www.linkedin.com/in/dan-mcmanus1989"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Nigel",
+        "last_name": "McSween",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/McSween__OA8qq.jpg",
+        "school": "Delbarton",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/santiago-colon"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Matthew",
+        "last_name": "Mercurio",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Mercurio__Matthew_qaAAv.jpg",
+        "school": "Palma",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Kenyon",
+        "last_name": "Miles",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Miles__Kenyon_HFFSZ.jpg",
+        "school": "St. Anthony's",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Tyrell",
+        "last_name": "Mims",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Mims__Tyrell_pLoYt.jpg",
+        "school": "Martin Luther King",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@officialrellmims",
+                "https://www.tiktok.com/@MS4wLjABAAAASbFm32EvB87vahX6tkVItRiQYBX2Ja2Q6eiAtYW_polDlIY_g4RwPUbRDB_w7y3b"
+            ],
+            "facebook": [
+                "https://www.facebook.com/1rellmims/"
+            ]
+        }
+    },
+    {
+        "first_name": "James",
+        "last_name": "Mott",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/Mott__James.jpg",
+        "school": "St. Margaret's Episcopal",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Daniel",
+        "last_name": "Mueller",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Mueller__Daniel_mRO19.jpg",
+        "school": "Lancaster Catholic",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/daniel-mueller-70586a274",
+                "https://www.linkedin.com/in/solid-daniel-mueller"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@danielnosbaixos"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Ivan",
+        "last_name": "Murray",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Murray__Ivan_FcFGo.jpg",
+        "school": "Paulsboro",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jordan",
+        "last_name": "Nelson",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Nelson__Jordan_A2Tbh.jpg",
+        "school": "Palmerton Area",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/jordan_nelson19/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Irene",
+        "last_name": "Ngabonziza",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Ngabonziza__VA8D7.jpg",
+        "school": "Nolan Catholic",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/iren%C3%A9-ngabonziza-799b21233"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Obinna",
+        "last_name": "Nwobodo",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Nwobodo__Obinna_jcypt.jpg",
+        "school": "Delaware County Christian School (Pa.)",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Josh",
+        "last_name": "Oluremi",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Oluremi__Josh_6zeDM.jpg",
+        "school": "Colonia",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/joshua_oluremi/",
+                "https://www.instagram.com/villanovachicks/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jake",
+        "last_name": "Picard",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Picard__Jake_2VAAJ.jpg",
+        "school": "Bishop Hendricken",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/jake.picard/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/jake-picard-a52441183"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@jakepicard73"
+            ],
+            "facebook": [
+                "https://www.facebook.com/jake.picard.923/",
+                "https://m.facebook.com/jake.picard.923/"
+            ]
+        }
+    },
+    {
+        "first_name": "Chandon",
+        "last_name": "Pierre",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Pierre__Chandon_MqlT4.jpg",
+        "school": "Folsom (Calif.)",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Ethan",
+        "last_name": "Potter",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Potter__2K5Up.jpg",
+        "school": "Caravel Academy",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/ethan.potter.3344/"
+            ]
+        }
+    },
+    {
+        "first_name": "Rayjuon",
+        "last_name": "Pringle",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Pringle__Rayjuon_NILOg.jpg",
+        "school": "Hayfield Secondary School",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/novaathletics/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Isaiah",
+        "last_name": "Ragland",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Ragland__Isaiah_XbfDi.jpg",
+        "school": "Centreville",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/isaiah.ragland/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/isaiah-ragland-9a481793",
+                "https://www.linkedin.com/in/isaiah-ragland-81053319b"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jake",
+        "last_name": "Reichwein",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Reichwein__Jake_2JpFH.jpg",
+        "school": "Central Bucks West",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "RJ",
+        "last_name": "Reyes",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Reyes__RJ_dEy14.jpg",
+        "school": "Western",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@villanovabluekey"
+            ],
+            "facebook": [
+                "https://www.facebook.com/VillanovaU/"
+            ]
+        }
+    },
+    {
+        "first_name": "John",
+        "last_name": "Rhodan",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Rhodan__John_t9SoH.jpg",
+        "school": "Elkton",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/johnfhoraniii",
+                "https://www.linkedin.com/in/jcdee"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/profile.php"
+            ]
+        }
+    },
+    {
+        "first_name": "Garrett",
+        "last_name": "Rogan",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Rogan__Garrett_WAM0h.jpg",
+        "school": "Mercer Island",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jaden",
+        "last_name": "Rolling",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Rolling__vjYDz.jpg",
+        "school": "Hudson Catholic",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/villanovau/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/VillanovaU/"
+            ]
+        }
+    },
+    {
+        "first_name": "Robert",
+        "last_name": "Russo",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Russo__Robert_2csAO.jpg",
+        "school": "Delbarton (N.J.)",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/robrusso3/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jack",
+        "last_name": "Ryder",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Ryder__Jack_XMcNY.jpg",
+        "school": "Strath Haven/IMG Academy (Fla.)",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/jackrydersessions/",
+                "https://www.instagram.com/jackryderr/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jaylan",
+        "last_name": "Sanchez",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2022/8/11/Jaylan_Sanchez.jpg",
+        "school": "St. Peter's Prep/St. Thomas Aquinas (Fla.)",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/jaylannsanchez/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/photo.php"
+            ]
+        }
+    },
+    {
+        "first_name": "Christian",
+        "last_name": "Sapp",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Sapp__Christian_Gx8O5.jpg",
+        "school": "East Stroudsburg South",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/christiansapp",
+                "https://www.linkedin.com/in/christian-sapp"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/VUFootball/"
+            ]
+        }
+    },
+    {
+        "first_name": "Kshawn",
+        "last_name": "Schulters",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Schulters__Kshawn_bSjLP.jpg",
+        "school": "Saint Joseph",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Eli",
+        "last_name": "Smith",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Smith__Eli_Thw8x.jpg",
+        "school": "Second Baptist",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/eli_smith_etc/",
+                "https://www.instagram.com/elismith22/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/elijah-smith-0766ab276",
+                "https://www.linkedin.com/in/ellie-smith-villanova"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@elismithw"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Sebastian",
+        "last_name": "Smith",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/24/Kicker.JPG",
+        "school": "Squalicum",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/sea_bass_21/",
+                "https://www.instagram.com/sebastianhsmith/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/sebastian-smith-7256a4263"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Ryan",
+        "last_name": "Sorge",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Sorge__Ryan_PCIcM.jpg",
+        "school": "La Salle College HS",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/ryansorge_/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/ryan-sorge",
+                "https://www.linkedin.com/in/ryansorge"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "JR",
+        "last_name": "Strauss",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Strauss__JR_OXp7t.jpg",
+        "school": "Exeter Township",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/david-alldian-jr-790078b6",
+                "https://www.linkedin.com/in/jeff-strauss-025a777"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Nick",
+        "last_name": "Torres",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Torres__Nick_O0fGf.jpg",
+        "school": "Salisbury School (Conn.)",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/nicholas-torres-872251205"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Ty",
+        "last_name": "Trinh",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Trinh__Ty_GotcD.jpg",
+        "school": "Calvert Hall College HS",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Adam",
+        "last_name": "Vanino",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Vanino__Adam_X6uqi.jpg",
+        "school": "Wilson",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/adamvanino/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/adam.vanino.39/"
+            ]
+        }
+    },
+    {
+        "first_name": "Stephane",
+        "last_name": "Voltaire",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Voltaire__Stephane_e6C9T.jpg",
+        "school": "Tabor Academy",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@stephanevoltaire82"
+            ],
+            "facebook": [
+                "https://www.facebook.com/stephane.voltaire.7/",
+                "https://m.facebook.com/stephane.voltaire.7/"
+            ]
+        }
+    },
+    {
+        "first_name": "Connor",
+        "last_name": "Watkins",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/7-11-23_170_-_Copy.jpg",
+        "school": "Loyalsock Twp.",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@connrrwatkins"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Isas",
+        "last_name": "Waxter",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Waxter__Isas_QlLV7.jpg",
+        "school": "Immaculate Conception",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/its.ice/",
+                "https://www.instagram.com/its.ice/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/isas-waxter-b952bb1ba"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/isas.waxter.7/"
+            ]
+        }
+    },
+    {
+        "first_name": "James",
+        "last_name": "Welde",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Welde__jv2V7.jpg",
+        "school": "Monsignor Bonner",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/jameswelde_/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/james-welde-83bb06235",
+                "https://www.linkedin.com/in/jim-welde-72b40a49"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Quin",
+        "last_name": "Whalen",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Whalen__Quin_yqOFu.jpg",
+        "school": "Central Bucks West",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/whalen.98/"
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@qwhalen"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Ben",
+        "last_name": "Wheless",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Wheless__Ben_cDV5M.jpg",
+        "school": "Cardinal Gibbons",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/benjamin-wheless",
+                "https://www.linkedin.com/in/benjamin-villanova-15a4b5212"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jayvont",
+        "last_name": "Williams",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Williams__Jayvont_luewe.jpg",
+        "school": "All Saints Episcopal",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/villanovau/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Isaiah",
+        "last_name": "Wright",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Wright__Isaiah_1mFjk.jpg",
+        "school": "Malvern Prep",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/isaiah.wright.5686322/"
+            ]
+        }
+    },
+    {
+        "first_name": "Jon",
+        "last_name": "Wyatt",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/7/31/Wyatt__Jon_sV20l.jpg",
+        "school": "St. Thomas Aquinas",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "football",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/jonospulse/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/jon-wyatt-511444238"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/JonoWyatt/"
+            ]
+        }
+    },
+    {
+        "first_name": "Kent",
+        "last_name": "Dickey",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/Kent_Dickey_1_mug.jpg",
+        "school": "Maggie L. Walker Governor's School for Government and International Studies",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Foday",
+        "last_name": "Bangura",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/Foday_Bangura_2_mug.jpg",
+        "school": "Mercersburg Academy",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/nova13percent/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/foday-bangura-11389998"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Tommy",
+        "last_name": "Johnson",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/Tommy_Johnson_3_mug.jpg",
+        "school": null,
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/tommy_johnson23/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/tjohns13",
+                "https://www.linkedin.com/in/thomas-johnson-41078891"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Gray",
+        "last_name": "Ricca",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/Gray_Ricca_4_mug.jpg",
+        "school": "Montgomery",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/gray-ricca-136a57247"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jack",
+        "last_name": "Bonas",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/Jack_Bonas_Mug.jpg",
+        "school": null,
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Marcus",
+        "last_name": "Brenes",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/Marcus_Brenes_6_Mug.jpg",
+        "school": "Wayne Hills",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/novamsoccer/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/marcusbrenes"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jordan",
+        "last_name": "Canica",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/Jordan_Canica_7_mug_jANLN.jpg",
+        "school": null,
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/jcanica2/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Dominic",
+        "last_name": "Cyriacks",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/Dominic_Cyriacks_8_Mug.jpg",
+        "school": null,
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/dominic-cyriacks-6bb9b221a"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Balthi",
+        "last_name": "Saunders",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/Balthi_Saunders_9_mug.jpg",
+        "school": null,
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@villanovabluekey"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jorge",
+        "last_name": "Garcia",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/Jorge_Garcia_10_Mug.jpg",
+        "school": null,
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/jorgegarciadihinx/"
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@jorgeweldingco"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Branden",
+        "last_name": "Johns",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/Branden_nJohns_11_mug.jpg",
+        "school": "St. Mary\u2019s Ryken High School",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/branden-johns-178116275"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Luke",
+        "last_name": "Pompliano",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2022/8/15/Luke_Pompliano_12.JPG",
+        "school": null,
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Kyle",
+        "last_name": "Dixon",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/Kyle_Dixon_14_mug.jpg",
+        "school": null,
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Akinjide",
+        "last_name": "Awujo",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/Akinjide_Awujo_16_mug.jpg",
+        "school": null,
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Mikhail",
+        "last_name": "Zaretser",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/Mikhail_Zaretser_17_mug.jpg",
+        "school": null,
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Josh",
+        "last_name": "Oladele",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/Josh_Oladele_18_mug.jpg",
+        "school": "Pennsbury",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/josholadele7/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Vincent",
+        "last_name": "Petrera",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/Vincent_Petrera_19_Mug.jpg",
+        "school": null,
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/VillanovaSoccer/"
+            ]
+        }
+    },
+    {
+        "first_name": "Belmar",
+        "last_name": "Joseph",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/Belmar_Joseph_20_mug.jpg",
+        "school": "St. Benedict's Prep",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/belmar_joseph6/",
+                "https://www.instagram.com/villanovau/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Connor",
+        "last_name": "Hinds",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/Connor_Hinds_22_mug.jpg",
+        "school": null,
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "O'Neil",
+        "last_name": "Dawes",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/O_Neil_Dawes_24_mug.jpg",
+        "school": null,
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/oneil-dawes-635b35274"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@oneilthomas97"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Javon",
+        "last_name": "Daniels",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/Javon_Daniels_25_mug.jpg",
+        "school": "Burlington Township",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/javon-daniels-79463b290",
+                "https://www.linkedin.com/in/javon-daniels-821204290"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Marcello",
+        "last_name": "Mazzola",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/Marcello_Mazzolla_27_mug.jpg",
+        "school": null,
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Anthony",
+        "last_name": "Cousins, Jr.",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/AJ_Cousins_30_mug.jpg",
+        "school": null,
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/anthony-cousins-52bb36274"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Luke",
+        "last_name": "Martelli",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/Luke_Martelli_31_mug.jpg",
+        "school": null,
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/martelliluke13/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Diego",
+        "last_name": "Valles",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/Diego_Valles_36_mug.jpg",
+        "school": null,
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/diegovalles23/",
+                "https://www.instagram.com/diegovallespottery/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/diego-valles-563051188"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Geoffrey",
+        "last_name": "Halpern",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/Geoffrey_Halpern_38_mug.jpg",
+        "school": "Paideida School",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/jeffrey-halpern-23138910"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Michael",
+        "last_name": "Sheridan",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/Michael_Sheridan_99_Mug.jpg",
+        "school": "Ridley",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@michaelsheridann"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Zanai",
+        "last_name": "Jones",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2022/10/20/Zanai_Jones_IUPXf.jpg",
+        "school": "Hudson Catholic",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/zanaijones/",
+                "https://www.instagram.com/villanovau/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/zanai-jones-853607267",
+                "https://www.linkedin.com/in/nizhae-jones-bs-bsn-mph-033925139"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Abby",
+        "last_name": "Jegede",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2022/10/20/Abigal_Jegede_RVFwx.jpg",
+        "school": "King's Christian Collegiate",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/abby.jeg/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Lucy",
+        "last_name": "Olsen",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2022/10/20/Lucy_Olsen_jCCLh.jpg",
+        "school": "Spring-Ford",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/lucy-olsen-7b06a758"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Kaitlyn",
+        "last_name": "Orihel",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2022/10/20/Kaitlyn_Orihel_jADaR.jpg",
+        "school": "Archbishop Wood",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/kaitlynorihel/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Christina",
+        "last_name": "Dalce",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2022/10/20/Christina_Dalce_gty0l.jpg",
+        "school": "Rutgers Prep",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/christina-dalce",
+                "https://www.linkedin.com/in/christina-dalce-37164b2a"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Brynn",
+        "last_name": "McCurry",
+        "profile picture": null,
+        "school": "Sparta",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/brynn-mccurry-177980289"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Megan",
+        "last_name": "Olbrys",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2022/10/20/Megan_Olbrys_9LiNF.jpg",
+        "school": "Norwood",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/meganolbrys/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Kylie",
+        "last_name": "Swider",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2022/10/20/Kylie_Swider_G35JW.jpg",
+        "school": "Tabor Academy",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/kylie-swider"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Maddie",
+        "last_name": "Burke",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2022/10/20/Maddie_Burke_otEiY.jpg",
+        "school": "Central Bucks West",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/madddie_burke/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/maddie-burke-6273a9297"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Denae",
+        "last_name": "Carter",
+        "profile picture": null,
+        "school": "St. Basil Academy",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/denaecarter/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/denae-carter-499a9a154",
+                "https://www.linkedin.com/in/courtney-denae-carter-ab4a4681"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@denae_carter17"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Bella",
+        "last_name": "Runyan",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2022/10/20/Bella_Runyan_55NLo.jpg",
+        "school": "Moorestown Friends",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Maddie",
+        "last_name": "Webber",
+        "profile picture": null,
+        "school": "South Fayette",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/maddieewebber/",
+                "https://www.instagram.com/maddysiegrist/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Annie",
+        "last_name": "Welde",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2022/10/20/Annie_Welde_e8vh5.jpg",
+        "school": "Cardinal O'Hara",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/erin-welde-b33033208"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Maggie",
+        "last_name": "Grant",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2022/10/20/Maggie_Grant_6tYAX.jpg",
+        "school": "Archbishop John Carroll",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@maggiegranttt"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Allie",
+        "last_name": "Vincent",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/00_Allie_Vincent_9VZIp.jpg",
+        "school": "Academy of Our Lady of Mercy, Lauralton Hall",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Ela",
+        "last_name": "Kopec",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/1_Ela_sGbge.jpg",
+        "school": "Ludlow",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Myla",
+        "last_name": "McLeod",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/2_Myla_McLeod_oBgoV.jpg",
+        "school": "East Meadow",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/myla.mcleod/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/myla-mcleod-0b2118275",
+                "https://www.linkedin.com/in/myla-mcleod-96a34a191"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Ambyr",
+        "last_name": "Baker",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/3_Ambyr_ifm34.jpg",
+        "school": "The Hockaday School",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/novawsoccer/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/eva-baker-2105219",
+                "https://www.linkedin.com/in/noreen-baker-4b35b761"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Lauren",
+        "last_name": "Belcuore",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/4_Lauren_Belcuore_w5x3M.jpg",
+        "school": "Livingston",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/laurenbelcuore/",
+                "https://www.instagram.com/novawsoccer/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Caroline",
+        "last_name": "Graham",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/5_Caroline_Graham_ptrNh.jpg",
+        "school": "St. Paul VI Catholic",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@caroline.graham"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Maddie",
+        "last_name": "Fried",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/7_Maddie_ly1SO.jpg",
+        "school": "Saint Joseph's",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/madeline-fried-7457a3b0"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Gabi",
+        "last_name": "Andres",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/8_Gabi_Andres.jpg",
+        "school": "West Albemarle",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/gabatueler/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Becca",
+        "last_name": "Miller",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/9_Becca_Miller_kR032.jpg",
+        "school": "WC Henderson",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Rylee",
+        "last_name": "Donaldson",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/10_Rylee_Donaldson_7K102.jpg",
+        "school": "Salisbury",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/rylee-donaldson-727992221"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/rylee.donaldson.5/"
+            ]
+        }
+    },
+    {
+        "first_name": "Olivia",
+        "last_name": "Marrone",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/11_Olivia_Marrone_A1ads.jpg",
+        "school": "Cherokee",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/olivia-marrone-b38274278"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Susanna",
+        "last_name": "Soderman",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/12_Susanna_Soderman_W4IIb.jpg",
+        "school": "The Hill School",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/susannasoderman_/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/susanna-soderman-94a56a239"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/susanna.soderman.3/"
+            ]
+        }
+    },
+    {
+        "first_name": "Brigid",
+        "last_name": "Molloy",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/13_Brigid_Molloy_uIYy5.jpg",
+        "school": "Nardin Academy",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@user005406843"
+            ],
+            "facebook": [
+                "https://www.facebook.com/bridgetmalloy.kosierowski/",
+                "https://www.facebook.com/bridgetmalloy.kosierowski/"
+            ]
+        }
+    },
+    {
+        "first_name": "McKenzie",
+        "last_name": "Coleman",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/14_McKenzie_Coleman_VpRWX.jpg",
+        "school": "Conestoga",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/kylecoleman7",
+                "https://www.linkedin.com/in/mckenzie-coleman-402379184"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@mckenziecoleman22",
+                "https://www.tiktok.com/@mckenzie.coleman"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Emma",
+        "last_name": "Weaver",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/15_Emma_Weaver_nRGKU.jpg",
+        "school": "New Trier",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/emma-weaver-24778a226"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/emma.weaver.169/",
+                "https://www.facebook.com/emma.weaver.169/"
+            ]
+        }
+    },
+    {
+        "first_name": "Alex",
+        "last_name": "Little",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/17_Alex_Little_8Qjmj.jpg",
+        "school": "Mission Vista",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/novawsoccer/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/alexandra-little-714bb41a"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@villanovabluekey"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Lauren",
+        "last_name": "Ashman",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/19_Lauren_Ashman_nffDC.jpg",
+        "school": "Chenango Fork",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Makayla",
+        "last_name": "Stadler",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/21_Makayla_Stadler_vjwlk.jpg",
+        "school": "Glenbrook South",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Olivia",
+        "last_name": "Packer",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/22_Olivia_Packer_V0QtE.jpg",
+        "school": "Palo Verde",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@sketchy_red",
+                "https://www.tiktok.com/@oliviapacker001"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Elon",
+        "last_name": "Rutty",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/23_Elon_hgHVK.jpg",
+        "school": "Hough",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/VillanovaU/"
+            ]
+        }
+    },
+    {
+        "first_name": "Gabby",
+        "last_name": "Koluch",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/25_Gabby_Koluch_iIzyU.jpg",
+        "school": "Freehold Township",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/novawsoccer/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Ire",
+        "last_name": "Omotayo",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/26_Ire_Omotayo_vJsWd.jpg",
+        "school": "St. Mary's",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Megan",
+        "last_name": "Donnelly",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/27_Megan_Donnelly_I09QT.jpg",
+        "school": "Pine Richland",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/m_presleyy/"
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@meganbdonnelly"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Abby",
+        "last_name": "Hanks",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/29_Abby_cQLFY.jpg",
+        "school": "Archbishop Spalding",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@abbyhanks8"
+            ],
+            "facebook": [
+                "https://m.facebook.com/abby.hanks.9849/",
+                "https://m.facebook.com/abby.hanks.9849/"
+            ]
+        }
+    },
+    {
+        "first_name": "Payton",
+        "last_name": "Woodward",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/30_Payton_Woodward_TLZpP.jpg",
+        "school": "Fayetteville",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Alex",
+        "last_name": "Fava",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/33_Alex_Fava_vxHQT.jpg",
+        "school": "Notre Dame Prep",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/alexfava___/",
+                "https://www.instagram.com/alexfava/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jackie",
+        "last_name": "Richards",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/34_Jackie_Richards_1chuR.jpg",
+        "school": "Exeter",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Sophia",
+        "last_name": "Kryza",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/36-Sophia_Kryza.jpg",
+        "school": "Holy Child",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Elizabeth",
+        "last_name": "Feczko",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/2023-08-10VUVBMKTG_0393_Ybc0C.jpg",
+        "school": "North Catholic",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Ellery",
+        "last_name": "Gray",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/2023-08-10VUVBMKTG_1495_WmktZ.jpg",
+        "school": "Henry Clay",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Madeline",
+        "last_name": "Barber",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/2023-08-10VUVBMKTG_0771_EDIT_pM3TV.jpg",
+        "school": "Cedarburg",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/madeleine-barber-1133a574",
+                "https://www.linkedin.com/in/madeline-barber-"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Tara",
+        "last_name": "Garvey",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/2023-08-10VUVBMKTG_1368_YGtmZ.jpg",
+        "school": "Bishop Tonnos",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@taragarveytg"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Riley",
+        "last_name": "Homer",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/2023-08-10VUVBMKTG_0285_Oznhj.jpg",
+        "school": "Forest Hills Northern",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/riley-homer-75aa681b8"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Rose",
+        "last_name": "Crist",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/2023-08-10VUVBMKTG_0969_KwZfZ.jpg",
+        "school": "Noblesville",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/rose-crist-4b8703273"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Taryn",
+        "last_name": "Whittingham",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/2023-08-10VUVBMKTG_0497_YFJFn.jpg",
+        "school": "Santa Margarita Catholic",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/novavolleyball/",
+                "https://www.instagram.com/novavolleyball/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Abby",
+        "last_name": "Harrell",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/2023-08-10VUVBMKTG_1726_iUGFz.jpg",
+        "school": "Ellensburg",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/novavolleyball/",
+                "https://www.instagram.com/novavolleyball/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/abby.harrell.397/"
+            ]
+        }
+    },
+    {
+        "first_name": "Andrea",
+        "last_name": "Campos",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/2023-08-10VUVBMKTG_0598_x5vJc.jpg",
+        "school": "Archer School for Girls",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/andrea-campos-b72149206",
+                "https://www.linkedin.com/in/andreaxcampos"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Skylar",
+        "last_name": "Gerhardt",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/2023-08-10VUVBMKTG_0875_UXisS.jpg",
+        "school": "Mira Costa",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@skylargerhardt6"
+            ],
+            "facebook": [
+                "https://www.facebook.com/skylar.gerhardt.1/"
+            ]
+        }
+    },
+    {
+        "first_name": "Ozzie",
+        "last_name": "Ozonoh",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/2023-08-10VUVBMKTG_1193_5xcfP.jpg",
+        "school": "Redlands East Valley",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Dani",
+        "last_name": "Ortiz",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/2023-08-10VUVBMKTG_1291_oMUcb.jpg",
+        "school": "Ransom Everglades School",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@soydaniortizz"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Abby",
+        "last_name": "Keevins",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/2023-08-10VUVBMKTG_1078_7hwYy.jpg",
+        "school": "Adlai E. Stevenson",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/abby-keevins-232493252"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Faith",
+        "last_name": "Tyson",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/2023-08-10VUVBMKTG_1590_kYCcb.jpg",
+        "school": "Cathedral Catholic",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Sophia",
+        "last_name": "Stalcup",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/2023-08-10VUVBMKTG_1870_n4FUB.jpg",
+        "school": "Santa Margarita Catholic",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Angelle",
+        "last_name": "Diamond",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2022/8/15/Angelle_Diamond.JPG",
+        "school": "Phillips Exeter Academy",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/angellediamond"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Kiera",
+        "last_name": "Booth",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/2023-08-10VUVBMKTG_0214_9kl0B.jpg",
+        "school": "Berlin Brothersvalley",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/kiera.booth/",
+                "https://www.instagram.com/novavolleyball/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Annika",
+        "last_name": "Veurink",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/2023-08-10VUVBMKTG_0141_aGv1e.jpg",
+        "school": "Southwest Christian",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/annika-veurink-184514292",
+                "https://www.linkedin.com/in/kyle-gray-374ba1295"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Marly",
+        "last_name": "Smith",
+        "profile picture": "https://d3r15i91mdrm4u.cloudfront.net/images/2023/8/14/2023-08-10VUVBMKTG_0047_uOCvs.jpg",
+        "school": "El Segundo",
+        "instagram": null,
+        "university": "Villanova University",
+        "city": "Villanova",
+        "state": "Pennsylvania",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/marilou-smith-030913111",
+                "https://www.linkedin.com/in/marly-gillece-smith-064305b9"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/marly.smith.73/"
+            ]
+        }
+    }
+]

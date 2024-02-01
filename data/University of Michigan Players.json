@@ -1,0 +1,3383 @@
+[
+    {
+        "first_name": "Michael",
+        "last_name": "Murphy",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F9%2F6%2Fheadshot-placeholder_300x400-v2_3fJza.jpg&width=100&height=100&gravity=north",
+        "school": "William Mason",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/itsmikeymurphy/",
+                "https://www.instagram.com/umichrc/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/michael-murphy-1636b555"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@itsmikeymurphy"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Cole",
+        "last_name": "Caruso",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F9%2F6%2Fheadshot-placeholder_300x400-v2_3fJza.jpg&width=100&height=100&gravity=north",
+        "school": "Cactus Shadows",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/colecaruso/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/cole-caruso-08219a259"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Greg",
+        "last_name": "Pace Jr.",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2022%2F10%2F31%2F2022_10_31_BSB_Pace.jpg&width=100&height=100&gravity=north",
+        "school": "Edison Academy",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/gregory-pace-12bb4a127"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Noah",
+        "last_name": "Miller",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F9%2F6%2Fheadshot-placeholder_300x400-v2_3fJza.jpg&width=100&height=100&gravity=north",
+        "school": "Monroe",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/_shmilla_/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/noah-miller-a53663175"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@whiteboyonthebeat"
+            ],
+            "facebook": [
+                "https://www.facebook.com/noah.miller.75685/",
+                "https://www.facebook.com/noah.miller.10485/"
+            ]
+        }
+    },
+    {
+        "first_name": "Kyle",
+        "last_name": "Dernedde",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F9%2F6%2Fheadshot-placeholder_300x400-v2_3fJza.jpg&width=100&height=100&gravity=north",
+        "school": "Tualatin",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/kyled_5/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/kyle-dernedde"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Kurt",
+        "last_name": "Barr",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2022%2F11%2F1%2F2022_11_1_BSB_Barr.jpg&width=100&height=100&gravity=north",
+        "school": "University Liggett",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/kurt-barr-057193a8"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Joe",
+        "last_name": "Longo",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2022%2F10%2F31%2F2022_10_31_BSB_Longo.jpg&width=100&height=100&gravity=north",
+        "school": "Holy Angels",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/longo245/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/joe-longo-9b25b424a",
+                "https://www.linkedin.com/in/joslongo"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@joe_longo"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Wyatt",
+        "last_name": "Novara",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F9%2F6%2Fheadshot-placeholder_300x400-v2_3fJza.jpg&width=100&height=100&gravity=north",
+        "school": "Dexter",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/wyattnovara/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/wyatt-novara-7b325828b"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@wyattnovara"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Dylan",
+        "last_name": "Stanton",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2022%2F10%2F31%2F2022_10_31_BSB_Stanton_.jpg&width=100&height=100&gravity=north",
+        "school": "Gull Lake",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/dylan_stanton22/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/dylantrosenthal"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@dylanstanton2320"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Bradley",
+        "last_name": "Link",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F9%2F6%2Fheadshot-placeholder_300x400-v2_3fJza.jpg&width=100&height=100&gravity=north",
+        "school": "William T Dwyer Palm Beach Gardens",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/bradleyalink/",
+                "https://www.instagram.com/umichbaseball/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/bradley-link-43838440"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@bradleyalink"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Sachem",
+        "last_name": "Ramos",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F9%2F6%2Fheadshot-placeholder_300x400-v2_3fJza.jpg&width=100&height=100&gravity=north",
+        "school": "Salisbury School",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Joonsung",
+        "last_name": "Park",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F9%2F6%2Fheadshot-placeholder_300x400-v2_3fJza.jpg&width=100&height=100&gravity=north",
+        "school": "IMG Academy",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/j_park751/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/joonsung.park.31/"
+            ]
+        }
+    },
+    {
+        "first_name": "Stephen",
+        "last_name": "Hrustich",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F9%2F6%2Fheadshot-placeholder_300x400-v2_3fJza.jpg&width=100&height=100&gravity=north",
+        "school": "Parkview High School",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/stephen-hrustich-jr-b45997206",
+                "https://www.linkedin.com/in/stephen-hrustich-b50a401a2"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/MichiganBaseball/"
+            ]
+        }
+    },
+    {
+        "first_name": "Mack",
+        "last_name": "Timbrook",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F9%2F6%2Fheadshot-placeholder_300x400-v2_3fJza.jpg&width=100&height=100&gravity=north",
+        "school": "Archbishop Hoban",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/mack-timbrook-b38038265"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "AJ",
+        "last_name": "Garcia",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F9%2F6%2Fheadshot-placeholder_300x400-v2_3fJza.jpg&width=100&height=100&gravity=north",
+        "school": "DePaul College Prep",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/aj3garcia/",
+                "https://www.instagram.com/1aj_garcia/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/anthony-garcia-m"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@aj.garcia_3"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Brandon",
+        "last_name": "Mann",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F2%2F13%2F2023-2-13-BSB-Mann.jpg&width=100&height=100&gravity=north",
+        "school": "Detroit Country Day",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/brandonmmann52/",
+                "https://www.instagram.com/mannomann1/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/brandon-mann-847289b7"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@highvoltagepulling"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Ricky",
+        "last_name": "Kidd",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F9%2F6%2Fheadshot-placeholder_300x400-v2_3fJza.jpg&width=100&height=100&gravity=north",
+        "school": "Trenton",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/rickykidd_/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/rick-kidd-8aa11618"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@rickythekidd"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jonathan",
+        "last_name": "Kim",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2022%2F10%2F31%2F2022_10_31_BSB_Kim.jpg&width=100&height=100&gravity=north",
+        "school": "Brookfield Academy",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/jkim.32/",
+                "https://www.instagram.com/jonathan_kim17/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/jonathan-kim-522410194",
+                "https://www.linkedin.com/in/jonathan-kim-280532229"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Caden",
+        "last_name": "MacDonald",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F9%2F6%2Fheadshot-placeholder_300x400-v2_3fJza.jpg&width=100&height=100&gravity=north",
+        "school": "Arlington Pantego Christian",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/cadenmcdonald/",
+                "https://www.instagram.com/caden_macdonald/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/caden-macdonald-9a9011209"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@cadenmcdonald54"
+            ],
+            "facebook": [
+                "https://www.facebook.com/caden.mcdonald.58/",
+                "https://www.facebook.com/cados38/"
+            ]
+        }
+    },
+    {
+        "first_name": "Will",
+        "last_name": "Rogers",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F9%2F6%2Fheadshot-placeholder_300x400-v2_3fJza.jpg&width=100&height=100&gravity=north",
+        "school": "Mounds View",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/willrogers7/",
+                "https://www.instagram.com/wrogers__2/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/william-rogers-61a74b290"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/jr.rogers.5/"
+            ]
+        }
+    },
+    {
+        "first_name": "Joey",
+        "last_name": "Velazquez",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2022%2F10%2F31%2F2022_10_31_BSB_Velaquez.jpg&width=100&height=100&gravity=north",
+        "school": "St. Francis De Sales",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/jvelazquez242/"
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@greaserboyjoey"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Brock",
+        "last_name": "Leitgeb",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F9%2F6%2Fheadshot-placeholder_300x400-v2_3fJza.jpg&width=100&height=100&gravity=north",
+        "school": "Jesuit",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Collin",
+        "last_name": "Priest",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F9%2F6%2Fheadshot-placeholder_300x400-v2_3fJza.jpg&width=100&height=100&gravity=north",
+        "school": "Mount Dora Christian",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/collinpriest13/",
+                "https://www.instagram.com/queencoco2002/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/colin.priest.33/",
+                "https://m.facebook.com/colin.priest.33/"
+            ]
+        }
+    },
+    {
+        "first_name": "Dylan",
+        "last_name": "Vigue",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F9%2F6%2Fheadshot-placeholder_300x400-v2_3fJza.jpg&width=100&height=100&gravity=north",
+        "school": "Groton School",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/dylan-vigue-3b4603191",
+                "https://www.linkedin.com/in/dylan-vigue-299200273"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@dv1gue"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jackson",
+        "last_name": "Muir",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F9%2F6%2Fheadshot-placeholder_300x400-v2_3fJza.jpg&width=100&height=100&gravity=north",
+        "school": "Saline",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@jacksonmuir69",
+                "https://www.tiktok.com/@uofmichigan"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Keegan",
+        "last_name": "O'Hearn",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F9%2F6%2Fheadshot-placeholder_300x400-v2_3fJza.jpg&width=100&height=100&gravity=north",
+        "school": "O'Neill CVI",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/keeganohearn29/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/keegan-o-hearn-819730124"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@keeganhearn0"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jack",
+        "last_name": "Counsell",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F9%2F6%2Fheadshot-placeholder_300x400-v2_3fJza.jpg&width=100&height=100&gravity=north",
+        "school": "Whitefish Bay",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/jackcounsell_/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Eamon",
+        "last_name": "Horwedel",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2022%2F10%2F31%2F2022_10_31_BSB_Horwedel.jpg&width=100&height=100&gravity=north",
+        "school": "Skyline",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/eazyh_8/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/eamon-horwedel-3b7302195"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Zach",
+        "last_name": "Slayden",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F9%2F6%2Fheadshot-placeholder_300x400-v2_3fJza.jpg&width=100&height=100&gravity=north",
+        "school": "Tomball",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/zach.slayden.77/"
+            ]
+        }
+    },
+    {
+        "first_name": "Fredo",
+        "last_name": "Velazquez",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F9%2F6%2Fheadshot-placeholder_300x400-v2_3fJza.jpg&width=100&height=100&gravity=north",
+        "school": "Brother Rice",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/le_vamp/"
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@velazqueeezz"
+            ],
+            "facebook": [
+                "https://www.facebook.com/fredo.velazquez.7/"
+            ]
+        }
+    },
+    {
+        "first_name": "Trevor",
+        "last_name": "Kilinski",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2022%2F10%2F31%2F2022_10_31_BSB_Kilinski.jpg&width=100&height=100&gravity=north",
+        "school": "Zeeland West",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/tkilinski36/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/trevor-kilinski-54749a222"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/trevor.kilinski/"
+            ]
+        }
+    },
+    {
+        "first_name": "Chase",
+        "last_name": "Allen",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2022%2F10%2F31%2F2022_10_31_BSB_Allen.jpg&width=100&height=100&gravity=north",
+        "school": "Regis Jesuit",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/drchaseallen/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/chase-allen-a72385199",
+                "https://www.linkedin.com/in/chase-m-allen"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Bradley",
+        "last_name": "Navarro",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F9%2F6%2Fheadshot-placeholder_300x400-v2_3fJza.jpg&width=100&height=100&gravity=north",
+        "school": "Huntington Beach",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Cooper",
+        "last_name": "Mullens",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F9%2F6%2Fheadshot-placeholder_300x400-v2_3fJza.jpg&width=100&height=100&gravity=north",
+        "school": "Marist Catholic",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/coopermullens/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/cooper-mullen"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Charlie",
+        "last_name": "Denomme",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F9%2F6%2Fheadshot-placeholder_300x400-v2_3fJza.jpg&width=100&height=100&gravity=north",
+        "school": "Thayer Academy",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/charlie-denomme-bab490212"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Ian",
+        "last_name": "Kennedy",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2022%2F10%2F31%2F2022_10_31_BSB_Kennedy.jpg&width=100&height=100&gravity=north",
+        "school": "Whitefield Academy",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/iankennedy44/",
+                "https://www.instagram.com/ian_kennedy_31/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/ian-kennedy999",
+                "https://www.linkedin.com/in/ian-kennedy-82431a203"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/imkenned/"
+            ]
+        }
+    },
+    {
+        "first_name": "Jay",
+        "last_name": "Tuttle",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F9%2F6%2Fheadshot-placeholder_300x400-v2_3fJza.jpg&width=100&height=100&gravity=north",
+        "school": "Owosso",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/jacktuttle14/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/jason-tuttle-5039a4122"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/jay.tuttle.7/",
+                "https://m.facebook.com/jay.tuttle.92/"
+            ]
+        }
+    },
+    {
+        "first_name": "Ryan",
+        "last_name": "O'Rourke",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F9%2F6%2Fheadshot-placeholder_300x400-v2_3fJza.jpg&width=100&height=100&gravity=north",
+        "school": "Charlotte Christian",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/orourkestudio/",
+                "https://www.instagram.com/ryanorourkey/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/ryan-o-rourke-3486b47b"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@ryan_orourke_"
+            ],
+            "facebook": [
+                "https://www.facebook.com/ryan.orourke.52/",
+                "https://m.facebook.com/ryan.orourke.549/"
+            ]
+        }
+    },
+    {
+        "first_name": "Jacob",
+        "last_name": "Denner",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2022%2F10%2F31%2F2022_10_31_BSB_Denner.jpg&width=100&height=100&gravity=north",
+        "school": "Bergen Catholic",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/jdenner7/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/jacob-denner-ab336b1b6"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Connor",
+        "last_name": "Judge",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F9%2F6%2Fheadshot-placeholder_300x400-v2_3fJza.jpg&width=100&height=100&gravity=north",
+        "school": "College Park",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/conner-reagan-418293250"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Alexander",
+        "last_name": "Ogg",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F9%2F6%2Fheadshot-placeholder_300x400-v2_3fJza.jpg&width=100&height=100&gravity=north",
+        "school": "The Harvey School",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/alex.ogg14/",
+                "https://www.instagram.com/alexander_ogg/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/alexander-ogg-757409283"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Mitch",
+        "last_name": "Voit",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2022%2F10%2F31%2F2022_10_31_BSB_Voit.jpg&width=100&height=100&gravity=north",
+        "school": "Whitefish Bay",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "baseball",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/mitchvoit/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Dug",
+        "last_name": "McDaniel",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2022%2F11%2F1%2Fmgb_0_dug_mcdaniel_XH2Av.jpg&width=100&height=100&gravity=north",
+        "school": "St. Paul VI Catholic",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "thedougmcdaniel",
+                    "bio": "Dug McDaniel\nBig \ud83d\udc25 | GMG\ud83e\udd0d | Frontline\ud83d\udc9a Project Baby\ud83c\udfda @shpgold NIL : ftfsportsmanagement@gmail.com",
+                    "followers": 37245,
+                    "instagram picture": "https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/325993118_1238320593561380_1392240979445378011_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=108&_nc_ohc=2uB1hpxqqAEAX95vJhg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBmfm1vdFdTJu8A6KqJCi0-x-YPO2YobG3p0wb_dqX8jg&oe=6506672B&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/doug-mcdaniel-0b821815"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Tray",
+        "last_name": "Jackson",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2017%2F9%2F5%2Fheadshot_placeholder.png&width=100&height=100&gravity=north",
+        "school": "Sunrise Christian Academy (Kan.) (Kan.)",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "ygtjay",
+                    "bio": "Tray Jackson\n",
+                    "followers": 8101,
+                    "instagram picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/347365670_226101406812856_3439477571966480444_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=104&_nc_ohc=L5QTPsDPBgAAX-aOGHZ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDWSfyAoYauY7PstsKvAH-IIGIwCex0Qj-5luroGiSOlg&oe=65061367&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/tray-watson-496aa6191"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jaelin",
+        "last_name": "Llewellyn",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2022%2F11%2F1%2Fmgb_3_jaelin_llewellyn_wsdIV.jpg&width=100&height=100&gravity=north",
+        "school": "Virginia Episcopal School",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "jaeliinn",
+                    "bio": "Jaelin Llewellyn\n@umichbball | @princeton \u201822 | @ves_bishops \u201818",
+                    "followers": 12665,
+                    "instagram picture": "https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-19/334649793_605218457728028_2639399836324260195_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=108&_nc_ohc=NR6pfN8uaKIAX_cq_Mx&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCDF6j1bdFNXKSg4abVsuAcWfWnt8ConSKRiVmyXQ_KkA&oe=65062F2B&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/jaelin-llewellyn-8b0b8b185"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Nimari",
+        "last_name": "Burnett",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2017%2F9%2F5%2Fheadshot_placeholder.png&width=100&height=100&gravity=north",
+        "school": "Prolific Prep (Calif.)",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "nimari.burnett",
+                    "bio": "Nimari Burnett\nHumble & Hungry \ud83d\udcaa\ud83c\udffd #NB25 NIL Inquiries Contact: @matthewknox",
+                    "followers": 53139,
+                    "instagram picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/139015264_1500621670300226_6536136526595092617_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=102&_nc_ohc=Alkq3KLBu7MAX99plky&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDVgq2iQogz9R-14PBVeNgAXetmdL8rwL4yhBvvd2_Lww&oe=65063336&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/nimari-burnett-803440236"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@nimariburnett"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Terrance",
+        "last_name": "Williams II",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2022%2F11%2F1%2Fmgb_5_terrance_williams_ii_zTZch.jpg&width=100&height=100&gravity=north",
+        "school": "Gonzaga College HS",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "_twill5",
+                    "bio": "Terrance Williams II\n301 Gonzaga Scholar at The University of Michigan Business Inquiries: @rensportsgroup",
+                    "followers": 15240,
+                    "instagram picture": "https://scontent-den4-1.cdninstagram.com/v/t51.2885-19/339672205_758324932516589_1843537703887271044_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-den4-1.cdninstagram.com&_nc_cat=105&_nc_ohc=e533QMlxUhMAX9W8uku&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfAX22-Cc0O2kspLM-wQmy8q7LvTzLTq9qeGlCHIDR27OQ&oe=65075E5C&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/terrance-williams-ii-814191270",
+                "https://www.linkedin.com/in/terrence-williams-ii-67028271"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/terrence.yamasaki/",
+                "https://m.facebook.com/story.php"
+            ]
+        }
+    },
+    {
+        "first_name": "Olivier",
+        "last_name": "Nkamhoua",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2017%2F9%2F5%2Fheadshot_placeholder.png&width=100&height=100&gravity=north",
+        "school": "Bishop Walsh School (Md.)",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "nkamhoua",
+                    "bio": "Olivier Nkamhoua\n\ud83c\uddeb\ud83c\uddee\ud83c\udde8\ud83c\uddf2\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f",
+                    "followers": 14191,
+                    "instagram picture": "https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/332529473_1373071986842033_5265049278561454473_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=105&_nc_ohc=UNwQIVJxgv4AX-x928b&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDPp94dYxmrW5ifnAYwX8UJAHyxEt9m3CN3ROT8vSerbw&oe=650789DE&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Ian",
+        "last_name": "Burns",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2022%2F11%2F1%2Fmgb_4_ian_burns_Irzl8.jpg&width=100&height=100&gravity=north",
+        "school": "New Trier HS",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "ianburnss",
+                    "bio": "Ian Burns\nMichigan",
+                    "followers": 3415,
+                    "instagram picture": "https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/361186568_667735161449343_7740266836686776062_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_ohc=ZpdiBLVtF0IAX9BWnnK&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCH8ST0CGcs2UByQ9_JVzzRPsFOGaVtP5GniO1dZ9rn6g&oe=65066B42&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/ian-burns-9282a9279"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@ianburnss"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Youssef",
+        "last_name": "Khayat",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2022%2F11%2F1%2Fmgb_24_youssef_khayat_hAzs9.jpg&width=100&height=100&gravity=north",
+        "school": "Limoges CSP (France)",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "youssefkhayat",
+                    "bio": "Youssef Khayat\n\ud83c\uddf1\ud83c\udde7 @umichbball\u303d\ufe0f",
+                    "followers": 33184,
+                    "instagram picture": "https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/374833885_865613478687923_5973922922849259232_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=111&_nc_ohc=IMmVlKy6414AX-PBy3n&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfAX2OwwvEXKOKfn9uwKDDlv7feloeZ4p42aPhypK8yxlg&oe=65070A55&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jace",
+        "last_name": "Howard",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2022%2F11%2F1%2Fmgb_25_jace_howard_UCaKq.jpg&width=100&height=100&gravity=north",
+        "school": "University School",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "jacehoward",
+                    "bio": "Jace Howard\nMiami, FL University of Michigan",
+                    "followers": 23844,
+                    "instagram picture": "https://instagram.fsvg2-1.fna.fbcdn.net/v/t51.2885-19/325266795_1318945022260901_1833739033469005997_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fsvg2-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=kcagRj9Co-MAX_qwAwm&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCAEpp2Jt1PR3qA_D3F-MgmfrWWUt_NjkmjEvnaaC7D8w&oe=6506CF9D&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/jace-howard-3619801b1",
+                "https://www.linkedin.com/in/jacehoward"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Harrison",
+        "last_name": "Hochberg",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2017%2F9%2F5%2Fheadshot_placeholder.png&width=100&height=100&gravity=north",
+        "school": "Cushing Academy (Mass.)",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "harr13on",
+                    "bio": "Harrison Hochberg\n@umichbball",
+                    "followers": 2784,
+                    "instagram picture": "https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/362974435_775767137619977_6871244588867171806_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=105&_nc_ohc=R1uVRSelwPkAX_XoYHK&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfD-f3tk0haBtrpAsxg51EHnlzfw-cl-aKbJvE0do_NYdA&oe=65079D43&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/mike-hochberg-1a029819"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Tarris",
+        "last_name": "Reed Jr.",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2022%2F11%2F1%2Fmgb_32_tarris_reed_jr_9XZrL.jpg&width=100&height=100&gravity=north",
+        "school": "Link Year Prep Academy",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                "thetarrisreed"
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@iamtarrisreed"
+            ],
+            "facebook": [
+                "https://m.facebook.com/yung.reed.16/"
+            ]
+        }
+    },
+    {
+        "first_name": "Jackson",
+        "last_name": "Selvala",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2022%2F11%2F1%2Fmgb_34_jackson_selvala_QxNEF.jpg&width=100&height=100&gravity=north",
+        "school": "Deerfield Academy",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "jselvala",
+                    "bio": "Jackson Selvala\nCT\ud83d\udccd| @umichbball",
+                    "followers": 1802,
+                    "instagram picture": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/329330949_150450534492536_4622631894888749097_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=108&_nc_ohc=eBxRgpXb7JQAX9D3yci&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfAAS7DMIhUd_Byeh9jX6VLldtYdHwqmc2zDt5tjdhFBug&oe=6506A3D3&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/jackson-selvala-327525279"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/jackson.selvala/"
+            ]
+        }
+    },
+    {
+        "first_name": "George",
+        "last_name": "Washington III",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2017%2F9%2F5%2Fheadshot_placeholder.png&width=100&height=100&gravity=north",
+        "school": "Chaminade-Julienne Catholic HS",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "3dubbshoop",
+                    "bio": "George Washington III\n@UMichBBall \u303d\ufe0f @Top100Camp Alum @SIGsports NIL I love Jesus, my family, and basketball!",
+                    "followers": 13948,
+                    "instagram picture": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-19/83891505_496331731027401_2180650197208530944_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=HC7nc5vYxPAAX-I44OF&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCUO3H9sol-tPA5bZyGKz8unrn4LEvURxmnpSHYIB0eyA&oe=65066EC3&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@theafrofuturist_"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Will",
+        "last_name": "Tschetter",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2022%2F11%2F1%2Fmgb_42_will_tschetter_9fB1Y.jpg&width=100&height=100&gravity=north",
+        "school": "Stewartville HS",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "tschetterwill",
+                    "bio": "Will Tschetter\n\u262e\ufe0f\u2764\ufe0f\u2795| MN\u2014> MI | @umichbball | Outdoors \ud83c\udf31",
+                    "followers": 6763,
+                    "instagram picture": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/348654147_1304774090444750_6320871651078085123_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=zeZcTcH7BKMAX-cJ2A-&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfC9OOgaCiwGA-iLgZuInZFO_SNeZHKsvfQg8nm8-FNSRg&oe=65066B03&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/will-tschetter-869863242"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Cooper",
+        "last_name": "Smith",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2022%2F11%2F1%2Fmgb_45_cooper_smith_U9MOk.jpg&width=100&height=100&gravity=north",
+        "school": "Hackett Catholic Prep High School",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-basketball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "cooooopersmith_",
+                    "bio": "Cooper Smith\n@umichbball",
+                    "followers": 2431,
+                    "instagram picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/347126884_237956202262872_2729665961548974695_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=100&_nc_ohc=x1u1RTocbZ0AX_KADLG&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfAOBamQO1-XxTDuM2gRM3dwU3YNY8Fm-GmasW5Dzpz71A&oe=65076860&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/cooper-smith-778667a1",
+                "https://www.linkedin.com/in/cooper-smith-54364b293"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@cooooopersmith_"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Hayden",
+        "last_name": "Evans",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F17%2FCropped_08152023_som_Evans.jpg&width=100&height=100&gravity=north",
+        "school": "Laurel Springs",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/whaydenevans"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jason",
+        "last_name": "Bucknor",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F17%2FCropped_08152023_som_bucknor.jpg&width=100&height=100&gravity=north",
+        "school": "Cypress Bay",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/jason_bucknor/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/jason-bucknor-b9629225b",
+                "https://www.linkedin.com/in/jb-313det"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@jason_bucknor"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Matthew",
+        "last_name": "Fisher",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F17%2FCropped_08152023_som_Fisher.jpg&width=100&height=100&gravity=north",
+        "school": "Blue Valley North",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/mfisher_nyc/",
+                "https://www.instagram.com/matt_fisher8/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/matthew-fischer-782322170",
+                "https://www.linkedin.com/in/matthew-fisher-a8185097"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@matthewfisher5"
+            ],
+            "facebook": [
+                "https://m.facebook.com/matt.fisher.9279/",
+                "https://m.facebook.com/matt.fisher.7731247/"
+            ]
+        }
+    },
+    {
+        "first_name": "Nolan",
+        "last_name": "Miller",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F17%2FCropped_08152023_som_Miller.jpg&width=100&height=100&gravity=north",
+        "school": "Seaholm",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/nolan_miller21/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/nolan-miller-b98014225"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jens",
+        "last_name": "Hoff",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F17%2FCropped_08152023_som_Hoff.jpg&width=100&height=100&gravity=north",
+        "school": "Norwegian School of Elite Sports",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/mannharthoff/",
+                "https://www.instagram.com/mannharthoff/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/jens-mannhart-hoff"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/jens.s.hoff/"
+            ]
+        }
+    },
+    {
+        "first_name": "Quin",
+        "last_name": "Rogers",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F17%2FCropped_08152023_som_Rogers.jpg&width=100&height=100&gravity=north",
+        "school": "Bellarmine College Prep",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/quin_rogers/",
+                "https://www.instagram.com/quin_rogers/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/quin-rogers-7ba09390",
+                "https://www.linkedin.com/in/quin-rogers-1902241a2"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@quin_rogers",
+                "https://www.tiktok.com/@quinrogers__"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Alex",
+        "last_name": "Waggoner",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F17%2FCropped_08152023_som_Waggoner.jpg&width=100&height=100&gravity=north",
+        "school": "Santa Fe",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/alexwaggoner/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/alex-waggoner-265777274"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@alex.waggoner"
+            ],
+            "facebook": [
+                "https://m.facebook.com/alexander.g.waggoner/"
+            ]
+        }
+    },
+    {
+        "first_name": "Simon",
+        "last_name": "Vasquez",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F17%2FCropped_08152023_som_Vasquez.jpg&width=100&height=100&gravity=north",
+        "school": "Somerset Academy",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/simonvas"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Nick",
+        "last_name": "Bourgeois",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F17%2FCropped_08152023_som_bourgeios.jpg&width=100&height=100&gravity=north",
+        "school": "Arcadia",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/nickbourgeois_/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/nick-bourgeois-456348217"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@nickbourgeois0",
+                "https://www.tiktok.com/@nickboujee337"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Uriel",
+        "last_name": "Zeitz",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F17%2FCropped_08152023_som_Zeitz.jpg&width=100&height=100&gravity=north",
+        "school": "Winston Churchill School",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/urielzeitz/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/uriel-zeitz-7a0b73210"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@urielzeitz"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Bryce",
+        "last_name": "Blevins",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F17%2FCropped_08152023_som_blevins.jpg&width=100&height=100&gravity=north",
+        "school": "Plainfield North",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/bryceblevins_/",
+                "https://www.instagram.com/umichsoccer/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/bryce-blevins-955381262"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@wolverinewonders"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Nicholas",
+        "last_name": "Cassiday",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F17%2FCropped_08152023_som_Casiday.jpg&width=100&height=100&gravity=north",
+        "school": "Grand Rapids Christian",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/nick_cassiday/",
+                "https://www.instagram.com/nicholasccassidy/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/nicholas-cassiday-0867b3262"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Duilio",
+        "last_name": "Herrera",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F17%2FCropped_08152023_som_Herrera.jpg&width=100&height=100&gravity=north",
+        "school": "Johny Economedes",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/zurditoherrera14/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/duilio-herrera-768304292"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/DuilioElzurdoherrera/"
+            ]
+        }
+    },
+    {
+        "first_name": "Benjamin",
+        "last_name": "Feinstein",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F17%2FCropped_08152023_som_Feinstein.jpg&width=100&height=100&gravity=north",
+        "school": "The Kiski School",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/benfeinstein_/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/ben-feinstein"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Oliver",
+        "last_name": "Martin",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F17%2FCropped_08152023_som_Martin.jpg&width=100&height=100&gravity=north",
+        "school": "The Loomis Chaffee School",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/ojmartin33/",
+                "https://www.instagram.com/oliverm.5/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/oliver-martin-1a1b37262"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@olivermartin08"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Murphy",
+        "last_name": "Parker",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F9%2F6%2Fheadshot-placeholder_300x400-v2_3fJza.jpg&width=100&height=100&gravity=north",
+        "school": "Charterhouse",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/murphyparker8/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/parker.murphy.52/"
+            ]
+        }
+    },
+    {
+        "first_name": "Joao",
+        "last_name": "Paulo  Ramos",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F17%2FCropped_08152023_som_Ramos.jpg&width=100&height=100&gravity=north",
+        "school": "George Walton",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/joao_ramos90/"
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@jp.ramosefraim"
+            ],
+            "facebook": [
+                "https://m.facebook.com/joaopaulo.ramos.souza/"
+            ]
+        }
+    },
+    {
+        "first_name": "Zach",
+        "last_name": "Martens",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F17%2FCropped_08152023_som_Martens.jpg&width=100&height=100&gravity=north",
+        "school": "Gainesville",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/_mzrtens_/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/zachary-martens-1bb5a6263"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@zachmartens1"
+            ],
+            "facebook": [
+                "https://www.facebook.com/Zach.d.Martens/"
+            ]
+        }
+    },
+    {
+        "first_name": "Kyle",
+        "last_name": "Pierson",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F17%2FCropped_08152023_som_Pierson.jpg&width=100&height=100&gravity=north",
+        "school": "Detroit Catholic Central",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/kylepierson17/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/kylepierson"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/kylepierson21/"
+            ]
+        }
+    },
+    {
+        "first_name": "Ethan",
+        "last_name": "Wood",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F17%2FCropped_08152023_som_Wood.jpg&width=100&height=100&gravity=north",
+        "school": "Syosset",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/_ethanwood24_/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/ethan-wood-6a63ab1b9"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/ethan.wood.31/"
+            ]
+        }
+    },
+    {
+        "first_name": "Bode",
+        "last_name": "Saul",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F17%2FCropped_08152023_som_Saul.jpg&width=100&height=100&gravity=north",
+        "school": "Los Gatos",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/umichsoccer/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/bode-saul-390069219"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Michael",
+        "last_name": "Leon",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F17%2FCropped_08152023_som_Leon.jpg&width=100&height=100&gravity=north",
+        "school": "Hotchkiss Prep",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/michael-leon-24686b219"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@michaelleon29",
+                "https://www.tiktok.com/@michaelleon166"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Jonathan",
+        "last_name": "Nabaka",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F17%2FCropped_08152023_som_Nabaka.jpg&width=100&height=100&gravity=north",
+        "school": "Miami Beach Senior",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@uofmichigan"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Patrick",
+        "last_name": "O'Toole",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F17%2FCropped_08152023_som_OToole.jpg&width=100&height=100&gravity=north",
+        "school": "Montclair",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/ptooleszn/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/patrick-o%E2%80%99toole-a48652289"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Dubem",
+        "last_name": "Obilo",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F17%2FCropped_08152023_som_Obilio.jpg&width=100&height=100&gravity=north",
+        "school": "Assumption Secondary School",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/dubem-obilo-895668291"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@noah_pilato5"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Moshtaba",
+        "last_name": "Al-Hasnawi",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F17%2FCropped_08152023_som_AlHasnawi.jpg&width=100&height=100&gravity=north",
+        "school": "Fordson",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/moshtaba-al-hasnawi-34a39a1a3"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Dylan",
+        "last_name": "Davis",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F17%2FCropped_08152023_som_Davis.jpg&width=100&height=100&gravity=north",
+        "school": "Rochester",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/davis_landscaping/",
+                "https://www.instagram.com/dylanxdavis/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/dylan-davis-38a280285"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@dylandavisfit",
+                "https://www.tiktok.com/@dylandaviss__"
+            ],
+            "facebook": [
+                "https://www.facebook.com/dylan.davis.372/"
+            ]
+        }
+    },
+    {
+        "first_name": "Isaiah",
+        "last_name": "Goldson",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F17%2FCropped_08152023_som_Goldson.jpg&width=100&height=100&gravity=north",
+        "school": "Garth Webb Secondary School",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/umichsoccer/"
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@isaiah_goldson"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Riley",
+        "last_name": "Ferch",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F21%2F08152023_som_Ferch.jpg&width=100&height=100&gravity=north",
+        "school": "American Heritage",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/ferch.riley/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/riley-ferch-5366ba167"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Will",
+        "last_name": "Baker",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F17%2FCropped_08152023_som_Baker.jpg&width=100&height=100&gravity=north",
+        "school": "Memorial",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/will.baker__/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/will-baker-1b755a294",
+                "https://www.linkedin.com/in/will-baker-732a456b"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@bakerwill"
+            ],
+            "facebook": [
+                "https://www.facebook.com/williamjamesbaker/"
+            ]
+        }
+    },
+    {
+        "first_name": "Charlie",
+        "last_name": "Lawrence",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F17%2FCropped_08152023_som_Lawrence.jpg&width=100&height=100&gravity=north",
+        "school": "Lydiard Park Academy",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/charlie-lawrence-74663819"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/charles.lawrence.37017/"
+            ]
+        }
+    },
+    {
+        "first_name": "Erik",
+        "last_name": "Josson",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F17%2FCropped_08152023_som_Josson.jpg&width=100&height=100&gravity=north",
+        "school": "Bloomfield",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "mens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/erikjosson/",
+                "https://www.instagram.com/erikjonsson/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/erikjosson"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@erikjosson"
+            ],
+            "facebook": [
+                "https://www.facebook.com/erik.josson/"
+            ]
+        }
+    },
+    {
+        "first_name": "Elissa",
+        "last_name": "Brett",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F9%2F6%2Fheadshot-placeholder_300x400-v2_3fJza.jpg&width=100&height=100&gravity=north",
+        "school": "Bowling Green",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "elissabrett",
+                    "bio": "Elissa Brett\nSouth Australia @umichwbball #0 bgsu wbb alum",
+                    "followers": 2757,
+                    "instagram picture": "https://instagram.fric1-1.fna.fbcdn.net/v/t51.2885-19/367448822_158358060624531_5995086592971046823_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fric1-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=cobjHUx6FoUAX8A48ZD&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCVpceu3J9v4jYbKY1dE1-rbg1PsC3EoHhAuQgoV-I90A&oe=6505F558&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@elissabrett"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Lauren",
+        "last_name": "Hansen",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F9%2F6%2Fheadshot-placeholder_300x400-v2_3fJza.jpg&width=100&height=100&gravity=north",
+        "school": "Ward Melville",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "laurenhansen1",
+                    "bio": "Lauren Hansen\n213\ud83d\udc95\u2728 New York Michigan WBB #1 Business Inquiries or NIL: hansenlauren001@gmail.com",
+                    "followers": 10202,
+                    "instagram picture": "https://instagram.ftpa1-1.fna.fbcdn.net/v/t51.2885-19/376704894_2545115312320305_8930083864679193562_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.ftpa1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=oXxTp2DhNugAX8Wym2w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBwx0yW9U25iZvzIt155pFRBdPn3yjht6Y1N-33bWT37w&oe=650711FB&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/lauren-hansen-lh0001"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/lauren.hansen.18400/",
+                "https://www.facebook.com/lauren.hansen.18400/"
+            ]
+        }
+    },
+    {
+        "first_name": "Macy",
+        "last_name": "Brown",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F9%2F6%2Fheadshot-placeholder_300x400-v2_3fJza.jpg&width=100&height=100&gravity=north",
+        "school": "East Grand Rapids",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "macybrown7",
+                    "bio": "Macy Brown\negr, mi | @umichwbball #2",
+                    "followers": 3641,
+                    "instagram picture": "https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/366939362_822456889528500_2151631000663440454_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=100&_nc_ohc=mzq7QS_6TjYAX-LTR_R&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCQVCXuz0gUdXu6cAsQp49LfANMgsDzBINrKzxExpuPxg&oe=6506CB02&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/macy-brown0314"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@macybrownnnn"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Katy",
+        "last_name": "Eidle",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F9%2F6%2Fheadshot-placeholder_300x400-v2_3fJza.jpg&width=100&height=100&gravity=north",
+        "school": "Hersey",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "katyeidle",
+                    "bio": "Katy Eidle\n",
+                    "followers": 1517,
+                    "instagram picture": "https://scontent-mia3-2.cdninstagram.com/v/t51.2885-19/371261405_258435580408135_3397389251061838559_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=107&_nc_ohc=foncWXMXCmIAX8YhBuF&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDL6h0EXpDrmeX8czALK4J1QXg0_cxFdbwjrnO-JVrIRw&oe=6506AD51&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/katy-eidle-57365126a"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Laila",
+        "last_name": "Phelia",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2022%2F10%2F7%2F20221007_bkw_phelia.jpg&width=100&height=100&gravity=north",
+        "school": "Mount Notre Dame",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "lailaphelia",
+                    "bio": "Laila Phelia\n@umichwbball \u2022 \ud83c\uddfa\ud83c\uddf8\ud83c\uddf5\ud83c\udded Business Inquiries: teamlaila@excelsm.com",
+                    "followers": 55137,
+                    "instagram picture": "https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-19/302401653_5386101038139621_4617470388937367936_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=109&_nc_ohc=QpHbW-y07RgAX-vCUeI&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBaA86H3ntDw6bndwSTXVbaWvCLrdCGSb0_7EYLVxv2TA&oe=65071DC3&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/laila-phelia-234228242"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@lailaphelia"
+            ],
+            "facebook": [
+                "https://m.facebook.com/laila.phelia/"
+            ]
+        }
+    },
+    {
+        "first_name": "Jordan",
+        "last_name": "Hobbs",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2022%2F10%2F7%2F20221007_bkw_hobbs.jpg&width=100&height=100&gravity=north",
+        "school": "Springboro",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "j_hobbss",
+                    "bio": "Jordan Hobbs\n@umichwbball | psalms 46:10",
+                    "followers": 3161,
+                    "instagram picture": "https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-19/353747142_172587152250086_4971979632621174958_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=102&_nc_ohc=9tzlYJSzqP0AX8zIio1&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfA9jPNPG7Wo3v9OR5QqzxxKVkmDLJqElQZUc2Q7EGQA1g&oe=6506BBF3&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/jordan-hobbs-245202251"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@j.hobbss"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Greta",
+        "last_name": "Kampschroeder",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2022%2F10%2F7%2F20221007_bkw_kampschroeder.jpg&width=100&height=100&gravity=north",
+        "school": "Naperville North",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "gretakamp",
+                    "bio": "Greta Kampschroeder\numich wbb\u303d\ufe0f Chicagoland\ud83e\udd0d",
+                    "followers": 4552,
+                    "instagram picture": "https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-19/358172749_1481279515944200_1378486414684861467_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=108&_nc_ohc=twBpZwsTQX4AX9tMwSY&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfA1fHHQKC-gHZK9oYRNE5Q1QjB9PlrbkiTMWjRgNYQgSA&oe=6506A7CD&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/greta-kampschroeder-a36393270"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Alyssa",
+        "last_name": "Crockett",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2022%2F10%2F7%2F20221007_bkw_crockett.jpg&width=100&height=100&gravity=north",
+        "school": "Westfield",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "alyssaacrockett",
+                    "bio": "Alyssa Crockett\n@umichwbball \ud83d\ude07",
+                    "followers": 2157,
+                    "instagram picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/352813901_931467551415449_4233030932836036871_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105&_nc_ohc=5szSQFuEn_UAX8xVtOH&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCEDYYzcygiwUYRjhulatFeYxxMJq8IlnhaG6dLytQd1w&oe=65070BBE&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@alyssacrockettt"
+            ],
+            "facebook": [
+                "https://www.facebook.com/alyssa.crockett.750/"
+            ]
+        }
+    },
+    {
+        "first_name": "Taylor",
+        "last_name": "Woodson",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F9%2F6%2Fheadshot-placeholder_300x400-v2_3fJza.jpg&width=100&height=100&gravity=north",
+        "school": "Hopkins",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "_taylorwoodson",
+                    "bio": "Taylor Woodson\nMn | Mi @umichwbball",
+                    "followers": 7622,
+                    "instagram picture": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/363265034_613283044262230_6577225083519637764_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=110&_nc_ohc=Zlsxc_RvdmoAX_O6Pjn&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfAgTwOGfq0icjHfS9F16ZCzM-QLs0bH-DtRHmPNd98UAg&oe=65074114&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/taylor-woodson-9b43ba294"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Chyra",
+        "last_name": "Evans",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2022%2F10%2F7%2F20221007_bkw_evans.jpg&width=100&height=100&gravity=north",
+        "school": "Lake Ginninderra Canberra",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "chyra.evans",
+                    "bio": "Chyra Evans\n@umichwbball @ce22._",
+                    "followers": 3326,
+                    "instagram picture": "https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/375653941_847481380151812_3206148210213461603_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=104&_nc_ohc=SGj29dLg14YAX9dlN3T&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfAVeZxI5y4oA-FTJS_CZX0zmCiUpbeqmyliUAXdlJl5qg&oe=65076FA4&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/cheryl-evans-6236b731"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Whitney",
+        "last_name": "Sollom",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2022%2F10%2F7%2F20221007_bkw_sollom.jpg&width=100&height=100&gravity=north",
+        "school": "Hartland",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "whitney_sollom",
+                    "bio": "Whitney Sollom\nJeremiah 29:11 \u271e | L Michigan women\u2019s basketball #25 @playbookedapp Athlete",
+                    "followers": 7011,
+                    "instagram picture": "https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/306275331_5053753064729409_6458294403306511259_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=109&_nc_ohc=VLdBOKzAdakAX_FDg9s&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCdzJEiyBGuSDVmHCob6sfE2GlMrdFcOIiuCYiOXVUpdg&oe=65061968&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/whitney.sollom.3/"
+            ]
+        }
+    },
+    {
+        "first_name": "Elise",
+        "last_name": "Stuck",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2022%2F10%2F7%2F20221007_bkw_stuck.jpg&width=100&height=100&gravity=north",
+        "school": "Charlevoix",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "elisestuckk",
+                    "bio": "Elise Stuck\n@umichwbball chx, mi",
+                    "followers": 2080,
+                    "instagram picture": "https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/337469821_771687691054170_2952738305304542459_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=106&_nc_ohc=cPkB2SKGDiQAX_2I6B_&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBeJSMCqyETP9ZDvBo0IGoC3dXt8OzAvRjtZz75CDYwLw&oe=65061259&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Taylor",
+        "last_name": "Williams",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F9%2F6%2Fheadshot-placeholder_300x400-v2_3fJza.jpg&width=100&height=100&gravity=north",
+        "school": "Dakota",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "taybabyy_33",
+                    "bio": "Taylor Williams\n@umichwbball",
+                    "followers": 1998,
+                    "instagram picture": "https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/355459212_144739191957331_3860004540688696277_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=107&_nc_ohc=RY5pxzTYxy4AX-XpwCh&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDoJB2UN0mb8l4rjmyihvciq_q2Z9mAmdkD8rMTFZa3og&oe=65061C73&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/taylor-williams-143561221",
+                "https://www.linkedin.com/in/taylor-williams-73950b189"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/taylorwilliamss/"
+            ]
+        }
+    },
+    {
+        "first_name": "Cameron",
+        "last_name": "Williams",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2022%2F10%2F7%2F20221007_bkw_williams.jpg&width=100&height=100&gravity=north",
+        "school": "Whitney Young",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-basketball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "cameron.williams34",
+                    "bio": "Cameron Williams\nchicago umich wbb \u303d\ufe0f",
+                    "followers": 23997,
+                    "instagram picture": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/350252425_1033981570899806_8762522399926766099_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=oz2fM4FjK3cAX-UzVEb&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBrmwJbU2tAH5NOn9RUSQf5hOhuwhjg4FBBuBUzgE4rVQ&oe=65068AC7&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/cameron-williams-28132540"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@cameronwilliams.34"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Claire",
+        "last_name": "Heddings",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F14%2F20230814-sow-heddings.jpg&width=100&height=100&gravity=north",
+        "school": "Oak Meadow",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/claireheddings/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/claire-heddings-91a271285"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@claireheddings"
+            ],
+            "facebook": [
+                "https://www.facebook.com/clairehedding123/"
+            ]
+        }
+    },
+    {
+        "first_name": "Stephanie",
+        "last_name": "Sparkowski",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F14%2F20230814-sow-sparkowski.jpg&width=100&height=100&gravity=north",
+        "school": "East Meadow",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/stephaniesparkowski/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/stephanie-sparkowski-241a81256"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@stephsparkowski"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Sophie",
+        "last_name": "Homan",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F14%2F20230814-sow-homan.jpg&width=100&height=100&gravity=north",
+        "school": "Stoney Creek",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/sophiehoman_/",
+                "https://www.instagram.com/sophiehoman1/"
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@sophie.homan"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Abby",
+        "last_name": "Zugay",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F14%2F20230814-sow-zugay.jpg&width=100&height=100&gravity=north",
+        "school": "Pioneer",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/abby-zugay-036b69251"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@abby.zugay"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Sammi",
+        "last_name": "Woods",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F14%2F20230814-sow-woods.jpg&width=100&height=100&gravity=north",
+        "school": "Saline",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/sammiiwoods/",
+                "https://www.instagram.com/sammiwoodss/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/samantha-woods-83840515a"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Lilley",
+        "last_name": "Bosley",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F14%2F20230814-sow-bosley.jpg&width=100&height=100&gravity=north",
+        "school": "Stoney Creek",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/lilleybosley/",
+                "https://www.instagram.com/lilleybos_soccer/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Kali",
+        "last_name": "Burrell",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F14%2F20230814-sow-burrell.jpg&width=100&height=100&gravity=north",
+        "school": "Evanston",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/kaliburrell/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/kali-burrell-41b196263"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Kacey",
+        "last_name": "Lawrence",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F14%2F20230814-sow-lawrence.jpg&width=100&height=100&gravity=north",
+        "school": "Masuk",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/kaceylawrence_/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/kacey-lawrence-791681206"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/kacey.lawrence.1800/"
+            ]
+        }
+    },
+    {
+        "first_name": "Jasmine",
+        "last_name": "Raines",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F14%2F20230814-sow-raines.jpg&width=100&height=100&gravity=north",
+        "school": "Alpharetta",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/jasmine-raines-87a5561a6"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@jasmineraines5"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Taylor",
+        "last_name": "Brennan",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F14%2F20230814-sow-brennan.jpg&width=100&height=100&gravity=north",
+        "school": "Council Rock North",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/taylor-brennan-0b1598271"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@tay.brennan"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Zoey",
+        "last_name": "Milton",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F14%2F20230814-sow-milton.jpg&width=100&height=100&gravity=north",
+        "school": "Newark",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/zoeym__/"
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@zoeymilton_9"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Campbell",
+        "last_name": "Jewell",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F14%2F20230814-sow-jewell.jpg&width=100&height=100&gravity=north",
+        "school": "Preble Shawnee",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/jewel__ann/"
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@campbellsoupers"
+            ],
+            "facebook": [
+                "https://www.facebook.com/campbell.jewell.9/"
+            ]
+        }
+    },
+    {
+        "first_name": "Christa",
+        "last_name": "Hayden",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F14%2F20230814-sow-hayden.jpg&width=100&height=100&gravity=north",
+        "school": "Santa Margarita Catholic",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/christa.hayden/"
+            ],
+            "linkedin": [],
+            "tiktok": [
+                "https://www.tiktok.com/@hayden_and_yoshi"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Tamia",
+        "last_name": "Tolbert",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F14%2F20230814-sow-tolbert.jpg&width=100&height=100&gravity=north",
+        "school": "The Episcopal School of Dallas",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/gottaluvmiam/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/tamia-tolbert-74687327a"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/4604571276284718/"
+            ]
+        }
+    },
+    {
+        "first_name": "Syah",
+        "last_name": "Mangat",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F14%2F20230814-sow-mangat.jpg&width=100&height=100&gravity=north",
+        "school": "Burnaby Central Secondary",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/syahmangat/"
+            ],
+            "linkedin": [],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Sarah",
+        "last_name": "Bridenstine",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F14%2F20230814-sow-bridenstine.jpg&width=100&height=100&gravity=north",
+        "school": "Rochester Adams",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/sarah_bridenstine/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/sarah-bridenstine-9a666622b"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Gabrielle",
+        "last_name": "Prych",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F14%2F20230814-sow-prych.jpg&width=100&height=100&gravity=north",
+        "school": "San Marcos",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/gabrielleprych/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/gabrielle-lilly-a488391b7"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Ella",
+        "last_name": "Sims",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F14%2F20230814-sow-sims.jpg&width=100&height=100&gravity=north",
+        "school": "Aragon",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/ellaesimms/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/ella-simms-1359b1234"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@faellasims"
+            ],
+            "facebook": [
+                "https://m.facebook.com/ella.simms.9085/"
+            ]
+        }
+    },
+    {
+        "first_name": "Avery",
+        "last_name": "Kalitta",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F14%2F20230814-sow-kalitta.jpg&width=100&height=100&gravity=north",
+        "school": "Washtenaw Christian Academy",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/averykalitta/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/avery-kalitta-a7a572263"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Sam",
+        "last_name": "Suplee",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F14%2F20230814-sow-suplee.jpg&width=100&height=100&gravity=north",
+        "school": "Browne & Nichols",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/sam.suplee/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/samantha-suplee-65b955260"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Vickie",
+        "last_name": "Jones",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F14%2F20230814-sow-jones.jpg&width=100&height=100&gravity=north",
+        "school": "Arroyo",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/magicgirl_1/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/vickie-jones-5927813b"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/vickie.moseleyjones/"
+            ]
+        }
+    },
+    {
+        "first_name": "Katie",
+        "last_name": "Mallory",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F14%2F20230814-sow-mallory.jpg&width=100&height=100&gravity=north",
+        "school": "Druid Hills",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/krmallory/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/katie-mallory-a16a0a5"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@superkatiekitty"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Sierra",
+        "last_name": "Sargent",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F14%2F20230814-sow-sargent.jpg&width=100&height=100&gravity=north",
+        "school": "Mira Costa",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/sierra-sargent-a34238280"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@uofmichigan"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Avery",
+        "last_name": "Peters",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F14%2F20230814-sow-peters.jpg&width=100&height=100&gravity=north",
+        "school": "Mason",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/averypeterscheer/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/avery-peters-bb9131265"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://www.facebook.com/avery.peters.775/"
+            ]
+        }
+    },
+    {
+        "first_name": "Jenna",
+        "last_name": "Lang",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F14%2F20230814-sow-lang.jpg&width=100&height=100&gravity=north",
+        "school": "Columbus North",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/jenna-lang-955810268"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@jenna.langg",
+                "https://www.tiktok.com/@jenna_lang_"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Stella",
+        "last_name": "Tapia",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F14%2F20230814-sow-tapia.jpg&width=100&height=100&gravity=north",
+        "school": "Montclair",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/stella_tapia/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/stella-tapia-287a9a299"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@stellamaristapia1"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Aniyah",
+        "last_name": "League",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F14%2F20230814-sow-league.jpg&width=100&height=100&gravity=north",
+        "school": "Cypress",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-soccer",
+        "social": {
+            "instagram": [
+                "https://www.instagram.com/aniyahleague/"
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/aniyah-league-6ab746272"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Serena",
+        "last_name": "Nyambio",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F15%2F20230815-vbw-nyambio.jpg&width=100&height=100&gravity=north",
+        "school": "Detroit Country Day School",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "serena.nyambio",
+                    "bio": "Serena Nyambio\n@umichvball #1 || \ud83c\udde8\ud83c\uddf2",
+                    "followers": 2922,
+                    "instagram picture": "https://instagram.fosu2-1.fna.fbcdn.net/v/t51.2885-19/365812101_794992388774172_1910974891714943664_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fosu2-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=TAXU9RTsnvoAX8xGGjQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDngYYsno9Znir1M5RgjBfu7ThY-5RYCYQu0DoqBnzCNA&oe=6507B7D1&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/serena-nyambio-097218275"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@serenarabie"
+            ],
+            "facebook": [
+                "https://m.facebook.com/serena.nyambio/"
+            ]
+        }
+    },
+    {
+        "first_name": "Allison",
+        "last_name": "Jacobs",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F15%2F20230815-vbw-jacobs.jpg&width=100&height=100&gravity=north",
+        "school": "West Ranch",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "allisonajacobs",
+                    "bio": "Allison Jacobs\n@umichvball #2 los angeles, ca usa volleyball world champ",
+                    "followers": 5015,
+                    "instagram picture": "https://instagram.fosu2-2.fna.fbcdn.net/v/t51.2885-19/361897432_752292476670874_7973501628792443365_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fosu2-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=4ZSxCDFpGC0AX9-lqAO&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfA736m6jBepPnH-xkHiSH8x5Oj2Ke4cv49onRpxBc9t1w&oe=6506C5E3&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/allisonajacobs"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@allisonjacobss"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Brooke",
+        "last_name": "Humphrey",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F15%2F20230815-vbw-humphrey.jpg&width=100&height=100&gravity=north",
+        "school": "McCutcheon",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "_brookehumphrey",
+                    "bio": "Brooke Humphrey\numich vball #3 tiktok: br00kehumphrey @whybars athlete",
+                    "followers": 4097,
+                    "instagram picture": "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/367362010_806158887637467_3292235350518589575_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=103&_nc_ohc=BgsIqAVWMlkAX8cUSPh&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBcsMWLPMp17ivs9uIUVpNwXk03PqkvW9I7vnwqIf6trg&oe=65077697&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/brooke-humphrey-00a236280"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@br00kehumphrey"
+            ],
+            "facebook": [
+                "https://m.facebook.com/photo.php"
+            ]
+        }
+    },
+    {
+        "first_name": "Scottee",
+        "last_name": "Johnson",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F15%2F20230815-vbw-johnson-scottee.jpg&width=100&height=100&gravity=north",
+        "school": "Centerville",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "scottee.johnson",
+                    "bio": "Scottee Johnson\nUniversity of Michigan Volleyball #4",
+                    "followers": 2210,
+                    "instagram picture": "https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/365921418_822690662767387_8737052537919940312_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=107&_nc_ohc=W1hn_OSSUroAX-MJe16&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDEEqoXOgzVD7Ld1XOCEbztueyG-6FgF_cjPqLfuFnqZw&oe=6506C248&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/scott-johnson-7a55bb114"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Lydia",
+        "last_name": "Johnson",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F15%2F20230815-vbw-johnson-lydia.jpg&width=100&height=100&gravity=north",
+        "school": "Ross Sheppard",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "lydiaxjohnson",
+                    "bio": "Lydia Johnson\nteam canada \ud83c\udde8\ud83c\udde6 @umichvball #5",
+                    "followers": 1638,
+                    "instagram picture": "https://instagram.fagc3-1.fna.fbcdn.net/v/t51.2885-19/346697526_2274526689396998_7023833013804679922_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fagc3-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=kE8A1uHopCQAX-oRLzn&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfA_7SQNxF7Y6HJqIcyCz7vTNdhnWOF53Sq4ZQHANDve0Q&oe=6506625E&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/lydia-johnson-429348193",
+                "https://www.linkedin.com/in/lydia-johnson-ba887b285"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/lydia.johnson.54922169/"
+            ]
+        }
+    },
+    {
+        "first_name": "Saj",
+        "last_name": "McBurrows",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F15%2F20230815-vbw-mcburrows.jpg&width=100&height=100&gravity=north",
+        "school": "Pinnacle",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "sajelle",
+                    "bio": "Saj McBurrows\n@umichvball # 6 \u303d\ufe0f @culionsvb alumna \u201823",
+                    "followers": 3086,
+                    "instagram picture": "https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/366449147_675227357962675_2166119733478292369_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=107&_nc_ohc=M4FD3lgX0UgAX-5O2HD&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBi6JO_1HMKGkLzQ3J2Rf1IhJaFeK5xfIprDV3sErR6RA&oe=6505FB9D&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/sajmcburrows"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/story.php"
+            ]
+        }
+    },
+    {
+        "first_name": "Morgan",
+        "last_name": "Burke",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F15%2F20230815-vbw-burke.jpg&width=100&height=100&gravity=north",
+        "school": "Skutt Catholic",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "morgan__burke",
+                    "bio": "Morgan Burke\nNebraska | @umichvball #7",
+                    "followers": 2739,
+                    "instagram picture": "https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/367434656_312003461186991_337203339905532239_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=103&_nc_ohc=FugU6ykTP1AAX_8BYqf&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDf9gh1kqag29rYlyh7XE8dbOm6VQj1_5CltidLuu4S3Q&oe=65070E38&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/morgan-burke-023669159"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@morgan__burke"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Mira",
+        "last_name": "Chopra",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F15%2F20230815-vbw-chopra.jpg&width=100&height=100&gravity=north",
+        "school": "Champaign Central",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "mira_chopra",
+                    "bio": "Mira Chopra\n@umichvball #8\u303d\ufe0f",
+                    "followers": 3530,
+                    "instagram picture": "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-19/361162732_842186093603896_2664894271696294560_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=104&_nc_ohc=-k624grCof4AX_sm810&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBWjgYMkSmSdkQS92Gyl9CnV3-i7gnX87iZJ-8302Y53A&oe=65078A7C&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/mira-chopra-1b4933237"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@mira_chopra"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Hannah",
+        "last_name": "Grant",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F15%2F20230815-vbw-grant.jpg&width=100&height=100&gravity=north",
+        "school": "Northville",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "hannah_grant3",
+                    "bio": "Hannah Grant\numich volleyball #9",
+                    "followers": 3542,
+                    "instagram picture": "https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/340339756_1272210080353329_2575042049031528347_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=109&_nc_ohc=J546dplbUnsAX95dvag&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfAUPbRqkykt_piPmiD1HvD_tHlbpqySaoFhw3dxmqVR3A&oe=6507964F&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/hannah-grant-a37944232"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Carly",
+        "last_name": "Greskovics",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F15%2F20230815-vbw-greskovics.jpg&width=100&height=100&gravity=north",
+        "school": "Mira Costa",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "carlygreskovics",
+                    "bio": "Carly Greskovics\nmanhattan beach\ud83d\udda4 @umichvball",
+                    "followers": 2482,
+                    "instagram picture": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-19/374765478_998889874791449_4166493613982185665_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=105&_nc_ohc=vfEWGoOMPG8AX_ALYH0&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBhz6sgwuG8IY9jLPKhiCBz6cCulj70_MhOSkluj3HwzQ&oe=65069D96&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/carly-greskovics-362488293"
+            ],
+            "tiktok": [],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Amalia",
+        "last_name": "Simmons",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F15%2F20230815-vbw-simmons.jpg&width=100&height=100&gravity=north",
+        "school": "Moon Area",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "molly.simmo",
+                    "bio": "Amalia Simmons\npittsburgh || @umichvball #11 \ud83c\uddf9\ud83c\uddf9",
+                    "followers": 1907,
+                    "instagram picture": "https://instagram.fsac1-1.fna.fbcdn.net/v/t51.2885-19/366112944_1017570082990500_1869578378292883764_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=3RyMDkPMR6EAX8gtjYv&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDgoJ8dh9GZQqkhXwYZPzC6xBDnyVCszwrgLjIu236WQQ&oe=6506ED1F&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/amalia-simmons-b79520263"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@amelia.simmonss"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Valentina",
+        "last_name": "Vaulet",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F15%2F20230815-vbw-vaulet.jpg&width=100&height=100&gravity=north",
+        "school": "EEM N3 de 10",
+        "instagram": null,
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [],
+            "linkedin": [
+                "https://www.linkedin.com/in/valentina-micaela-vaulet-018a5a284"
+            ],
+            "tiktok": [],
+            "facebook": [
+                "https://m.facebook.com/photo.php"
+            ]
+        }
+    },
+    {
+        "first_name": "Jacque",
+        "last_name": "Boney",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F15%2F20230815-vbw-boney.jpg&width=100&height=100&gravity=north",
+        "school": "St. Francis",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "jacque.boney_",
+                    "bio": "Jacque Boney\n@umichvball",
+                    "followers": 3644,
+                    "instagram picture": "https://instagram.ftpa1-2.fna.fbcdn.net/v/t51.2885-19/284587890_557117475797500_125993156302735554_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.ftpa1-2.fna.fbcdn.net&_nc_cat=104&_nc_ohc=ymY4iCAy59MAX9nY46J&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDGW7HQYmk3OWjN_twQNH90z0Vnfd-a-gY4W6O6RQ7R4w&oe=65072C4D&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/jacqueboney"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@jacqueboney"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Maddi",
+        "last_name": "Cuchran",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F15%2F20230815-vbw-cuchran.jpg&width=100&height=100&gravity=north",
+        "school": "Downers Grove North",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "maddi.cuchran",
+                    "bio": "Maddi Cuchran\n@umichvball #19 @gettrizzy #pfb",
+                    "followers": 2260,
+                    "instagram picture": "https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/365024863_729169348968298_8832264241645412693_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=110&_nc_ohc=Cl80MjjI2LgAX-Zfyeu&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfB8lFT4VpgMaVcosg9FaHUGjCJKE692r9FK6QtgmluGyw&oe=65070D8B&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/madison-cuchran-00134a1b5"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@maddi.cuchran"
+            ],
+            "facebook": []
+        }
+    },
+    {
+        "first_name": "Kendall",
+        "last_name": "Murray",
+        "profile picture": "https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fmgoblue.com%2Fimages%2F2023%2F8%2F15%2F20230815-vbw-murray.jpg&width=100&height=100&gravity=north",
+        "school": "Skyline",
+        "university": "Univeristy of Michigan",
+        "city": "Ann Arbor",
+        "state": "Michigan",
+        "major": "womens-volleyball",
+        "social": {
+            "instagram": [
+                {
+                    "username": "kendall.murray",
+                    "bio": "Kendall Murray\n@umichvball #27 @omitmodels",
+                    "followers": 7438,
+                    "instagram picture": "https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/368212432_1065406828176766_8198573716517160683_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=110&_nc_ohc=7b2zjBJKnVYAX8I2Dhn&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfC13MrufYQQtDmH0Q9R8dHtp9NwUc6AKEFhTwfo60N_TA&oe=6506B374&_nc_sid=8b3546"
+                }
+            ],
+            "linkedin": [
+                "https://www.linkedin.com/in/kendall-murray-b74607225"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@kendall.murray"
+            ],
+            "facebook": [
+                "https://www.facebook.com/kendall.murray.3939/"
+            ]
+        }
+    }
+]
